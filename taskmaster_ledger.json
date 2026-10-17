@@ -1,0 +1,16 @@
+{
+  "schema_version": "opus-expert-ledger-v1",
+  "jobs": [
+    {
+      "project_id": "P3101713Fp8D",
+      "group_id": "group_001",
+      "candidate_ids": [
+        "w002_p1"
+      ],
+      "source_window": [
+        419.56,
+        492.2
+      ]
+    }
+  ]
+}

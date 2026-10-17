@@ -1,0 +1,1744 @@
+{
+  "schema_version": "podcast-v1",
+  "media_sha256": "8c4e2a07e7f60cafc285ac22ea0e1da0679dae689d049dccb8f93923931932a4",
+  "language": "en",
+  "timestamp_source": "PROVIDER_ALIGNED_WORDS",
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.179,
+      "text": "We",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 0.179,
+      "end": 0.74,
+      "text": "received",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 0.74,
+      "end": 1.22,
+      "text": "several",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 1.22,
+      "end": 1.62,
+      "text": "calls",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 1.62,
+      "end": 1.94,
+      "text": "about",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 1.94,
+      "end": 2.5,
+      "text": "you",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 2.5,
+      "end": 2.899,
+      "text": "touching",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 2.899,
+      "end": 3.38,
+      "text": "yourself",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 3.38,
+      "end": 3.819,
+      "text": "out",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 3.819,
+      "end": 4.819,
+      "text": "here.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 4.819,
+      "end": 5.78,
+      "text": "Okay.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 5.78,
+      "end": 5.94,
+      "text": "Was",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 5.94,
+      "end": 6.179,
+      "text": "it",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 6.179,
+      "end": 6.26,
+      "text": "just",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 6.26,
+      "end": 6.42,
+      "text": "an",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 6.42,
+      "end": 6.819,
+      "text": "impulse",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 6.819,
+      "end": 7.06,
+      "text": "thing?",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 7.06,
+      "end": 7.3,
+      "text": "Like",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 7.3,
+      "end": 7.459,
+      "text": "did",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 7.459,
+      "end": 7.62,
+      "text": "you",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 7.62,
+      "end": 7.86,
+      "text": "just",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 7.86,
+      "end": 8.02,
+      "text": "I",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 8.02,
+      "end": 10.58,
+      "text": "mean",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 10.58,
+      "end": 10.899,
+      "text": "so",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 10.899,
+      "end": 11.22,
+      "text": "why",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 11.22,
+      "end": 11.539,
+      "text": "why",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 11.539,
+      "end": 11.86,
+      "text": "would",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 11.86,
+      "end": 12.099,
+      "text": "all",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 12.099,
+      "end": 12.42,
+      "text": "these",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 12.42,
+      "end": 12.58,
+      "text": "people",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 12.58,
+      "end": 12.819,
+      "text": "on",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 12.819,
+      "end": 13.34,
+      "text": "this",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 13.34,
+      "end": 14.34,
+      "text": "beach",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 14.34,
+      "end": 14.58,
+      "text": "for",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 14.58,
+      "end": 14.739,
+      "text": "some",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 14.739,
+      "end": 15.06,
+      "text": "reason",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 15.06,
+      "end": 15.3,
+      "text": "just",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 15.3,
+      "end": 15.62,
+      "text": "describe",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 15.62,
+      "end": 15.78,
+      "text": "a",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 15.78,
+      "end": 16.02,
+      "text": "male",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 16.02,
+      "end": 16.099,
+      "text": "with",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 16.099,
+      "end": 16.34,
+      "text": "a",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 16.34,
+      "end": 16.66,
+      "text": "tan",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 16.66,
+      "end": 17.62,
+      "text": "hoodie",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 17.62,
+      "end": 18.459,
+      "text": "camo",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 18.459,
+      "end": 19.459,
+      "text": "pants",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 19.459,
+      "end": 19.94,
+      "text": "exposing",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 19.94,
+      "end": 20.26,
+      "text": "himself",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 20.26,
+      "end": 20.42,
+      "text": "on",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 20.42,
+      "end": 20.58,
+      "text": "the",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 20.58,
+      "end": 20.819,
+      "text": "beach?",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 20.819,
+      "end": 20.98,
+      "text": "Why",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 20.98,
+      "end": 21.14,
+      "text": "why",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 21.14,
+      "end": 21.22,
+      "text": "would",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 21.22,
+      "end": 21.38,
+      "text": "they",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 21.38,
+      "end": 21.539,
+      "text": "do",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 21.539,
+      "end": 21.7,
+      "text": "why",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 21.7,
+      "end": 21.86,
+      "text": "would",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 21.86,
+      "end": 21.94,
+      "text": "they",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 21.94,
+      "end": 22.099,
+      "text": "just",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 22.099,
+      "end": 22.179,
+      "text": "make",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 22.179,
+      "end": 22.34,
+      "text": "that",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 22.34,
+      "end": 22.5,
+      "text": "up",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 22.5,
+      "end": 22.66,
+      "text": "out",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 22.66,
+      "end": 22.739,
+      "text": "of",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 22.739,
+      "end": 22.899,
+      "text": "all",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 22.899,
+      "end": 23.06,
+      "text": "the",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 23.06,
+      "end": 23.14,
+      "text": "people",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 23.14,
+      "end": 23.3,
+      "text": "on",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 23.3,
+      "end": 23.459,
+      "text": "this",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 23.459,
+      "end": 23.7,
+      "text": "beach?",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 23.7,
+      "end": 23.86,
+      "text": "It's",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 23.86,
+      "end": 23.94,
+      "text": "a",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 23.94,
+      "end": 24.42,
+      "text": "lie.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 24.42,
+      "end": 24.66,
+      "text": "It's",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 24.66,
+      "end": 24.819,
+      "text": "a",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 24.819,
+      "end": 26.34,
+      "text": "lie.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 26.34,
+      "end": 26.78,
+      "text": "So",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 26.78,
+      "end": 27.78,
+      "text": "So",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 27.78,
+      "end": 28.099,
+      "text": "everybody",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 28.099,
+      "end": 28.26,
+      "text": "else",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 28.26,
+      "end": 28.42,
+      "text": "that",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 28.42,
+      "end": 28.819,
+      "text": "randomly",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 28.819,
+      "end": 29.06,
+      "text": "doesn't",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 29.06,
+      "end": 29.14,
+      "text": "know",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 29.14,
+      "end": 29.3,
+      "text": "you",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 29.3,
+      "end": 29.539,
+      "text": "is",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 29.539,
+      "end": 32.539,
+      "text": "lying.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 32.98,
+      "end": 33.14,
+      "text": "Why",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 33.14,
+      "end": 33.3,
+      "text": "would",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 33.3,
+      "end": 33.459,
+      "text": "they",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 33.459,
+      "end": 33.62,
+      "text": "lie",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 33.62,
+      "end": 33.86,
+      "text": "about",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 33.86,
+      "end": 36.42,
+      "text": "that?",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 36.42,
+      "end": 37.22,
+      "text": "myself.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 37.22,
+      "end": 37.459,
+      "text": "What's",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 37.459,
+      "end": 37.94,
+      "text": "that?",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 37.94,
+      "end": 38.099,
+      "text": "I",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 38.099,
+      "end": 38.26,
+      "text": "did",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 38.26,
+      "end": 38.58,
+      "text": "not",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 38.58,
+      "end": 40.179,
+      "text": "swim.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 40.179,
+      "end": 42.58,
+      "text": "Okay.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 42.58,
+      "end": 43.06,
+      "text": "Yeah.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 43.06,
+      "end": 43.3,
+      "text": "Stand",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 43.3,
+      "end": 43.539,
+      "text": "up,",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 43.539,
+      "end": 43.86,
+      "text": "Travis.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 43.86,
+      "end": 43.94,
+      "text": "All",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 43.94,
+      "end": 45.3,
+      "text": "right.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 45.3,
+      "end": 45.379,
+      "text": "I",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 45.379,
+      "end": 46.22,
+      "text": "swear.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 46.22,
+      "end": 47.22,
+      "text": "I",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 47.22,
+      "end": 47.459,
+      "text": "swear",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 47.459,
+      "end": 47.539,
+      "text": "to",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 47.539,
+      "end": 47.78,
+      "text": "God,",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 47.78,
+      "end": 47.86,
+      "text": "I",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 47.86,
+      "end": 47.94,
+      "text": "didn't",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 47.94,
+      "end": 48.099,
+      "text": "do",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 48.099,
+      "end": 48.42,
+      "text": "nothing",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 48.42,
+      "end": 48.739,
+      "text": "wrong,",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 48.739,
+      "end": 49.14,
+      "text": "man.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 49.14,
+      "end": 49.379,
+      "text": "There's",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 49.379,
+      "end": 50.34,
+      "text": "no",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 50.34,
+      "end": 50.66,
+      "text": "Stop.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 50.66,
+      "end": 50.899,
+      "text": "Pick",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 50.899,
+      "end": 51.06,
+      "text": "up",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 51.06,
+      "end": 51.22,
+      "text": "your",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 51.22,
+      "end": 51.539,
+      "text": "[\u00a0__\u00a0]",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 51.539,
+      "end": 51.86,
+      "text": "feet.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 51.86,
+      "end": 52.099,
+      "text": "You",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 52.099,
+      "end": 52.819,
+      "text": "dragged",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 52.819,
+      "end": 52.98,
+      "text": "your",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 52.98,
+      "end": 53.7,
+      "text": "ass.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 53.7,
+      "end": 53.86,
+      "text": "You're",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 53.86,
+      "end": 54.099,
+      "text": "taking",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 54.099,
+      "end": 54.179,
+      "text": "me",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 54.179,
+      "end": 54.34,
+      "text": "to",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 54.34,
+      "end": 54.58,
+      "text": "jail",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 54.58,
+      "end": 54.739,
+      "text": "for",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 54.739,
+      "end": 54.98,
+      "text": "no",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 54.98,
+      "end": 55.3,
+      "text": "reason,",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 55.3,
+      "end": 56.179,
+      "text": "man.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 56.179,
+      "end": 56.42,
+      "text": "That",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 56.42,
+      "end": 56.739,
+      "text": "ain't",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 56.739,
+      "end": 57.06,
+      "text": "right,",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 57.06,
+      "end": 57.459,
+      "text": "man.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 57.459,
+      "end": 57.78,
+      "text": "Shut",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 57.78,
+      "end": 58.42,
+      "text": "up.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 58.42,
+      "end": 58.819,
+      "text": "Stop.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 58.819,
+      "end": 59.06,
+      "text": "Please",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 59.06,
+      "end": 59.22,
+      "text": "don't",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 59.22,
+      "end": 59.379,
+      "text": "take",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 59.379,
+      "end": 59.539,
+      "text": "me",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 59.539,
+      "end": 59.62,
+      "text": "to",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 59.62,
+      "end": 59.86,
+      "text": "jail.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 59.86,
+      "end": 59.94,
+      "text": "I",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 59.94,
+      "end": 60.099,
+      "text": "didn't",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 60.099,
+      "end": 60.26,
+      "text": "do",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 60.26,
+      "end": 60.42,
+      "text": "nothing",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 60.42,
+      "end": 60.58,
+      "text": "wrong.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 60.58,
+      "end": 60.739,
+      "text": "Well,",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 60.739,
+      "end": 60.899,
+      "text": "you're",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 60.899,
+      "end": 61.06,
+      "text": "going",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 61.06,
+      "end": 61.22,
+      "text": "to",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 61.22,
+      "end": 61.459,
+      "text": "[\u00a0__\u00a0]",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 61.459,
+      "end": 62.099,
+      "text": "jail.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 62.099,
+      "end": 62.34,
+      "text": "For",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 62.34,
+      "end": 62.739,
+      "text": "what,",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 62.739,
+      "end": 62.98,
+      "text": "sir?",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 62.98,
+      "end": 63.14,
+      "text": "I",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 63.14,
+      "end": 63.3,
+      "text": "didn't",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 63.3,
+      "end": 63.459,
+      "text": "do",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 63.459,
+      "end": 63.78,
+      "text": "that,",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 63.78,
+      "end": 64.819,
+      "text": "dude.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 64.819,
+      "end": 65.06,
+      "text": "I",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 65.06,
+      "end": 65.3,
+      "text": "swear",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 65.3,
+      "end": 65.459,
+      "text": "I",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 65.459,
+      "end": 65.62,
+      "text": "didn't",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 65.62,
+      "end": 65.86,
+      "text": "do",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 65.86,
+      "end": 66.019,
+      "text": "but",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 66.019,
+      "end": 66.099,
+      "text": "I",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 66.099,
+      "end": 66.42,
+      "text": "sp",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 66.42,
+      "end": 66.739,
+      "text": "myself.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 66.739,
+      "end": 66.899,
+      "text": "I",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 66.899,
+      "end": 67.86,
+      "text": "swear",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 67.86,
+      "end": 68.099,
+      "text": "look",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 68.099,
+      "end": 68.26,
+      "text": "at",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 68.26,
+      "end": 68.66,
+      "text": "myself.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 68.66,
+      "end": 68.819,
+      "text": "Look",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 68.819,
+      "end": 68.98,
+      "text": "at",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 68.98,
+      "end": 69.459,
+      "text": "my",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 69.459,
+      "end": 69.78,
+      "text": "spread",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 69.78,
+      "end": 69.94,
+      "text": "your",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 69.94,
+      "end": 70.34,
+      "text": "feet.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 70.34,
+      "end": 70.58,
+      "text": "I",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 70.58,
+      "end": 71.459,
+      "text": "didn't even",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 71.459,
+      "end": 71.7,
+      "text": "touch",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 71.7,
+      "end": 72.5,
+      "text": "myself.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 72.5,
+      "end": 73.3,
+      "text": "Look.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 73.3,
+      "end": 73.459,
+      "text": "Look",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 73.459,
+      "end": 74.26,
+      "text": "at",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 74.26,
+      "end": 74.42,
+      "text": "Look",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 74.42,
+      "end": 74.58,
+      "text": "at",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 74.58,
+      "end": 74.739,
+      "text": "my",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 74.739,
+      "end": 75.06,
+      "text": "pants.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 75.06,
+      "end": 75.539,
+      "text": "Relax.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 75.539,
+      "end": 76.099,
+      "text": "Relax.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 76.099,
+      "end": 76.26,
+      "text": "I",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 76.26,
+      "end": 76.58,
+      "text": "didn't",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 76.58,
+      "end": 77.06,
+      "text": "expose",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 77.06,
+      "end": 77.459,
+      "text": "myself,",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 77.459,
+      "end": 77.86,
+      "text": "sir.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 77.86,
+      "end": 78.019,
+      "text": "Be",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 78.019,
+      "end": 78.98,
+      "text": "careful.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 78.98,
+      "end": 79.14,
+      "text": "He",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 79.14,
+      "end": 79.62,
+      "text": "always",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 79.62,
+      "end": 79.86,
+      "text": "Please",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 79.86,
+      "end": 80.019,
+      "text": "don't",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 80.019,
+      "end": 80.099,
+      "text": "do",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 80.099,
+      "end": 80.26,
+      "text": "that",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 80.26,
+      "end": 80.5,
+      "text": "to",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 80.5,
+      "end": 81.14,
+      "text": "me.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 81.14,
+      "end": 81.62,
+      "text": "Listen,",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 81.62,
+      "end": 82.659,
+      "text": "sir.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 82.659,
+      "end": 82.9,
+      "text": "I",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 82.9,
+      "end": 83.059,
+      "text": "need",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 83.059,
+      "end": 83.219,
+      "text": "to",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 83.219,
+      "end": 83.539,
+      "text": "talk",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 83.539,
+      "end": 83.62,
+      "text": "to",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 83.62,
+      "end": 83.779,
+      "text": "the",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 83.779,
+      "end": 84.02,
+      "text": "chief",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 84.02,
+      "end": 84.26,
+      "text": "cuz",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 84.26,
+      "end": 84.58,
+      "text": "I",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 84.58,
+      "end": 84.74,
+      "text": "did",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 84.74,
+      "end": 84.98,
+      "text": "not",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 84.98,
+      "end": 85.219,
+      "text": "do",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 85.219,
+      "end": 85.46,
+      "text": "nothing",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 85.46,
+      "end": 85.939,
+      "text": "wrong,",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 85.939,
+      "end": 86.9,
+      "text": "man.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 86.9,
+      "end": 87.14,
+      "text": "I'm",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 87.14,
+      "end": 87.379,
+      "text": "My",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 87.379,
+      "end": 87.779,
+      "text": "bag's",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 87.779,
+      "end": 87.939,
+      "text": "up",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 87.939,
+      "end": 88.18,
+      "text": "there,",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 88.18,
+      "end": 88.659,
+      "text": "too.",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 88.659,
+      "end": 89.3,
+      "text": "Somebody",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 89.3,
+      "end": 89.54,
+      "text": "grabbed",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 89.54,
+      "end": 89.779,
+      "text": "my",
+      "speaker": "speaker_1",
+      "confidence": null
+    },
+    {
+      "start": 89.779,
+      "end": 92.059,
+      "text": "bag.",
+      "speaker": "speaker_1",
+      "confidence": null
+    }
+  ]
+}

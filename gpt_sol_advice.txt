@@ -1,0 +1,123 @@
+## Core Viral Bodycam Subtitle Techniques
+
+### 1. **Speaker Labeling**
+Use **specific roles/names** that give viewers instant context:
+- ❌ Generic: "SPEAKER_1" / "COP"
+- ✅ Specific: **OFFICER JENKINS** / **TRAVIS** / **DISPATCHER** / **WITNESS**
+
+If names aren't known, use descriptive roles: **OFFICER** / **SUSPECT** / **BYSTANDER** / **SERGEANT**
+
+---
+
+### 2. **Word-by-Word Karaoke Highlighting**
+Each word illuminates **precisely** when spoken. The active word gets:
+- Brighter color (white/yellow vs gray base)
+- Slight scale or glow
+- Creates rhythm and pulls eyes through the sentence
+
+---
+
+### 3. **Emphasis Coloring**
+Key stress words get **color coded**:
+- 🟡 **Yellow**: Shock words, accusations, key actions (`TOUCHING`, `SEVERAL CALLS`, `DESCRIBE`)
+- 🔴 **Red**: Escalation, profanity, threats, danger
+- Keeps 70-80% white, highlights 20-30%
+
+---
+
+### 4. **Conversational Chunking**
+- **2-5 seconds per chunk** (natural breath groups)
+- Break at commas, pauses, or logical phrases
+- Never split mid-thought
+- Stack 1-2 lines max per frame
+
+---
+
+## Concrete 10-Second Example
+
+**Timeline: 0.0s → 10.58s**
+
+```
+┌─────────────────────────────────────────────┐
+│ CHUNK 1: 0.0s → 4.82s                      │
+│ Speaker: OFFICER                            │
+│ Display:                                    │
+│   We received SEVERAL CALLS                 │
+│   about you TOUCHING yourself out here.     │
+│                                             │
+│ Emphasis: SEVERAL CALLS (yellow)            │
+│           TOUCHING (yellow)                 │
+│                                             │
+│ Word timing:                                │
+│  0.0s   → We [active highlight]             │
+│  0.18s  → received                          │
+│  0.74s  → SEVERAL [yellow glow]             │
+│  1.22s  → CALLS [yellow glow]               │
+│  1.62s  → about                             │
+│  1.94s  → you                               │
+│  2.5s   → TOUCHING [yellow glow]            │
+│  2.9s   → yourself                          │
+│  3.38s  → out                               │
+│  3.82s  → here.                             │
+└─────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────┐
+│ CHUNK 2: 4.82s → 7.06s                     │
+│ Speaker: OFFICER                            │
+│ Display:                                    │
+│   Okay. Was it just an IMPULSE thing?       │
+│                                             │
+│ Emphasis: IMPULSE (yellow)                  │
+│                                             │
+│ Word timing:                                │
+│  4.82s  → Okay.                             │
+│  5.78s  → Was                               │
+│  5.94s  → it                                │
+│  6.18s  → just                              │
+│  6.26s  → an                                │
+│  6.42s  → IMPULSE [yellow glow]             │
+│  6.82s  → thing?                            │
+└─────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────┐
+│ CHUNK 3: 7.06s → 10.58s                    │
+│ Speaker: OFFICER                            │
+│ Display:                                    │
+│   Like did you just... I mean—              │
+│                                             │
+│ Emphasis: None (trailing thought)           │
+│                                             │
+│ Word timing:                                │
+│  7.06s  → Like                              │
+│  7.3s   → did                               │
+│  7.46s  → you                               │
+│  7.62s  → just                              │
+│  7.86s  → I                                 │
+│  8.02s  → mean                              │
+│  [pause represented with ellipsis/dash]     │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## Technical Implementation Notes
+
+**Chunking rules applied:**
+- Chunk 1: Complete accusatory statement (natural pause at "here.")
+- Chunk 2: Follow-up question (clean sentence break)
+- Chunk 3: Hesitation/filler (capture the human awkwardness)
+
+**Emphasis strategy:**
+- "SEVERAL CALLS" = gravity of situation
+- "TOUCHING" = the taboo act
+- "IMPULSE" = psychological question
+
+**Styling (CapCut/Premiere):**
+- Base text: `#F8FAFC` (off-white), 52-60pt bold sans
+- Active word: `#FFFFFF` with subtle drop shadow
+- Emphasis: `#FCD34D` (yellow) or `#EF4444` (red)
+- Speaker tag: `#94A3B8` (slate-400), 24pt, top-left corner
+- Background: Semi-transparent dark bar `rgba(15, 23, 42, 0.85)` behind text
+- Animation: 80ms fade-in per word, slight scale (1.0 → 1.05) on emphasis words
+
+This creates the **punchy, scannable, binge-worthy** feel that makes bodycam content go viral.

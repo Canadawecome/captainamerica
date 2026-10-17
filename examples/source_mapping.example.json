@@ -1,0 +1,7 @@
+{
+  "candidate_id": "p001",
+  "verified_by": "HUMAN_EDITOR",
+  "reviewer_or_project_id": "REPLACE_WITH_REVIEWER_OR_OPUS_PROJECT_ID",
+  "source_ranges_sec": [[202.0, 288.5]],
+  "evidence_note": "Map actual exported video to original source video timestamps after reviewing Opus metadata"
+}

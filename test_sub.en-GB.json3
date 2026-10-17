@@ -1,0 +1,4729 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "[typewriter whirrs]"
+    } ]
+  }, {
+    "tStartMs": 2440,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "-Tickets, please!\n-[train whistles]"
+    } ]
+  }, {
+    "tStartMs": 4200,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "[theme music playing]"
+    } ]
+  }, {
+    "tStartMs": 5280,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "-[thunk]\n-Oh."
+    } ]
+  }, {
+    "tStartMs": 7280,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "[keys clacking]"
+    } ]
+  }, {
+    "tStartMs": 9480,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "-Yeah!\n-This isn't my fault."
+    } ]
+  }, {
+    "tStartMs": 11120,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "[keys clacking]"
+    } ]
+  }, {
+    "tStartMs": 12720,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "-Oh, my God.\n-Oh, my God."
+    } ]
+  }, {
+    "tStartMs": 16280,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Aah!"
+    } ]
+  }, {
+    "tStartMs": 17360,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "[phone rings]"
+    } ]
+  }, {
+    "tStartMs": 18480,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "[typewriter dings]"
+    } ]
+  }, {
+    "tStartMs": 20040,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Bloody hell."
+    } ]
+  }, {
+    "tStartMs": 21400,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "-Mum?\n-Ahh."
+    } ]
+  }, {
+    "tStartMs": 24560,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "-We did it!\n-Ah!"
+    } ]
+  }, {
+    "tStartMs": 25960,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "-I say!\n-Ha ha!"
+    } ]
+  }, {
+    "tStartMs": 29440,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "[typewriter clacking]"
+    } ]
+  }, {
+    "tStartMs": 34480,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Hello and welcome.\nWelcome to Taskmaster."
+    } ]
+  }, {
+    "tStartMs": 37920,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "The only show\nthat Sir David Attenborough"
+    } ]
+  }, {
+    "tStartMs": 39760,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "described\nas being better than nature."
+    } ]
+  }, {
+    "tStartMs": 42520,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "He did not."
+    } ]
+  }, {
+    "tStartMs": 44200,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Our five endangered species\nwill continue"
+    } ]
+  }, {
+    "tStartMs": 46320,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "to roam the puzzling plains,\nwhich of the tasks will prove"
+    } ]
+  }, {
+    "tStartMs": 49560,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "to be the hungry leopard\nthat drags them down?\nOnly time will tell."
+    } ]
+  }, {
+    "tStartMs": 53880,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And let me tell you,\nthis rhino he's ready to charge."
+    } ]
+  }, {
+    "tStartMs": 58480,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Please welcome Chloe Petts,"
+    } ]
+  }, {
+    "tStartMs": 61680,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Isy Suttie, Matt Lucas,"
+    } ]
+  }, {
+    "tStartMs": 66640,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Nina Conti and Richard Ayoade."
+    } ]
+  }, {
+    "tStartMs": 73320,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "And next to me a man\nwho told me that his\nfavourite animal is a goose"
+    } ]
+  }, {
+    "tStartMs": 77520,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "because and I quote\n'I like the way they honk\nand I like the way they bonk.'"
+    } ]
+  }, {
+    "tStartMs": 82640,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "It's... Little Alex Horne."
+    } ]
+  }, {
+    "tStartMs": 88400,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "What's not to like? Thank you.\nYeah, I do like a goose."
+    } ]
+  }, {
+    "tStartMs": 93000,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Hello. Right, what is\nthis week's prize task category?"
+    } ]
+  }, {
+    "tStartMs": 98280,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Well, yet again\nwe're appealing\nto the younger demographic"
+    } ]
+  }, {
+    "tStartMs": 101520,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "as we've asked them\nto bring in a sick bit\nof lit kit."
+    } ]
+  }, {
+    "tStartMs": 105520,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "-Ooh.\n-Yeah, I know how"
+    } ]
+  }, {
+    "tStartMs": 107120,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "the young people speak.\nI'm down with the kids, Greg."
+    } ]
+  }, {
+    "tStartMs": 110520,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "For example, I think that today\nyou look schwing."
+    } ]
+  }, {
+    "tStartMs": 115120,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "The sickest bit\nof lit kit wins five points"
+    } ]
+  }, {
+    "tStartMs": 117560,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "and five sick bits of lit kit\nwill go home with the winner\nwhich is pretty non-heinous."
+    } ]
+  }, {
+    "tStartMs": 121720,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "-Over to you my homie.\n-Ooh."
+    } ]
+  }, {
+    "tStartMs": 127640,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Chloe, what's your sick bit\nof lit kit?"
+    } ]
+  }, {
+    "tStartMs": 129840,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So all of the young, cool,\ntrendy kids"
+    } ]
+  }, {
+    "tStartMs": 131880,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "are wearing football\nshirts at the moment."
+    } ]
+  }, {
+    "tStartMs": 134480,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "How do you know?"
+    } ]
+  }, {
+    "tStartMs": 135800,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "By going on the website\ntiktok.com."
+    } ]
+  }, {
+    "tStartMs": 139080,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "-[Alex] Tik... TikTok...\n-Ever heard of it?"
+    } ]
+  }, {
+    "tStartMs": 141120,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Yeah, man. [laughs]"
+    } ]
+  }, {
+    "tStartMs": 143400,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So, I thought what's the--\nthe lit-est kit around."
+    } ]
+  }, {
+    "tStartMs": 146520,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "It's of course Alex's\nteam Chesham United."
+    } ]
+  }, {
+    "tStartMs": 148920,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Ah, the Generals.\nLet's have a look\nat the kit shall we."
+    } ]
+  }, {
+    "tStartMs": 151360,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "-Yeah.\n-Here's Chloe's\nsick bit of lit kit."
+    } ]
+  }, {
+    "tStartMs": 154000,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Okay. So far, I hate it."
+    } ]
+  }, {
+    "tStartMs": 155840,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "-Yeah, turn it round.\n-[Alex] Whoa."
+    } ]
+  }, {
+    "tStartMs": 158800,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "-[Chloe] You love QR codes.\n-[Greg] I do."
+    } ]
+  }, {
+    "tStartMs": 160840,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "-[Chloe] Got a phone on you,\nyou give it a scan?\n-Oh, I have actually."
+    } ]
+  }, {
+    "tStartMs": 164040,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Do you need me\nto help you open it, Greg?"
+    } ]
+  }, {
+    "tStartMs": 165760,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "No, granddad's\nfine thank you."
+    } ]
+  }, {
+    "tStartMs": 172120,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "[Alex] Ooh."
+    } ]
+  }, {
+    "tStartMs": 176320,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "'You're a winner,\nenjoy an evening of beer\nand burgers on us.' Good."
+    } ]
+  }, {
+    "tStartMs": 181360,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "-Yeah.\n-Sick. Alright, not bad."
+    } ]
+  }, {
+    "tStartMs": 184120,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "-Not bad at all.\n-I suspect two to three points."
+    } ]
+  }, {
+    "tStartMs": 186680,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "-[Greg] Let's see.\n-[Alex] Okay."
+    } ]
+  }, {
+    "tStartMs": 189640,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "-Nina, hello.\n-I've got this\nincredible Scottish cow."
+    } ]
+  }, {
+    "tStartMs": 196040,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "I was not expecting\nthat sentence."
+    } ]
+  }, {
+    "tStartMs": 200000,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "A very lovely costume cow\nwhich I haven't used yet."
+    } ]
+  }, {
+    "tStartMs": 204000,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And I love it\nbut I haven't found\nits project yet."
+    } ]
+  }, {
+    "tStartMs": 207000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Okay well here is,\nhere is Nina's\nsick bit of lit kit."
+    } ]
+  }, {
+    "tStartMs": 212800,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "I am the sickest bit\nof lit kit. Let's take it\nout on the town."
+    } ]
+  }, {
+    "tStartMs": 222400,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "It's a sick bit of lit kit."
+    } ]
+  }, {
+    "tStartMs": 228840,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "I don't know,\nif I went out into the street"
+    } ]
+  }, {
+    "tStartMs": 231200,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "and spoke to the kids\nand said what are you into,"
+    } ]
+  }, {
+    "tStartMs": 233600,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "would they say\nmassive talking cows, Nina?"
+    } ]
+  }, {
+    "tStartMs": 237160,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "-I think they would.\n-Alright then."
+    } ]
+  }, {
+    "tStartMs": 238960,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "-It's interesting.\n-It's weird."
+    } ]
+  }, {
+    "tStartMs": 240640,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "It...[laughs]\n-Isy, what did you bring in?"
+    } ]
+  }, {
+    "tStartMs": 242280,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "I have brought in\nNausea by John-Paul Satre."
+    } ]
+  }, {
+    "tStartMs": 249240,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "[Alex] There it is."
+    } ]
+  }, {
+    "tStartMs": 250840,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "This is about some bloke\nwho feels sick all the time."
+    } ]
+  }, {
+    "tStartMs": 254400,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "-It's about existentialism.\n-[Isy] Yeah."
+    } ]
+  }, {
+    "tStartMs": 256200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "-Existentialism.\n-Erm, and I think\nthat this, this is"
+    } ]
+  }, {
+    "tStartMs": 258640,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "-a literal interpretation.\n-[Alex] So lit kit is\nliterature kit right."
+    } ]
+  }, {
+    "tStartMs": 262360,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "It's a sick bit,\nhe, he feels sick\nof lit kit, it's literature."
+    } ]
+  }, {
+    "tStartMs": 266280,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "How am\nI doing now?"
+    } ]
+  }, {
+    "tStartMs": 268840,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "You're drawing with someone."
+    } ]
+  }, {
+    "tStartMs": 273240,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Erm, okay Matt."
+    } ]
+  }, {
+    "tStartMs": 274520,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "So, I've found a literacy kit."
+    } ]
+  }, {
+    "tStartMs": 276920,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Erm, and I left it\nout in the rain and it caught\na cold, it got sick."
+    } ]
+  }, {
+    "tStartMs": 281760,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Erm, we, we\ncan see a photo."
+    } ]
+  }, {
+    "tStartMs": 283560,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "This is Matt's\nsick bit of lit kit."
+    } ]
+  }, {
+    "tStartMs": 286440,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Here we go."
+    } ]
+  }, {
+    "tStartMs": 292720,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "It's a poorly bit of literature."
+    } ]
+  }, {
+    "tStartMs": 294320,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "That is a sick bit\nof literacy kit."
+    } ]
+  }, {
+    "tStartMs": 297520,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Oh god. I've never been\nin a situation where I can't,"
+    } ]
+  }, {
+    "tStartMs": 301200,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "I can't work out\nwhose is the worst.\nIt is fascinating."
+    } ]
+  }, {
+    "tStartMs": 306360,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "-But you my friend are\ngonna save this.\n-No."
+    } ]
+  }, {
+    "tStartMs": 311920,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "-Here's the kit.\n-Okay, let's go."
+    } ]
+  }, {
+    "tStartMs": 314160,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "A looper pedal.\nWhat do you children like?\nEd Sheeran."
+    } ]
+  }, {
+    "tStartMs": 319360,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "I think they do\nlike Ed Sheeran don't they?"
+    } ]
+  }, {
+    "tStartMs": 321800,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "He invented the looper pedal."
+    } ]
+  }, {
+    "tStartMs": 323520,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "He did.\nHe brings people together.\n-[Alex] Here it is."
+    } ]
+  }, {
+    "tStartMs": 326000,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "And then I lit it on fire."
+    } ]
+  }, {
+    "tStartMs": 330720,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "And then I was sick next to it."
+    } ]
+  }, {
+    "tStartMs": 334240,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "[laughs]"
+    } ]
+  }, {
+    "tStartMs": 336600,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "It's a sick bit of lit kit."
+    } ]
+  }, {
+    "tStartMs": 338280,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "It's got everything hasn't it.\nIt's something the kids"
+    } ]
+  }, {
+    "tStartMs": 340720,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "would be into\nand it's got some punnery in it."
+    } ]
+  }, {
+    "tStartMs": 343040,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "It's a lovely bit\nof work surely."
+    } ]
+  }, {
+    "tStartMs": 344880,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "You're looking for\nthe least sick bit of lit kit..."
+    } ]
+  }, {
+    "tStartMs": 347360,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "-for one point.\n-[Greg] One point for the cow.\nI don't think"
+    } ]
+  }, {
+    "tStartMs": 350560,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "the kids would be into\nMatt's snotty literature joke."
+    } ]
+  }, {
+    "tStartMs": 353360,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "All I was asked to bring in\nwas a sick bit of lit kit."
+    } ]
+  }, {
+    "tStartMs": 355600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "-And that's exactly\nwhat I did, young man.\n-You did a joke."
+    } ]
+  }, {
+    "tStartMs": 358280,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "[laughs]"
+    } ]
+  }, {
+    "tStartMs": 359960,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "You did a joke, I'm giving you\ntwo points for it."
+    } ]
+  }, {
+    "tStartMs": 362040,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Isy, I think probably\nthere's some pretentious\nyoung people"
+    } ]
+  }, {
+    "tStartMs": 364360,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "-who are into that novel.\n-Yes."
+    } ]
+  }, {
+    "tStartMs": 366040,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "I'll give it three points.\nI'm gonna give Chloe"
+    } ]
+  }, {
+    "tStartMs": 368240,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "because I think the kids love\nall that, don't they?"
+    } ]
+  }, {
+    "tStartMs": 370480,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Scanning stuff\nto win free things.\nI'm giving that four points."
+    } ]
+  }, {
+    "tStartMs": 373680,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "-But he, he's nailed it.\nThe man's nailed it.\n-That's right."
+    } ]
+  }, {
+    "tStartMs": 376440,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "-It's a sick bit of kit.\n-[Alex and Garry] Five points\nto Richard Ayoade."
+    } ]
+  }, {
+    "tStartMs": 386400,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Alright, it's task time."
+    } ]
+  }, {
+    "tStartMs": 388880,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "[Alex] Okay, it certainly is.\n[gasps] Whoopsie."
+    } ]
+  }, {
+    "tStartMs": 392840,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "[thunderclap]"
+    } ]
+  }, {
+    "tStartMs": 410200,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "-Hello.\n-[Alex] Hello Nina."
+    } ]
+  }, {
+    "tStartMs": 411880,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "-Down to business.\n-[Alex] Let's do it."
+    } ]
+  }, {
+    "tStartMs": 414000,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "-Let's do it, babe.\n-Right, okay. Here we go."
+    } ]
+  }, {
+    "tStartMs": 419560,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "-I...\n-[Alex] What's wrong?"
+    } ]
+  }, {
+    "tStartMs": 422200,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "-It's got some\nlike Nutella on it.\n-[Alex] Oh whoopsie."
+    } ]
+  }, {
+    "tStartMs": 428320,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "That is so good."
+    } ]
+  }, {
+    "tStartMs": 430040,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Okay. 'Do a whoopsie.'\nDo a whoopsie."
+    } ]
+  }, {
+    "tStartMs": 435800,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "A dreadful word. 'A whoopsie.'"
+    } ]
+  }, {
+    "tStartMs": 439440,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "'Do a whoopsie.\nBiggest whoopsie wins.'"
+    } ]
+  }, {
+    "tStartMs": 442920,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "'You have 20 minutes,\nyour time starts now.'"
+    } ]
+  }, {
+    "tStartMs": 446200,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Whoopsie. Oh, I've just done it."
+    } ]
+  }, {
+    "tStartMs": 449160,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "[Alex] Do you think\nyou're gonna win with that?"
+    } ]
+  }, {
+    "tStartMs": 451120,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Whoopsie that you're d...\nwhat is a whoopsie?"
+    } ]
+  }, {
+    "tStartMs": 453880,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "-Oh, it's gotta be\na large whoopsie?\n-[Alex] Oh yeah."
+    } ]
+  }, {
+    "tStartMs": 456880,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Oh I see, yeah."
+    } ]
+  }, {
+    "tStartMs": 460360,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Whoopsie! Like that."
+    } ]
+  }, {
+    "tStartMs": 463760,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "I mean if that went down,\nthat'd be a nightmare\nwouldn't it."
+    } ]
+  }, {
+    "tStartMs": 467480,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "-[Alex] Y... yeah.\n-Do you have two of these?"
+    } ]
+  }, {
+    "tStartMs": 469840,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "[Alex] No, we don't have\na spare temple.\n-No."
+    } ]
+  }, {
+    "tStartMs": 475680,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "That was quite bad actually.\nI'll go and have a look\nto see what's..."
+    } ]
+  }, {
+    "tStartMs": 478600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "I'll be taking all these\nfor the whoopsie. Come on.\n-[Alex] Okay."
+    } ]
+  }, {
+    "tStartMs": 481880,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "The most expensive looking one.\nThat one."
+    } ]
+  }, {
+    "tStartMs": 484360,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "But you've gotta\nsay it like that I think.\nWhoopsie!"
+    } ]
+  }, {
+    "tStartMs": 490160,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "-Has my 20 minutes started?\n-[Alex] Yeah."
+    } ]
+  }, {
+    "tStartMs": 492280,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 504040,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Erm, Richard.\nThis is what I've written down."
+    } ]
+  }, {
+    "tStartMs": 506240,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I sometimes wish\nyou would express the rage"
+    } ]
+  }, {
+    "tStartMs": 508880,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "that clearly burns bright\nwithin you."
+    } ]
+  }, {
+    "tStartMs": 512040,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "I, I was so hoping\nyou would smash that temple up."
+    } ]
+  }, {
+    "tStartMs": 515360,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "-I didn't want\nto cause damage...\n-[Alex] Thank you."
+    } ]
+  }, {
+    "tStartMs": 518160,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "...to a valuable\nset that had been made\nwith evident love and care."
+    } ]
+  }, {
+    "tStartMs": 522960,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "-Yeah. And all I'm\nsaying is let go.\n-[Richard] Okay."
+    } ]
+  }, {
+    "tStartMs": 529840,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "-See.\n-Chloe."
+    } ]
+  }, {
+    "tStartMs": 531680,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "-[Chloe] Yes.\n-Is your instinct\nwhen faced with something"
+    } ]
+  }, {
+    "tStartMs": 534840,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "that looks a bit like Nutella,\nis your instinct to lick it\na risky strategy?"
+    } ]
+  }, {
+    "tStartMs": 540360,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "So, I thought I,\nI'd better lick it\nbefore I find out"
+    } ]
+  }, {
+    "tStartMs": 542720,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "what the task is in because\nthen it might seem like\na bad idea. [laughs]"
+    } ]
+  }, {
+    "tStartMs": 547560,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Good and I enjoyed the creation\nof a new character, Whoopsie."
+    } ]
+  }, {
+    "tStartMs": 550560,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "[Alex] Listen to this."
+    } ]
+  }, {
+    "tStartMs": 552360,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Whoopsie!"
+    } ]
+  }, {
+    "tStartMs": 555600,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "That's one of\nthe least camp things\nI've actually ever done."
+    } ]
+  }, {
+    "tStartMs": 560000,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "-Shall we start?\n-Lovely, let's start."
+    } ]
+  }, {
+    "tStartMs": 562160,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Okay, well we are\ngonna start by admiring"
+    } ]
+  }, {
+    "tStartMs": 564280,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "the whoopsies of Matt and Nina."
+    } ]
+  }, {
+    "tStartMs": 571080,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "-Hello.\n-[Alex] You've got just\nunder 15 minutes left, Matt."
+    } ]
+  }, {
+    "tStartMs": 575480,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Have I?"
+    } ]
+  }, {
+    "tStartMs": 577400,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Whoopsie. I mean I keep thinking\nof a whoopee cushion"
+    } ]
+  }, {
+    "tStartMs": 580640,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "and I'm glad it's not that.\nIt's lonely up here"
+    } ]
+  }, {
+    "tStartMs": 585040,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "with my whoopsie.\nAlright, hang on a minute."
+    } ]
+  }, {
+    "tStartMs": 587360,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "This whoopsie\nhasn't been thought through."
+    } ]
+  }, {
+    "tStartMs": 589400,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "What I'd like to create is a\ngol... er,\nwhat's his name? Rube?"
+    } ]
+  }, {
+    "tStartMs": 594400,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "-[Alex] Rube Goldberg.\n-Goldberg."
+    } ]
+  }, {
+    "tStartMs": 596080,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "[Alex] So, why are you\nputting that on?"
+    } ]
+  }, {
+    "tStartMs": 597960,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "-It's mainly just\nproduction value.\n-[Alex] Oh I see, thank you."
+    } ]
+  }, {
+    "tStartMs": 601600,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Oh I see."
+    } ]
+  }, {
+    "tStartMs": 603440,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "-[Alex] Can you see?\n-I can see perfectly."
+    } ]
+  }, {
+    "tStartMs": 605880,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "-[Alex] Can you?\n-Yes."
+    } ]
+  }, {
+    "tStartMs": 607000,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "-[Alex] Okay.\n-Whoopsie."
+    } ]
+  }, {
+    "tStartMs": 609640,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "[Alex] Oh, finished?"
+    } ]
+  }, {
+    "tStartMs": 611520,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "-Is that legible as a W?\n-[Alex] It is, it took you four\nand a half minutes."
+    } ]
+  }, {
+    "tStartMs": 615520,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Right, okay.\nI hear what you're saying."
+    } ]
+  }, {
+    "tStartMs": 619600,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "-[Alex] Lovely.\nWhat letter's this?\n-You'll see."
+    } ]
+  }, {
+    "tStartMs": 625600,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "I mean the whole thing\nis whoopsie."
+    } ]
+  }, {
+    "tStartMs": 628400,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "[Alex] Yes."
+    } ]
+  }, {
+    "tStartMs": 630560,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Whoopsie."
+    } ]
+  }, {
+    "tStartMs": 637680,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "I think it might work."
+    } ]
+  }, {
+    "tStartMs": 639080,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "M. L. There you go."
+    } ]
+  }, {
+    "tStartMs": 641840,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Obviously the whoopsie\nis because I went a little bit\nup the wall."
+    } ]
+  }, {
+    "tStartMs": 645560,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Whoopsie!"
+    } ]
+  }, {
+    "tStartMs": 647560,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "[Alex] Thank you, Matt."
+    } ]
+  }, {
+    "tStartMs": 661840,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Yeah, missed."
+    } ]
+  }, {
+    "tStartMs": 663480,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Alright, well I'll put\nall those things back. Thanks."
+    } ]
+  }, {
+    "tStartMs": 667800,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Whoopsie. [laughs]"
+    } ]
+  }, {
+    "tStartMs": 677280,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "[Alex sighs]"
+    } ]
+  }, {
+    "tStartMs": 678640,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Wow. That was a lovely\nfinal act of destruction."
+    } ]
+  }, {
+    "tStartMs": 681920,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "You wanted a big one,\nyou got one."
+    } ]
+  }, {
+    "tStartMs": 683800,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "-I got a massive whoopsie.\n-[Matt] Yeah."
+    } ]
+  }, {
+    "tStartMs": 685680,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "And I got a big whoopsie\nfrom him verbally."
+    } ]
+  }, {
+    "tStartMs": 687520,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "I got an eccentric woman\ngathering together\na car boot sale"
+    } ]
+  }, {
+    "tStartMs": 693360,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "and then saving it\nwith wanton destruction\nat the end."
+    } ]
+  }, {
+    "tStartMs": 696560,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Well, how about we\nlook at Richard's mild mistake."
+    } ]
+  }, {
+    "tStartMs": 705320,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "This is the whoopsie\nI was telling you about."
+    } ]
+  }, {
+    "tStartMs": 708440,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What do you mean\nthis is the whoopsie?"
+    } ]
+  }, {
+    "tStartMs": 710480,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "It's in there,\nyou'll see when you go in."
+    } ]
+  }, {
+    "tStartMs": 713200,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "It's all, it's... yeah.\nIt's not appropriate\nfor a workplace."
+    } ]
+  }, {
+    "tStartMs": 720400,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "We have to think"
+    } ]
+  }, {
+    "tStartMs": 722240,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "what's the state of that person"
+    } ]
+  }, {
+    "tStartMs": 725520,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "to void an oblong.\nIt's not a usual shape is it."
+    } ]
+  }, {
+    "tStartMs": 730920,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "[Alex] No, no\nsomething's happened."
+    } ]
+  }, {
+    "tStartMs": 732600,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Get involved. That's right."
+    } ]
+  }, {
+    "tStartMs": 740840,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "That's a shame."
+    } ]
+  }, {
+    "tStartMs": 743480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "-[Alex] It's lovely Richard.\n-[Richard] Yeah."
+    } ]
+  }, {
+    "tStartMs": 746360,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "-[Alex] Richard?\n-[knocking on door]"
+    } ]
+  }, {
+    "tStartMs": 750280,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Richard!"
+    } ]
+  }, {
+    "tStartMs": 757400,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "[Alex] Yeah."
+    } ]
+  }, {
+    "tStartMs": 760120,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "A bit of misdirection\nat the end there."
+    } ]
+  }, {
+    "tStartMs": 762400,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "-The whoopsie was of course\nthe handle coming off.\n-Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 765000,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Lovely. I enjoyed the phrases\nget involved,"
+    } ]
+  }, {
+    "tStartMs": 770560,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "you hoped he would handle\nyour whoopsie."
+    } ]
+  }, {
+    "tStartMs": 772280,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "I hoped that he would\nwell it was either HR"
+    } ]
+  }, {
+    "tStartMs": 775320,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "or he's gonna have to put\nthe elbow in."
+    } ]
+  }, {
+    "tStartMs": 778240,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "-I enjoyed his whoopsie.\n-Hmm."
+    } ]
+  }, {
+    "tStartMs": 780040,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "It's one of my favourites so far\nbecause it was a,"
+    } ]
+  }, {
+    "tStartMs": 782040,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "I wasn't expecting\nto be the whoopsie\nthat it turned out to be."
+    } ]
+  }, {
+    "tStartMs": 784640,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "-Whoopsie. Well you\nenjoyed the first two as well.\n-[Greg] I did."
+    } ]
+  }, {
+    "tStartMs": 787560,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Now for someone\nwhose first and last name"
+    } ]
+  }, {
+    "tStartMs": 790280,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "perfectly rhyme with whoopsie\nit's Whoopsie Sutsie."
+    } ]
+  }, {
+    "tStartMs": 796120,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "I hear it's somebody's birthday.\nAh!"
+    } ]
+  }, {
+    "tStartMs": 800360,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "[laughs]"
+    } ]
+  }, {
+    "tStartMs": 820640,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Oh!"
+    } ]
+  }, {
+    "tStartMs": 823680,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Haven't paid my tax\nfor eight years. Whoopsie."
+    } ]
+  }, {
+    "tStartMs": 832760,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "That's a winner to me."
+    } ]
+  }, {
+    "tStartMs": 837680,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Multiple whoopsies as well.\nI presume the clown\nwas called Whoopsie?"
+    } ]
+  }, {
+    "tStartMs": 841840,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Yes, yes. Whoopsie Whoopsie."
+    } ]
+  }, {
+    "tStartMs": 843520,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Whoopsie's been\navoiding their tax."
+    } ]
+  }, {
+    "tStartMs": 846040,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Whoopsie's thrown a cake\ninto the face of a corpse."
+    } ]
+  }, {
+    "tStartMs": 849520,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Which probably\nyou accidentally killed\nin the first place."
+    } ]
+  }, {
+    "tStartMs": 852600,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "-Whoopsie.\n-Whoopsie."
+    } ]
+  }, {
+    "tStartMs": 854880,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Whoopsie.\nSo many great whoopsies.\nWhat are we gonna do, Chloe?"
+    } ]
+  }, {
+    "tStartMs": 858680,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Let's all look finally\nat Chloe's whoopsie."
+    } ]
+  }, {
+    "tStartMs": 863760,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "[doorbell]"
+    } ]
+  }, {
+    "tStartMs": 867400,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "Ah. Hi, oh thank you\nso much, cheers."
+    } ]
+  }, {
+    "tStartMs": 873520,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Love you."
+    } ]
+  }, {
+    "tStartMs": 875040,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "[exhales]"
+    } ]
+  }, {
+    "tStartMs": 879440,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Hi Greg."
+    } ]
+  }, {
+    "tStartMs": 880880,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "[Alex] No, I'm Alex remember."
+    } ]
+  }, {
+    "tStartMs": 882520,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Oh sorry. You wouldn't believe\nthe day I'm having."
+    } ]
+  }, {
+    "tStartMs": 885120,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "I just said I love you\nto the delivery driver"
+    } ]
+  }, {
+    "tStartMs": 886880,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "-and I don't even\nknow him. [laughs]\n-[Alex] Oh, I hate that."
+    } ]
+  }, {
+    "tStartMs": 889680,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "-Yeah.\n-[Alex] Ah."
+    } ]
+  }, {
+    "tStartMs": 890920,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Oh and my fly's undone."
+    } ]
+  }, {
+    "tStartMs": 892920,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "-[Alex] Oh no.\n-And my penis is out."
+    } ]
+  }, {
+    "tStartMs": 897720,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "[Alex] Yes, I can see that."
+    } ]
+  }, {
+    "tStartMs": 899600,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Oh no, and now my\npenis is following\nmy ex on Instagram."
+    } ]
+  }, {
+    "tStartMs": 904720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "[Alex] Ah, that\nguy's out of control."
+    } ]
+  }, {
+    "tStartMs": 906800,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Oh no, no, now my penis\nis knocking off\nGreg's best china."
+    } ]
+  }, {
+    "tStartMs": 912920,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "Whoopsie."
+    } ]
+  }, {
+    "tStartMs": 915880,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "I just shit myself."
+    } ]
+  }, {
+    "tStartMs": 920080,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "-[Greg] Oh my god.\n-Quite a lot of whoopsies."
+    } ]
+  }, {
+    "tStartMs": 923880,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Oh my god. So many whoopsies.\nSo many classic whoopsies there."
+    } ]
+  }, {
+    "tStartMs": 928240,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Thank you.\nI was a few moments away"
+    } ]
+  }, {
+    "tStartMs": 929880,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "from pulling my pockets out\nand calling it an elephant."
+    } ]
+  }, {
+    "tStartMs": 933720,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Absolute classic."
+    } ]
+  }, {
+    "tStartMs": 935760,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Right look, I don't\nknow what you do here Greg."
+    } ]
+  }, {
+    "tStartMs": 937960,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "I think I'm, what\nI'm gonna do is, er,\nis gonna irritate you bigly."
+    } ]
+  }, {
+    "tStartMs": 942880,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It's biggest whoopsie wins\nnot best, it's biggest whoopsie."
+    } ]
+  }, {
+    "tStartMs": 945960,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "You're not gonna like this.\nI'm gonna give Matt\nand Nina four points."
+    } ]
+  }, {
+    "tStartMs": 949280,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "[Alex] Oh we're up,\nwe're up there are we. Right."
+    } ]
+  }, {
+    "tStartMs": 951400,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "We're going\nstraight up and I think"
+    } ]
+  }, {
+    "tStartMs": 952960,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "the audience are gonna agree\nwith me, I can't separate"
+    } ]
+  }, {
+    "tStartMs": 955160,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "the other three.\nThere were multiple whoopsies\nwith these two here."
+    } ]
+  }, {
+    "tStartMs": 958600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "-Mm-hmm.\n-But then Richard\ndid a classic misdirection"
+    } ]
+  }, {
+    "tStartMs": 961280,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "whoopsie and I have\nto reward him for that."
+    } ]
+  }, {
+    "tStartMs": 963120,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "So I'm giving those three\nfive points."
+    } ]
+  }, {
+    "tStartMs": 967200,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "[Alex] Loads of points\nfor everybody."
+    } ]
+  }, {
+    "tStartMs": 970040,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Okay. Fine. Fine."
+    } ]
+  }, {
+    "tStartMs": 974320,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Can we see all\nthe scores please."
+    } ]
+  }, {
+    "tStartMs": 976280,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "We certainly can.\nAt the top of the leaderboard"
+    } ]
+  }, {
+    "tStartMs": 978320,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "with a maximum ten\nit's Richard Ayoade."
+    } ]
+  }, {
+    "tStartMs": 981760,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "[whistles]"
+    } ]
+  }, {
+    "tStartMs": 986360,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "What have we got next?"
+    } ]
+  }, {
+    "tStartMs": 988000,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Well Greg, Greg,\nGreg, and more Greg."
+    } ]
+  }, {
+    "tStartMs": 993800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "[theme playing]"
+    } ]
+  }, {
+    "tStartMs": 1005560,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "-Hey Alex.\n-[Alex] Chloe. Isy."
+    } ]
+  }, {
+    "tStartMs": 1008240,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "-Wow.\n-[Alex] Have a good look\nat the Gregulator."
+    } ]
+  }, {
+    "tStartMs": 1011480,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "-[Alex] This is the Gregulator.\n-Yeah."
+    } ]
+  }, {
+    "tStartMs": 1013440,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "-Okay.\n-'You may ask five questions\nbut please note"
+    } ]
+  }, {
+    "tStartMs": 1016280,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "one Greg will always lie,\none Greg really likes eggs.'"
+    } ]
+  }, {
+    "tStartMs": 1019080,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "'Be Greg for one round,\n400 points.' Okay. [laughs]"
+    } ]
+  }, {
+    "tStartMs": 1026400,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "-There's actual people...\n-What?"
+    } ]
+  }, {
+    "tStartMs": 1029680,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "-[Alex] There are\nthe three Gregs.\n-[laughs]"
+    } ]
+  }, {
+    "tStartMs": 1037320,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 1038960,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Okay. 'Achieve the highest score\non the Gregulator.'"
+    } ]
+  }, {
+    "tStartMs": 1043200,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "I love this."
+    } ]
+  }, {
+    "tStartMs": 1044720,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "'You have a maximum\nof five spins and ten minutes.'"
+    } ]
+  }, {
+    "tStartMs": 1048240,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "'You may ask the Gregs\na total of five questions.'"
+    } ]
+  }, {
+    "tStartMs": 1051640,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "'And each question\nmust be addressed\nto an individual Greg,' okay."
+    } ]
+  }, {
+    "tStartMs": 1056880,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "'You may only ask\nyes or no questions."
+    } ]
+  }, {
+    "tStartMs": 1060120,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Your time starts now.'"
+    } ]
+  }, {
+    "tStartMs": 1061920,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "But what, what,\nwhat at all am I doing with it?"
+    } ]
+  }, {
+    "tStartMs": 1066120,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "[Alex] Well to spin you\npress that button.\n-Yeah."
+    } ]
+  }, {
+    "tStartMs": 1068160,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "[Alex] And they will hold\nup either a duck, an egg\nor a pineapple."
+    } ]
+  }, {
+    "tStartMs": 1070960,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "-[Alex] You've gotta\nachieve the highest score.\n-Okay."
+    } ]
+  }, {
+    "tStartMs": 1073120,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "[Alex] And you can also\nuse some of your points\nto change the outcome"
+    } ]
+  }, {
+    "tStartMs": 1075920,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "-by removing things\nor requesting things.\n-[exhales]"
+    } ]
+  }, {
+    "tStartMs": 1079000,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "-[Alex] Or becoming a Greg.\n-'You may ask five questions\nbut please note one"
+    } ]
+  }, {
+    "tStartMs": 1082280,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "-Greg will always lie and one\nGreg...' has my time started?\n-[Alex] Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1085840,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Mm-hmm. 'One Greg\nreally likes eggs.'"
+    } ]
+  }, {
+    "tStartMs": 1088480,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Cor this is, er, you do,\nyou do know I'm autistic."
+    } ]
+  }, {
+    "tStartMs": 1092920,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "This is a lot."
+    } ]
+  }, {
+    "tStartMs": 1098080,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "[Greg] It was a lot."
+    } ]
+  }, {
+    "tStartMs": 1102160,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "-It was, it was a lot\nto take in and...\n-[Chloe] It was."
+    } ]
+  }, {
+    "tStartMs": 1105680,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "...as you'll see I didn't."
+    } ]
+  }, {
+    "tStartMs": 1108640,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "-He loves this sort of task.\n-[Matt] Yeah."
+    } ]
+  }, {
+    "tStartMs": 1110600,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "He loves nerdy little rules\nto catch people out don't you."
+    } ]
+  }, {
+    "tStartMs": 1114560,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "-Yes, I do.\n-Erm, I very much enjoyed but,\nbut what at all am I doing?"
+    } ]
+  }, {
+    "tStartMs": 1120240,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "I don't know who that\ncharacter is but keep her.\nI think we're ready to go."
+    } ]
+  }, {
+    "tStartMs": 1123640,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Well, our Gregs\nare of course a nod"
+    } ]
+  }, {
+    "tStartMs": 1125320,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "to the incredible inimitable\nFrank Sidebottom with blessing"
+    } ]
+  }, {
+    "tStartMs": 1128400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "from the Sievey family\nso a big thank you to them.\nAnd thank you to Frank."
+    } ]
+  }, {
+    "tStartMs": 1131480,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "And now first to Gregulate\nit is Richard, Isy and Nina."
+    } ]
+  }, {
+    "tStartMs": 1137040,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Yeah, so five questions,\nfive spins."
+    } ]
+  }, {
+    "tStartMs": 1139040,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "There are certain terms\nand conditions as you\ncan see on your left and..."
+    } ]
+  }, {
+    "tStartMs": 1142160,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "oh you're spinning.\nOkay we're spinning."
+    } ]
+  }, {
+    "tStartMs": 1145240,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "[Alex] Okay,\nso you've got two eggs\nso you're on zero."
+    } ]
+  }, {
+    "tStartMs": 1147640,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Okay. Number two,\ndo you like eggs?"
+    } ]
+  }, {
+    "tStartMs": 1152280,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Okay, so that one\ndoesn't like eggs."
+    } ]
+  }, {
+    "tStartMs": 1154560,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "-Can I be Greg for this round?\n-[Alex] Okay which Greg do\nyou want to join?"
+    } ]
+  }, {
+    "tStartMs": 1158000,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "-[Nina] Okay, number two.\n-[Alex] Okay, well if you\njust step round the back."
+    } ]
+  }, {
+    "tStartMs": 1161440,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Here we go and we're spinning."
+    } ]
+  }, {
+    "tStartMs": 1165120,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Egg, pineapple,\negg which gets you a total\nof zero points."
+    } ]
+  }, {
+    "tStartMs": 1168640,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "[laughs]\n-[Alex] And you've become"
+    } ]
+  }, {
+    "tStartMs": 1170480,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Greg so you're on minus 400.\n-What?"
+    } ]
+  }, {
+    "tStartMs": 1172840,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "-Well, that cost you 400 points.\n-Ah."
+    } ]
+  }, {
+    "tStartMs": 1176520,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "There are some things\nthat even before they start I'm,\nI'm so tired."
+    } ]
+  }, {
+    "tStartMs": 1181720,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "I'd almost be happy to go\nI'm gonna call it\na day now. [exhales]"
+    } ]
+  }, {
+    "tStartMs": 1186840,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Number one,\nwill it be useful for me\nto know which one"
+    } ]
+  }, {
+    "tStartMs": 1189400,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "of you likes eggs? No."
+    } ]
+  }, {
+    "tStartMs": 1193280,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "-[Alex] We're spinning.\nGood. Bad.\n-Oh."
+    } ]
+  }, {
+    "tStartMs": 1196120,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "-[Alex] 200 points.\n-Are they in cahoots?"
+    } ]
+  }, {
+    "tStartMs": 1198600,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "-[Alex] Well, you can ask them.\n-Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 1200240,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "-[Alex] But you have to do\none question to one person."
+    } ]
+  }, {
+    "tStartMs": 1202400,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Number two, do you like eggs?\nHe might be lying."
+    } ]
+  }, {
+    "tStartMs": 1206120,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I've got nowhere\nwith that question."
+    } ]
+  }, {
+    "tStartMs": 1208200,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "[Alex] At least we know.\nAnd we're spinning."
+    } ]
+  }, {
+    "tStartMs": 1211320,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "-[Alex] Ooh. You've\ngot 200 points.\n-Okay great."
+    } ]
+  }, {
+    "tStartMs": 1214000,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "-[Alex] Oh you're spinning again\nright. And we're spinning."
+    } ]
+  }, {
+    "tStartMs": 1217600,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "[Alex] You got 200 points.\nOh, we're spinning.\n-I'm just gonna press it."
+    } ]
+  }, {
+    "tStartMs": 1220960,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "[Alex] We're spinning.\nHere we go.\n-A duck, pineapple, oh."
+    } ]
+  }, {
+    "tStartMs": 1224160,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "-[Alex] Back to zero points now.\n-Yeah, I am."
+    } ]
+  }, {
+    "tStartMs": 1228080,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "-[Alex] Right,\nyou are still on zero.\n-Er-huh."
+    } ]
+  }, {
+    "tStartMs": 1230160,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "-I'm not sure how\nto make use of these questions.\n-[Alex] We're spinning."
+    } ]
+  }, {
+    "tStartMs": 1233120,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "-Pineapples please. No. No!\n-[Alex] We're now on minus 100."
+    } ]
+  }, {
+    "tStartMs": 1237160,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "I'm gonna ask a question\nto number three.\nDo you never tell lies?"
+    } ]
+  }, {
+    "tStartMs": 1245080,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "[Alex] Number three,\ndo you never tell lies?"
+    } ]
+  }, {
+    "tStartMs": 1250440,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Do you... hang on,\nwhat did I ask him?\nDo you never tell lies"
+    } ]
+  }, {
+    "tStartMs": 1253640,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and you went yes\nI never tell lies.\nOkay so if you were lying..."
+    } ]
+  }, {
+    "tStartMs": 1259000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Yes, I never tell lies.\nI do never tell lies."
+    } ]
+  }, {
+    "tStartMs": 1263400,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "As in I lie.\nYes, I never tell lies.\nI always tell the truth. Hmm."
+    } ]
+  }, {
+    "tStartMs": 1268160,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "[Alex] Oh dear."
+    } ]
+  }, {
+    "tStartMs": 1271600,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "One of them's got a mullet."
+    } ]
+  }, {
+    "tStartMs": 1273880,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "[Alex] Number one has got\na mullet yeah."
+    } ]
+  }, {
+    "tStartMs": 1275800,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I think I'll get rid of the egg."
+    } ]
+  }, {
+    "tStartMs": 1277640,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "-[Alex] Which egg would\nyou like to get rid of?\n-Three's."
+    } ]
+  }, {
+    "tStartMs": 1280120,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "[Alex] So, you're permanently\ngetting rid of the egg."
+    } ]
+  }, {
+    "tStartMs": 1282320,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "-That's 500 points.\nYou're now on minus one hundred.\n-What? Why?"
+    } ]
+  }, {
+    "tStartMs": 1285600,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "[Alex] Well that's the price\nof permanently removing an item.\n-Oh."
+    } ]
+  }, {
+    "tStartMs": 1290000,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "[Alex] We're spinning.\nSo that's plus one hundred.\nYou're now on zero."
+    } ]
+  }, {
+    "tStartMs": 1294440,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "-Could be worse.\n-[Alex] Worse than zero.\nYeah, yeah it could be."
+    } ]
+  }, {
+    "tStartMs": 1297120,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "-This is your last spin.\n-Oh my god. Alright."
+    } ]
+  }, {
+    "tStartMs": 1299040,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "[Alex] Is there anything\nyou wanna do before the spin?"
+    } ]
+  }, {
+    "tStartMs": 1301280,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Yes. But it's gonna cut\nmy score down very badly."
+    } ]
+  }, {
+    "tStartMs": 1303680,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I'm going to take your egg away,\nnumber two. Very expensive."
+    } ]
+  }, {
+    "tStartMs": 1306840,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "-[Alex] Right so we're now\ndown to minus five hundred.\n-Thank you."
+    } ]
+  }, {
+    "tStartMs": 1309840,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "I'm gonna remove\nyour egg please."
+    } ]
+  }, {
+    "tStartMs": 1312160,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "[Alex] Okay you can go\nand take it if you want.\n-No, I'd like you"
+    } ]
+  }, {
+    "tStartMs": 1314680,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "to remove it yourself,\nI don't wanna go and take it."
+    } ]
+  }, {
+    "tStartMs": 1316960,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "You want me to go\nand remove the egg for you.\nSo that'll cost you 500 points."
+    } ]
+  }, {
+    "tStartMs": 1320520,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "-Okay.\n-[Alex] Oh, we're spinning\nfor the last time."
+    } ]
+  }, {
+    "tStartMs": 1323760,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "-Pineapple. Yes.\n-[Alex] 200 points."
+    } ]
+  }, {
+    "tStartMs": 1326480,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Your final score is\nminus 300 points Nina."
+    } ]
+  }, {
+    "tStartMs": 1330080,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "-A-ha.\n-[Alex] Minus 300\nmight be the best score."
+    } ]
+  }, {
+    "tStartMs": 1332720,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "-You never know.\n-[Alex] Now you've only\ngot one spin left."
+    } ]
+  }, {
+    "tStartMs": 1336160,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "-You've got three questions.\n-Okay number two,"
+    } ]
+  }, {
+    "tStartMs": 1339360,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "if I give you four eggs\nwill you hold up a pineapple?"
+    } ]
+  }, {
+    "tStartMs": 1346480,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "No. [laughs] That would've been\ngood wouldn't it."
+    } ]
+  }, {
+    "tStartMs": 1349720,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "[Alex] Two questions\nleft though, it's worth\nfinding out these things."
+    } ]
+  }, {
+    "tStartMs": 1352600,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "-[gasps] Maybe\nthat's the one who lies.\n-[Alex] Maybe."
+    } ]
+  }, {
+    "tStartMs": 1355040,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Okay, I'm gonna risk it."
+    } ]
+  }, {
+    "tStartMs": 1360280,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "-[Alex] Right you've given\nnumber two four eggs.\n-Yeah."
+    } ]
+  }, {
+    "tStartMs": 1363840,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "[Alex] We're spinning\nand that's the last spin.\nEgg, duck, pineapple."
+    } ]
+  }, {
+    "tStartMs": 1368200,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "So that's another 200 points\nand that's your task over."
+    } ]
+  }, {
+    "tStartMs": 1370640,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Did your system\nof giving him four eggs work?"
+    } ]
+  }, {
+    "tStartMs": 1373360,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Well, it didn't not work.\nHe didn't hold up a pineapple"
+    } ]
+  }, {
+    "tStartMs": 1376400,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "but he did give me\na hundred points."
+    } ]
+  }, {
+    "tStartMs": 1378200,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "[Alex] Okay well we're\nall, it's, it's finished."
+    } ]
+  }, {
+    "tStartMs": 1380320,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "So he wasn't the one who lied\nbut he is the one who's kind."
+    } ]
+  }, {
+    "tStartMs": 1386640,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "-Okay.\n-[Alex] So you're now\non minus 300."
+    } ]
+  }, {
+    "tStartMs": 1388920,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "-I'll just do it again.\n-[Alex] We're spinning."
+    } ]
+  }, {
+    "tStartMs": 1392160,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "-[Alex] Whoa, pretty good.\n-Thank you."
+    } ]
+  }, {
+    "tStartMs": 1394120,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "[Alex] 100 you're on now.\n-100. Okay and I'm gonna\ncall it a day there."
+    } ]
+  }, {
+    "tStartMs": 1397600,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "I've had a lovely day out.\nI'm gonna cash out."
+    } ]
+  }, {
+    "tStartMs": 1400960,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "-[Alex] R... right.\n-I've had a lovely day."
+    } ]
+  }, {
+    "tStartMs": 1402880,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "[Alex] There's two more spins...\n-I've had a lovely day,\nthank you Alex."
+    } ]
+  }, {
+    "tStartMs": 1405760,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "-[Alex] There's still...\nwhen the fun stops. Okay."
+    } ]
+  }, {
+    "tStartMs": 1408120,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "-I've had a lovely time.\n-[Alex] We can say goodbye\nto the Gregs."
+    } ]
+  }, {
+    "tStartMs": 1410960,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "-We can. Thank you.\n-[Alex, blows whistle]"
+    } ]
+  }, {
+    "tStartMs": 1413000,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "I'm very happy with that."
+    } ]
+  }, {
+    "tStartMs": 1415800,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "I don't think\nwe've ever had someone go\nthat's enough tasking for me."
+    } ]
+  }, {
+    "tStartMs": 1419000,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "-Thank you.\n-But it did say achieve\nthe highest score,"
+    } ]
+  }, {
+    "tStartMs": 1422080,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "you have maximum of five spins.\nThere was nothing saying you had"
+    } ]
+  }, {
+    "tStartMs": 1424840,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "to do five spins.\n-Exactly. Yes."
+    } ]
+  }, {
+    "tStartMs": 1426480,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "You both did worse\nthan Isy Sutie."
+    } ]
+  }, {
+    "tStartMs": 1428280,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "-Yes.\n-Who just gave\nsomebody four eggs."
+    } ]
+  }, {
+    "tStartMs": 1432040,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "If someone gave me eggs,\nI'd love it."
+    } ]
+  }, {
+    "tStartMs": 1438920,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "That's a fascinating...\nfascinating insight into\none of our competitors."
+    } ]
+  }, {
+    "tStartMs": 1446000,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "But she's right, her\nidiosyncratic system did work."
+    } ]
+  }, {
+    "tStartMs": 1448880,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "-She ended up with 200 points.\n-It, it worked by sheer chance."
+    } ]
+  }, {
+    "tStartMs": 1452840,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "-Maybe that's what it takes.\n-Maybe that's what life is."
+    } ]
+  }, {
+    "tStartMs": 1456120,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "[Alex] In a way there was\na lot of red herrings.\nThe lying, the eggs,"
+    } ]
+  }, {
+    "tStartMs": 1458960,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "all that was relevant\nthere was getting as\nmany pineapples as possible."
+    } ]
+  }, {
+    "tStartMs": 1461920,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "That's what you had to do.\nNone of you really grasped\nthat at any point."
+    } ]
+  }, {
+    "tStartMs": 1466440,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "I wanna know\nwhat Chloe did though."
+    } ]
+  }, {
+    "tStartMs": 1469120,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "I think if anyone had the right\napproach... it might be Chloe."
+    } ]
+  }, {
+    "tStartMs": 1473240,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh. Oh, if anyone's gonna\nactually make an effort\nit's Chloe for sure."
+    } ]
+  }, {
+    "tStartMs": 1476320,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Sometimes it takes courage\nto walk away."
+    } ]
+  }, {
+    "tStartMs": 1479960,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Okay, that can be\nthe bravest thing\nyou can do in life."
+    } ]
+  }, {
+    "tStartMs": 1483840,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "You're looking at\na goddamn hero here."
+    } ]
+  }, {
+    "tStartMs": 1487480,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Here we go,\nit's Lucas and Petts."
+    } ]
+  }, {
+    "tStartMs": 1491080,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "-I'm just gonna do that.\n-[Alex] It's spinning."
+    } ]
+  }, {
+    "tStartMs": 1494320,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "-Egg, pineapple, egg.\n-Oh."
+    } ]
+  }, {
+    "tStartMs": 1497520,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "[Alex] Two eggs\nand a pineapple has added\nzero points altogether."
+    } ]
+  }, {
+    "tStartMs": 1500440,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "-Right.\n-[Alex] Is there anything\nyou'd like to do?"
+    } ]
+  }, {
+    "tStartMs": 1502560,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "I think egg loss would be good.\nIt'd be good to lose an egg.\nYeah."
+    } ]
+  }, {
+    "tStartMs": 1506000,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "-[Alex] That's 500 points.\n-I'm doing it."
+    } ]
+  }, {
+    "tStartMs": 1508120,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "-I'm gonna ask them a question.\n-[Alex] Which one?"
+    } ]
+  }, {
+    "tStartMs": 1510040,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "The most trustworthy one.\nIt's the one with the ponytails\npoking out,"
+    } ]
+  }, {
+    "tStartMs": 1513400,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "the woman.\nEr, is this randomised? Right."
+    } ]
+  }, {
+    "tStartMs": 1518120,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Er, number one,\nare you going to produce an egg\nagain next time? Okay."
+    } ]
+  }, {
+    "tStartMs": 1524080,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "[Alex] We're spinning.\nScore of 200."
+    } ]
+  }, {
+    "tStartMs": 1526480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Did I ask him would\nhe produce an egg next time?"
+    } ]
+  }, {
+    "tStartMs": 1528520,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "So, you're the liar.\nGreg one is a liar.\nHere's a question,"
+    } ]
+  }, {
+    "tStartMs": 1532240,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "number two\ndo you really like eggs?"
+    } ]
+  }, {
+    "tStartMs": 1534480,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Number three,\ndo you really like eggs?\nAh but I took the egg"
+    } ]
+  }, {
+    "tStartMs": 1538080,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "away from number three.\n-[Alex] Yes, you did."
+    } ]
+  }, {
+    "tStartMs": 1539920,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "-So that's fortunate.\n-Oh, that Greg\ncould've been lying to me."
+    } ]
+  }, {
+    "tStartMs": 1543200,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Greg number two,\nis this randomised?"
+    } ]
+  }, {
+    "tStartMs": 1547800,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "So there is rhyme or reason."
+    } ]
+  }, {
+    "tStartMs": 1549360,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "[Alex] And we're spinning."
+    } ]
+  }, {
+    "tStartMs": 1552680,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Another 200. And we're spinning."
+    } ]
+  }, {
+    "tStartMs": 1555680,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "-Oh, that's good.\n-I'm gonna randomise."
+    } ]
+  }, {
+    "tStartMs": 1558920,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "[Alex] Third spin,\nokay here we go."
+    } ]
+  }, {
+    "tStartMs": 1561920,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "-[Alex] So, it's 200 again.\n-Is this the last spin?"
+    } ]
+  }, {
+    "tStartMs": 1564320,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "-[Alex] Yeah.\n-Okay.\nI'm just gonna play again."
+    } ]
+  }, {
+    "tStartMs": 1568600,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "Oh, you lied.\nYou didn't like eggs.\nWhat the fuck is this?"
+    } ]
+  }, {
+    "tStartMs": 1574240,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Erm, if all three of them, ah,\ncan, can I get all three of them"
+    } ]
+  }, {
+    "tStartMs": 1578720,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "to produce pineapples\nand that'll cost me"
+    } ]
+  }, {
+    "tStartMs": 1582040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "900 but then I'll be\na hundred up."
+    } ]
+  }, {
+    "tStartMs": 1584120,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "[Alex] So, this is gonna\ncost you 900 points."
+    } ]
+  }, {
+    "tStartMs": 1586040,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "I'm just gonna ask the\nthird Greg, is producing\nthree pineapples"
+    } ]
+  }, {
+    "tStartMs": 1589640,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "my best bet at this point?\n-[Alex] He's nodding."
+    } ]
+  }, {
+    "tStartMs": 1592680,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "I don't think he knows\nhis arse from his elbow."
+    } ]
+  }, {
+    "tStartMs": 1594800,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "-Three pineapples please.\n-[Alex] All three pineapples."
+    } ]
+  }, {
+    "tStartMs": 1599920,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "[Alex] One minute, one spin."
+    } ]
+  }, {
+    "tStartMs": 1601960,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Number three. Shall I do\nthe pineapple plan again?"
+    } ]
+  }, {
+    "tStartMs": 1606160,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "-[Alex][laughs]\n-Right I hate you."
+    } ]
+  }, {
+    "tStartMs": 1608160,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "I, er, that's pissed me\noff that has.\n-[Alex] 30 seconds Chloe."
+    } ]
+  }, {
+    "tStartMs": 1611560,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "-Right. Three pineapples please.\n-[Alex] We're spinning."
+    } ]
+  }, {
+    "tStartMs": 1614080,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Sorry. I don't like that\nas much as you guys\ndon't like that."
+    } ]
+  }, {
+    "tStartMs": 1617720,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "[Alex] There we go.\n[blows whistle]\nWell, a very tactical game."
+    } ]
+  }, {
+    "tStartMs": 1620360,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "-I wish you all the best.\n-Is there anything"
+    } ]
+  }, {
+    "tStartMs": 1622480,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "left for me to do?\nOr is the task over?"
+    } ]
+  }, {
+    "tStartMs": 1624280,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "[Alex] Got a question\nyou wanna ask them and then..."
+    } ]
+  }, {
+    "tStartMs": 1626200,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Yeah, we're in the middle\nof like this steam museum\nor something."
+    } ]
+  }, {
+    "tStartMs": 1629640,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "This has nothing\nto do with steam,\nyou've missed out on like"
+    } ]
+  }, {
+    "tStartMs": 1632760,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "what could've been an amazing\neducational opportunity."
+    } ]
+  }, {
+    "tStartMs": 1636480,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "-[Alex] Thanks Matt.\n-Alright my pleasure."
+    } ]
+  }, {
+    "tStartMs": 1645360,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "-I'm not sure\nwhat happened there.\n-I'm no good at that. And..."
+    } ]
+  }, {
+    "tStartMs": 1649000,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Well you're very good\nat telling people off\nthat's for sure."
+    } ]
+  }, {
+    "tStartMs": 1651520,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "-Yes.\n-You were a sort of weird PE\nteacher by the end of it."
+    } ]
+  }, {
+    "tStartMs": 1655520,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "I think it just got\nto the point where like\nRichard I was pleased"
+    } ]
+  }, {
+    "tStartMs": 1659920,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "with what I had, but we have\nvery different personalities."
+    } ]
+  }, {
+    "tStartMs": 1663520,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So instead of, erm, burning\neverything to the ground,"
+    } ]
+  }, {
+    "tStartMs": 1667200,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "-I decided to strategise\nand gain myself more points.\n-[Greg] Yeah."
+    } ]
+  }, {
+    "tStartMs": 1672000,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "-I'd just like\nto come back on that.\n-Please. Please."
+    } ]
+  }, {
+    "tStartMs": 1675840,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "What I felt was\nthat I left the game\nand it is a game,"
+    } ]
+  }, {
+    "tStartMs": 1679840,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "erm, with good will intact,\nI came away with one hun..."
+    } ]
+  }, {
+    "tStartMs": 1684320,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I mean let's not forget\nI came away with 100 points."
+    } ]
+  }, {
+    "tStartMs": 1688600,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "I didn't know how many\npoints were on offer.\nFor me that's like the,"
+    } ]
+  }, {
+    "tStartMs": 1691360,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "the, like someone just gave me\nthe sky Greg. I mean 100 points."
+    } ]
+  }, {
+    "tStartMs": 1697000,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Imagine it,\nI'd come in that day,"
+    } ]
+  }, {
+    "tStartMs": 1698520,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "I didn't have a point\nto my name."
+    } ]
+  }, {
+    "tStartMs": 1700520,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "-Chloe, do you wanna\ncome back on that?\n-I got 600 points."
+    } ]
+  }, {
+    "tStartMs": 1705280,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "You could've had\n2,000 points."
+    } ]
+  }, {
+    "tStartMs": 1707200,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "So, the, the best method,\nyou were just trying\nto get pineapples."
+    } ]
+  }, {
+    "tStartMs": 1709920,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "So just remove all the eggs\nand ducks that would cost you"
+    } ]
+  }, {
+    "tStartMs": 1712760,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "a total of 3,000 points.\nBut every time from then on\nyou'll get a thousand,"
+    } ]
+  }, {
+    "tStartMs": 1717240,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "a thousand, a thousand,\na thousand, a thousand,\nyou'll get 2,000 points."
+    } ]
+  }, {
+    "tStartMs": 1720320,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So, it was just kind\nof looking through\nall those stupid rules."
+    } ]
+  }, {
+    "tStartMs": 1723440,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Even as you say it now\nI still don't care."
+    } ]
+  }, {
+    "tStartMs": 1725520,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Yeah. I, I get that. I get that."
+    } ]
+  }, {
+    "tStartMs": 1728640,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Points wise it means\nthat Nina gets one\nfor getting minus 300."
+    } ]
+  }, {
+    "tStartMs": 1733200,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "-Yes.\n-[Alex] Richard two for 100,\nIsy three for 200,"
+    } ]
+  }, {
+    "tStartMs": 1736000,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Matt 4 for 400 but the winner\nof the task was Chloe Petts"
+    } ]
+  }, {
+    "tStartMs": 1738760,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "with 600 points,\nwhich is five points."
+    } ]
+  }, {
+    "tStartMs": 1746280,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "-[Greg] One more please.\n-Sure thing and this one\nspans many months"
+    } ]
+  }, {
+    "tStartMs": 1750920,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and potentially several\ncontinents."
+    } ]
+  }, {
+    "tStartMs": 1754120,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "[plane zooming]"
+    } ]
+  }, {
+    "tStartMs": 1756600,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "[mysterious theme playing]"
+    } ]
+  }, {
+    "tStartMs": 1770040,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "-Hello.\n-Oh good, you made it.\nAll fine?"
+    } ]
+  }, {
+    "tStartMs": 1772960,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "-All fine.\n-[Alex] Good journey."
+    } ]
+  }, {
+    "tStartMs": 1774680,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "-Yes.\n-You alright?"
+    } ]
+  }, {
+    "tStartMs": 1776640,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "-[Alex] Horrible out there.\n-Yeah, nasty weather."
+    } ]
+  }, {
+    "tStartMs": 1778760,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "-[Alex] Oh.\n-Yeah."
+    } ]
+  }, {
+    "tStartMs": 1780440,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "-[Alex] You made it.\n-Yeah. Long old journey."
+    } ]
+  }, {
+    "tStartMs": 1785040,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "[Alex] Good you came\n'cause you've got a letter."
+    } ]
+  }, {
+    "tStartMs": 1787920,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Ooh."
+    } ]
+  }, {
+    "tStartMs": 1792920,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "-Is this your shoe?\n-Is that your shoe?"
+    } ]
+  }, {
+    "tStartMs": 1795800,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "-That's your shoe.\n-Oh."
+    } ]
+  }, {
+    "tStartMs": 1797760,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "'Get the shoe furthest away\nfrom the other four shoes.'"
+    } ]
+  }, {
+    "tStartMs": 1805720,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Where are the other four shoes?"
+    } ]
+  }, {
+    "tStartMs": 1807400,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "-[Alex] Who else\nis in this show?\n-Oh, the other people?"
+    } ]
+  }, {
+    "tStartMs": 1809840,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "-[Alex] They've got names.\n-Yes."
+    } ]
+  }, {
+    "tStartMs": 1812080,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "-[Alex] And shoes.\n-Read the whole clue?"
+    } ]
+  }, {
+    "tStartMs": 1816720,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "'You have until St Patrick's Day\non which date your shoe"
+    } ]
+  }, {
+    "tStartMs": 1819960,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "must be appropriately\nphotographed\nin its new location.'"
+    } ]
+  }, {
+    "tStartMs": 1822240,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "'With proof that it\nis St Patrick's Day.'"
+    } ]
+  }, {
+    "tStartMs": 1825640,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "-I don't know when that is.\n-[Alex] March."
+    } ]
+  }, {
+    "tStartMs": 1828600,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "-March.\n-'There is a bonus point"
+    } ]
+  }, {
+    "tStartMs": 1830440,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "for the shoe that goes\non the most exciting journey.'"
+    } ]
+  }, {
+    "tStartMs": 1833360,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "'Your time starts now.'"
+    } ]
+  }, {
+    "tStartMs": 1835120,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "-[Alex] There's a tracking\ndevice inside the shoe.\n-[laughs]"
+    } ]
+  }, {
+    "tStartMs": 1838760,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "[Alex] Best of luck."
+    } ]
+  }, {
+    "tStartMs": 1843960,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "At that point we'd been doing\nquite a lot of tasks."
+    } ]
+  }, {
+    "tStartMs": 1847080,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And, erm, what I would like\nto flag is that Isy referred\nto the task as a clue."
+    } ]
+  }, {
+    "tStartMs": 1851320,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "[Alex] Hmm."
+    } ]
+  }, {
+    "tStartMs": 1852760,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Like she was\na member of Scooby Doo. [laughs]"
+    } ]
+  }, {
+    "tStartMs": 1856960,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "[Alex] Thank you, Isy.\nFirst let's see"
+    } ]
+  }, {
+    "tStartMs": 1858920,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "where Chloe's shoe ended up\non St Patrick's Day."
+    } ]
+  }, {
+    "tStartMs": 1862800,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "-I took it on a trip to see\nmany of the sights on Sydney.\n-[Alex] Yes."
+    } ]
+  }, {
+    "tStartMs": 1866640,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "And then I gave it\nto Hannah Gadsby"
+    } ]
+  }, {
+    "tStartMs": 1868240,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "and they performed\nNanette for it."
+    } ]
+  }, {
+    "tStartMs": 1870440,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "[Alex] This is true\nHannah Gadsby did perform"
+    } ]
+  }, {
+    "tStartMs": 1872440,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "their one person\naward-winning show to a shoe."
+    } ]
+  }, {
+    "tStartMs": 1877680,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "And then I took it to meet\nsome Australian celebrities.\nThese kangaroos."
+    } ]
+  }, {
+    "tStartMs": 1883520,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "[Alex] All alive."
+    } ]
+  }, {
+    "tStartMs": 1885280,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "That is absolutely gone at them\nwith the shoe like that. Ah."
+    } ]
+  }, {
+    "tStartMs": 1889880,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Four out of the six\nbludgeoned to death."
+    } ]
+  }, {
+    "tStartMs": 1894200,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "I'm a real Brit abroad, erm.\nFuck you."
+    } ]
+  }, {
+    "tStartMs": 1899520,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Chloe, where's the proof?\nPart of the task was you had"
+    } ]
+  }, {
+    "tStartMs": 1902760,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "to prove that it was\nSt Patrick's Day."
+    } ]
+  }, {
+    "tStartMs": 1905000,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Well, I got a newspaper\nand a pint of Guinness"
+    } ]
+  }, {
+    "tStartMs": 1907360,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "but then I was told that, er,\nthe air tag was the proof"
+    } ]
+  }, {
+    "tStartMs": 1909960,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "so I didn't get a p... photo\nof it with the..."
+    } ]
+  }, {
+    "tStartMs": 1914120,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "[Alex] So we do know\nexactly where it was\non St Patrick's Day."
+    } ]
+  }, {
+    "tStartMs": 1917040,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Australia."
+    } ]
+  }, {
+    "tStartMs": 1918880,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "-[Alex] Australia very much,\nvery much so in Australia.\n-So you claim."
+    } ]
+  }, {
+    "tStartMs": 1923440,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "-Do you wanna see\nwhere Isy's shoe got to?\n-I do."
+    } ]
+  }, {
+    "tStartMs": 1926480,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "[Alex] Do you wanna explain,\nIsy?"
+    } ]
+  }, {
+    "tStartMs": 1928160,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "Okay. Instead of geographically\nI've thrown it into infinity."
+    } ]
+  }, {
+    "tStartMs": 1935160,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Because this is\na petrifying well."
+    } ]
+  }, {
+    "tStartMs": 1938320,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "The water will flow\nover the trainer,\nform a solid coating of rock."
+    } ]
+  }, {
+    "tStartMs": 1943200,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "-[Alex] Mm-hmm.\n-[Isy] And it will be\npreserved forever."
+    } ]
+  }, {
+    "tStartMs": 1946120,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "And full disclosure,\nto me it sounded\nlike horse shit."
+    } ]
+  }, {
+    "tStartMs": 1951320,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "The experts in the well\nsaid it would take three\nto five months."
+    } ]
+  }, {
+    "tStartMs": 1955160,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "-Yes.\n-[Alex] Probably have\na slight crust by March."
+    } ]
+  }, {
+    "tStartMs": 1959680,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Join the club."
+    } ]
+  }, {
+    "tStartMs": 1963080,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "But there is some\nproof there isn't it."
+    } ]
+  }, {
+    "tStartMs": 1965200,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "[Alex] It's proof\nthat it's in Knaresborough\non St Patrick's Day."
+    } ]
+  }, {
+    "tStartMs": 1968200,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "-Do you think your shoe\nwent to the future?\n-Yeah."
+    } ]
+  }, {
+    "tStartMs": 1970680,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "[Alex] Okay."
+    } ]
+  }, {
+    "tStartMs": 1976080,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "-You wanna see one more?\n-Yeah."
+    } ]
+  }, {
+    "tStartMs": 1977960,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Okay. Now it's time\nfor Nina's attempt"
+    } ]
+  }, {
+    "tStartMs": 1980160,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and Nina made\na nice little video\nfor her shoe's journey."
+    } ]
+  }, {
+    "tStartMs": 1983320,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "-Have a look at this.\n-I started in Leeds\nand thought that was exciting."
+    } ]
+  }, {
+    "tStartMs": 1987560,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But then I flew to Tokyo,\nback to London, then flew\nto Singapore for a swim,"
+    } ]
+  }, {
+    "tStartMs": 1991640,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "then flew to Christchurch\nand went to the many wineries\nof New Zealand."
+    } ]
+  }, {
+    "tStartMs": 1995600,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Back to London.\nAnd I flew to Chile, Patagonia\nand the Torres del Paine"
+    } ]
+  }, {
+    "tStartMs": 1999920,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "then the red rocks of Salta\nthen the 30 hour bus\nto Iguzu Falls and then to Rio,"
+    } ]
+  }, {
+    "tStartMs": 2005040,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Copacabana beach,\nChrist the Redeemer,\nfinishing up on the 17th March"
+    } ]
+  }, {
+    "tStartMs": 2009480,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "on Sugarloaf Mountain\nwith Nina's godson Jasper\nkindly holding me"
+    } ]
+  }, {
+    "tStartMs": 2013880,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "with a newspaper\nto prove that's where I was."
+    } ]
+  }, {
+    "tStartMs": 2022280,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Are you on some\nsort of gap year?"
+    } ]
+  }, {
+    "tStartMs": 2025600,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Yes. That's exactly it.\nMy godson, er,"
+    } ]
+  }, {
+    "tStartMs": 2028000,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "it entered the backpack\nof a gap year student."
+    } ]
+  }, {
+    "tStartMs": 2030960,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Oh, what you\ndidn't go to all those..."
+    } ]
+  }, {
+    "tStartMs": 2032800,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Latterly.\nI did at the beginning.\nI went to Leeds and...[laughs]"
+    } ]
+  }, {
+    "tStartMs": 2039280,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "But did it go\nto infinity, Greg?"
+    } ]
+  }, {
+    "tStartMs": 2042000,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "I want to keep my cow."
+    } ]
+  }, {
+    "tStartMs": 2046280,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Yeah, it's not\nlooking good, Nina."
+    } ]
+  }, {
+    "tStartMs": 2049880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Now here's Richard's effort."
+    } ]
+  }, {
+    "tStartMs": 2052600,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "In a way, if they all scatter\n'cause they want to get it\nas far away as possible,"
+    } ]
+  }, {
+    "tStartMs": 2059000,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "it being here...\nmight be the wisest thing."
+    } ]
+  }, {
+    "tStartMs": 2064880,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "[Alex] You want me\non the 17th March,"
+    } ]
+  }, {
+    "tStartMs": 2067000,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "-take a picture\nof that shoe here.\n-Yeah."
+    } ]
+  }, {
+    "tStartMs": 2068960,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "-[Alex] And what proof?\n-A copy of the paper\nor you know take the newspaper."
+    } ]
+  }, {
+    "tStartMs": 2074080,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "And I imagine\nyou'll be appropriately dressed."
+    } ]
+  }, {
+    "tStartMs": 2075880,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "-[Alex] What do\nyou mean by that?\n-I mean, er, full emerald."
+    } ]
+  }, {
+    "tStartMs": 2078960,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "[Alex] What you might be\nsacrificing is the bonus point\nfor the exciting journey."
+    } ]
+  }, {
+    "tStartMs": 2082840,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "-But you might be... hmm.\n-Alright."
+    } ]
+  }, {
+    "tStartMs": 2085080,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "[epic music playing]"
+    } ]
+  }, {
+    "tStartMs": 2118440,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "-Talk me through it.\n-Do you have the picture?"
+    } ]
+  }, {
+    "tStartMs": 2121000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "This is St Patrick's Day\nthis year. Yeah."
+    } ]
+  }, {
+    "tStartMs": 2124280,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Well, I'm thrilled\nwith that image."
+    } ]
+  }, {
+    "tStartMs": 2127400,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And the journey\nthat the shoe has been on just\nto be absolutely crystal clear."
+    } ]
+  }, {
+    "tStartMs": 2131000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "That shoe's been\nto hell and back."
+    } ]
+  }, {
+    "tStartMs": 2137120,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "If all four shoes\nwent to Australia...\n-Yes."
+    } ]
+  }, {
+    "tStartMs": 2139720,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "...you'd be right.\nOne went to Knaresborough\nunfortunately."
+    } ]
+  }, {
+    "tStartMs": 2143280,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "But that one isn't even\nin our time continuum. Okay."
+    } ]
+  }, {
+    "tStartMs": 2152680,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "-Show us Matt's shoe.\n-Finally, let's see"
+    } ]
+  }, {
+    "tStartMs": 2155040,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "if Matt's moccasin\ntraversed the globe."
+    } ]
+  }, {
+    "tStartMs": 2158160,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "[charming music playing]"
+    } ]
+  }, {
+    "tStartMs": 2183320,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "[Greg] Wow."
+    } ]
+  }, {
+    "tStartMs": 2186360,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "And originally I wanted\nto send the shoe up into space."
+    } ]
+  }, {
+    "tStartMs": 2190560,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Erm, I have a friend\nwho used to work for NASA."
+    } ]
+  }, {
+    "tStartMs": 2193160,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Erm, but unfortunately\nthere were no space missions,"
+    } ]
+  }, {
+    "tStartMs": 2196200,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "-er, going at that time.\nSo instead...\n-Oldest excuse in the book."
+    } ]
+  }, {
+    "tStartMs": 2200400,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "I know.\nInstead it went to the Yukon."
+    } ]
+  }, {
+    "tStartMs": 2203480,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "To show proof\none more time, this is the proof"
+    } ]
+  }, {
+    "tStartMs": 2205640,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "that Matt's shoe was\nthere on the 17th of March."
+    } ]
+  }, {
+    "tStartMs": 2208280,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "-There we go. Okay.\n-[Greg] Ah."
+    } ]
+  }, {
+    "tStartMs": 2210040,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "[Alex] So we've\nseen all five shoes."
+    } ]
+  }, {
+    "tStartMs": 2212520,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Now we need some stats\nand I need to make\na decision on a thorny issue."
+    } ]
+  }, {
+    "tStartMs": 2216920,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "[Alex] Chloe's shoe was\n60,683 total miles from here."
+    } ]
+  }, {
+    "tStartMs": 2221800,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Nina's 44,244, definitely had\nthe most elongated journey."
+    } ]
+  }, {
+    "tStartMs": 2227680,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "Matt's 37,934.\nIncredibly Richard's was further"
+    } ]
+  }, {
+    "tStartMs": 2234040,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "from the others than Isy's\nby 133 miles."
+    } ]
+  }, {
+    "tStartMs": 2238320,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Currently Isy one point,\nRichard two, three for Matt,\nfour for Nina, five to Chloe."
+    } ]
+  }, {
+    "tStartMs": 2242280,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I'll dock you a point for,\nfor not giving us\neverything we wanted."
+    } ]
+  }, {
+    "tStartMs": 2245240,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "[Alex] So, who gets\nthe bonus point\nfor the most exciting journey?"
+    } ]
+  }, {
+    "tStartMs": 2248120,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Well, it was between Nina\nand Isy for me."
+    } ]
+  }, {
+    "tStartMs": 2250200,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "I sort of like the idea\nthat the shoe is immortalised\nand will live on."
+    } ]
+  }, {
+    "tStartMs": 2255960,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So for romantic reasons\nI am gonna give Isy\nthe one bonus point."
+    } ]
+  }, {
+    "tStartMs": 2259560,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "-[Alex] One bonus point\nto Isy Suttie.\n-Yes!"
+    } ]
+  }, {
+    "tStartMs": 2265080,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Can Alex make the scoreboard\ngo big screen?"
+    } ]
+  }, {
+    "tStartMs": 2267880,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "He certainly can.\nAnd thanks to that devastating\npoint being docked,"
+    } ]
+  }, {
+    "tStartMs": 2271640,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "-Chloe is only in the lead\nby four points.\n-[laughs]"
+    } ]
+  }, {
+    "tStartMs": 2275320,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "[Alex] They're there\nwith 18 at the moment."
+    } ]
+  }, {
+    "tStartMs": 2277640,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "[Greg] There you go."
+    } ]
+  }, {
+    "tStartMs": 2281160,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Alright everyone,\nplease stay where you are\nfor the final task of the show."
+    } ]
+  }, {
+    "tStartMs": 2287920,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "[Alex] Nina Conti\nis gonna read the task."
+    } ]
+  }, {
+    "tStartMs": 2290480,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Thank you.\n'Draw the item on your screen\nfor your teammates to identify."
+    } ]
+  }, {
+    "tStartMs": 2295360,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Each drawer will have\none minute.' What?"
+    } ]
+  }, {
+    "tStartMs": 2297960,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "-[Alex] So draw-er\non this occasion.\n-Draw-er."
+    } ]
+  }, {
+    "tStartMs": 2301200,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "[Alex] Is it also drawer\nbut draw-er. Draw-er."
+    } ]
+  }, {
+    "tStartMs": 2303080,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "-It's spelt the same way.\n-[Alex] I know."
+    } ]
+  }, {
+    "tStartMs": 2305040,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "I saw all the letters.\n'Each draw-er will have"
+    } ]
+  }, {
+    "tStartMs": 2309400,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "one minute with five seconds per\nitem, best quick draw-ers wins.'"
+    } ]
+  }, {
+    "tStartMs": 2313720,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Yes, it's all about\ndrawing quickly.\nI should say it is a team task"
+    } ]
+  }, {
+    "tStartMs": 2317120,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "so I'd ask Nina\nand Chloe to switch seats"
+    } ]
+  }, {
+    "tStartMs": 2319720,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "-so we have Nina next\nto her teammate Isy.\n-I'll miss you."
+    } ]
+  }, {
+    "tStartMs": 2322680,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "-Oh I see.\n-[Alex] And Chloe\nwith their teammates"
+    } ]
+  }, {
+    "tStartMs": 2324920,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Matt and Richard.\nThere's gonna be three rounds.\nEach of you will draw"
+    } ]
+  }, {
+    "tStartMs": 2328840,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "once except somebody in the team\nof two will draw twice."
+    } ]
+  }, {
+    "tStartMs": 2331680,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "There'll be a word,\nyou'll see the word,\nthere's a little pad"
+    } ]
+  }, {
+    "tStartMs": 2334080,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and a stylus.\nYou've gotta draw on the pad.\nYou won't be able to see"
+    } ]
+  }, {
+    "tStartMs": 2336920,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "what you're drawing\nbut your teammates will see it\non the big screen up there."
+    } ]
+  }, {
+    "tStartMs": 2340200,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Five seconds per item.\nIt's incredibly quick."
+    } ]
+  }, {
+    "tStartMs": 2342360,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "-Oh god.\n-[Alex] Ready, Greg?"
+    } ]
+  }, {
+    "tStartMs": 2344080,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "-Ready.\n-Okay, so round one.\nTeam of three first,"
+    } ]
+  }, {
+    "tStartMs": 2346520,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "-who's gonna draw first?\n-Richard, you are\nso motivated today."
+    } ]
+  }, {
+    "tStartMs": 2349600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Go on Richard."
+    } ]
+  }, {
+    "tStartMs": 2353080,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "-Focus.\n-[Alex] Now you're gonna be\nwatching the screen up there."
+    } ]
+  }, {
+    "tStartMs": 2356000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "-Okay.\n-Oh I know, it's,\nis it a pillock?"
+    } ]
+  }, {
+    "tStartMs": 2361800,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "-[Alex] That's,\nthat's rude against you.\n-Pillock."
+    } ]
+  }, {
+    "tStartMs": 2364720,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "[Alex] Yeah.\nActivate whiteboard."
+    } ]
+  }, {
+    "tStartMs": 2368360,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "There we go.\nStart on the whistle.\nThree, two, one."
+    } ]
+  }, {
+    "tStartMs": 2371280,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "-You sound like my mother.\n-[Alex, blows whistle]"
+    } ]
+  }, {
+    "tStartMs": 2375880,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "-A box. A car.\n-A car."
+    } ]
+  }, {
+    "tStartMs": 2377600,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "-A bus.\n-[Alex] It was a bus."
+    } ]
+  }, {
+    "tStartMs": 2379160,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "-Get in.\n-Yeah."
+    } ]
+  }, {
+    "tStartMs": 2380600,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "-Ah. A boat?\n-Boat."
+    } ]
+  }, {
+    "tStartMs": 2382640,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "-A bath.\n-A clock."
+    } ]
+  }, {
+    "tStartMs": 2384040,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "It's pants."
+    } ]
+  }, {
+    "tStartMs": 2385120,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Godammit. Er, mountain range.\nSkiing."
+    } ]
+  }, {
+    "tStartMs": 2389120,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "-Clouds.\n-[Alex] Cloud, it was cloud."
+    } ]
+  }, {
+    "tStartMs": 2390880,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "-Yes. A love heart. Apple.\n-Heart. Apple, cherry."
+    } ]
+  }, {
+    "tStartMs": 2394920,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Peach."
+    } ]
+  }, {
+    "tStartMs": 2397400,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "-Pizza.\n-[Alex] It was pizza."
+    } ]
+  }, {
+    "tStartMs": 2399280,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "-Yes.\n-Well done. Erm."
+    } ]
+  }, {
+    "tStartMs": 2402200,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "-Er, little bug.\n-Teacup."
+    } ]
+  }, {
+    "tStartMs": 2403520,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "-Ant.\n-[Alex] Yes, it was a..."
+    } ]
+  }, {
+    "tStartMs": 2405120,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "-Cup.\n-[Alex] It was a cup.\nAnd that is four."
+    } ]
+  }, {
+    "tStartMs": 2407080,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "-[whistle]\n-Not bad. Not bad."
+    } ]
+  }, {
+    "tStartMs": 2413920,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "-We've had a lovely day.\n-You smashed that."
+    } ]
+  }, {
+    "tStartMs": 2416040,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "-Thank you.\n-Okay, team of two,\none of you's gonna draw twice."
+    } ]
+  }, {
+    "tStartMs": 2418840,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "So, whoever's gonna draw twice\nplease step up first."
+    } ]
+  }, {
+    "tStartMs": 2421360,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Ooh."
+    } ]
+  }, {
+    "tStartMs": 2425280,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "-[Alex] Three, two, one.\n[blows whistle]\n-We're off."
+    } ]
+  }, {
+    "tStartMs": 2429760,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Sausage and smiling worm."
+    } ]
+  }, {
+    "tStartMs": 2431640,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "-It was worm.\nWorm is right.\n-Oh."
+    } ]
+  }, {
+    "tStartMs": 2435480,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "-It's a man.\nIt's a, it's a nose.\n-[Alex] Nose is right."
+    } ]
+  }, {
+    "tStartMs": 2441680,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "-Er, teddy. Er, monkey.\nEr, bear.\n-Bear is right."
+    } ]
+  }, {
+    "tStartMs": 2446360,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "-Oh gosh.\n-This is fast."
+    } ]
+  }, {
+    "tStartMs": 2448000,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "-What is that? Oh I just...\n-Bed, it was a bed."
+    } ]
+  }, {
+    "tStartMs": 2450680,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "A cup of tea. Er, hot chocolate.\nA cup, a mug,"
+    } ]
+  }, {
+    "tStartMs": 2452920,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "-a glass of water.\n-[Alex] It was water."
+    } ]
+  }, {
+    "tStartMs": 2455640,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "-Bow tie. Round.\n-Is right."
+    } ]
+  }, {
+    "tStartMs": 2457280,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "-Bow tie.\n-Whoa."
+    } ]
+  }, {
+    "tStartMs": 2460200,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Shoe, er, bansh...\ner, what, a glove, a spoon,\na knife, cutlery."
+    } ]
+  }, {
+    "tStartMs": 2464480,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Spoon is right."
+    } ]
+  }, {
+    "tStartMs": 2466680,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Penis, hand, nails, fingernails."
+    } ]
+  }, {
+    "tStartMs": 2470880,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "[Alex] It was a finger,\nit was a finger.\n-[whistle]"
+    } ]
+  }, {
+    "tStartMs": 2473040,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "But that's a very impressive six\nfrom the team of two."
+    } ]
+  }, {
+    "tStartMs": 2475880,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "-Very good.\n-They win round one."
+    } ]
+  }, {
+    "tStartMs": 2481120,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "-It's Matt Lucas to the chair.\n-Alright. Hello cameras."
+    } ]
+  }, {
+    "tStartMs": 2486960,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Three, two, one.\n[blows whistle] We're off."
+    } ]
+  }, {
+    "tStartMs": 2493240,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "-Flies, er.\n-[Alex] It was a bin."
+    } ]
+  }, {
+    "tStartMs": 2495960,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "-Ah.\n-[Chloe and Richard]\nA skateboard."
+    } ]
+  }, {
+    "tStartMs": 2499160,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "-[Alex] Correct.\n-Yes."
+    } ]
+  }, {
+    "tStartMs": 2501880,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Oi vey."
+    } ]
+  }, {
+    "tStartMs": 2503040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Fox. Cherries."
+    } ]
+  }, {
+    "tStartMs": 2505120,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "[Alex] Scissors."
+    } ]
+  }, {
+    "tStartMs": 2506240,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Godammit."
+    } ]
+  }, {
+    "tStartMs": 2510040,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "-Car.\n-[Alex] Roller skate."
+    } ]
+  }, {
+    "tStartMs": 2511960,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "-Er. Er, guitar.\n-Guitar."
+    } ]
+  }, {
+    "tStartMs": 2514640,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "[Alex] Guitar is right.\n[blows whistle]"
+    } ]
+  }, {
+    "tStartMs": 2516240,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "-Unfortunately the team\nof three score two.\n-Ooh."
+    } ]
+  }, {
+    "tStartMs": 2521080,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "[Alex] Hmm, the door's open."
+    } ]
+  }, {
+    "tStartMs": 2525640,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "Okay Nina's there.\nThree, two, one.\n[blows whistle] We're off."
+    } ]
+  }, {
+    "tStartMs": 2532920,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "-Plank. Wood, erm, ruler.\n-[Alex] Is right."
+    } ]
+  }, {
+    "tStartMs": 2537200,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "-Ah, erm, circle. Doorknob.\n-Doorknob is right."
+    } ]
+  }, {
+    "tStartMs": 2540920,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "-What's that? Oh yes.\n-Mountain, hat. Snail."
+    } ]
+  }, {
+    "tStartMs": 2545080,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Traffic cone."
+    } ]
+  }, {
+    "tStartMs": 2547600,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "-[exhales] Erm, shoe.\nBoot. Er, welly.\n-Boot is correct."
+    } ]
+  }, {
+    "tStartMs": 2553160,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "-Er, lightning.\n-[Alex] Is right."
+    } ]
+  }, {
+    "tStartMs": 2556000,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "-[whistle]\n-The team of two score four."
+    } ]
+  }, {
+    "tStartMs": 2558960,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "-Wow.\n-That was good though."
+    } ]
+  }, {
+    "tStartMs": 2562560,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "-Please.\n-Big comeback. Come on."
+    } ]
+  }, {
+    "tStartMs": 2567000,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "-I'm ready.\n-Okay. Three, two, one.\n[blows whistle]."
+    } ]
+  }, {
+    "tStartMs": 2575360,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "-Microscope.\n-Stapler."
+    } ]
+  }, {
+    "tStartMs": 2577280,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "It was good,\nit was a good stapler as well."
+    } ]
+  }, {
+    "tStartMs": 2580240,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "-Chair.\n-Chair."
+    } ]
+  }, {
+    "tStartMs": 2581400,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Chair is right."
+    } ]
+  }, {
+    "tStartMs": 2583800,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "-[Matt and Richard] Handbag.\n-[Alex] Briefcase."
+    } ]
+  }, {
+    "tStartMs": 2586040,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "-Darn it.\n-Sexist."
+    } ]
+  }, {
+    "tStartMs": 2590320,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Obviously a tooth."
+    } ]
+  }, {
+    "tStartMs": 2594840,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "-House.\n-Tooth."
+    } ]
+  }, {
+    "tStartMs": 2596080,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Soap."
+    } ]
+  }, {
+    "tStartMs": 2598640,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "-House.\n-House. Hat."
+    } ]
+  }, {
+    "tStartMs": 2600400,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "[Alex] Camera."
+    } ]
+  }, {
+    "tStartMs": 2604440,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "-A pear.\n-Snowdrop."
+    } ]
+  }, {
+    "tStartMs": 2606200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "-[whistle]\n-That unbelievably\nit was a bowling pin."
+    } ]
+  }, {
+    "tStartMs": 2608280,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "-Oh.\n-The team of three score one."
+    } ]
+  }, {
+    "tStartMs": 2610880,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "-It's not easy.\n-One."
+    } ]
+  }, {
+    "tStartMs": 2615440,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "-She's an absolute pro.\n-Are you ready, Isy?"
+    } ]
+  }, {
+    "tStartMs": 2617680,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I am, yeah.\n-Three, two, one.\n[blows whistle]"
+    } ]
+  }, {
+    "tStartMs": 2620760,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "[Greg] So quick."
+    } ]
+  }, {
+    "tStartMs": 2621960,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Er, calculator, cheese grater."
+    } ]
+  }, {
+    "tStartMs": 2624040,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "R... remote control. Unlucky."
+    } ]
+  }, {
+    "tStartMs": 2627840,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "-Oh, erm. Oh.\n-No bad drawing, dice."
+    } ]
+  }, {
+    "tStartMs": 2632320,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "-Candle.\n-Yes."
+    } ]
+  }, {
+    "tStartMs": 2633600,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "-Lovely.\n-Candle's right."
+    } ]
+  }, {
+    "tStartMs": 2635040,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "-My god she's fast.\n-Er, microphone, watch."
+    } ]
+  }, {
+    "tStartMs": 2638520,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "-Watch is right.\n-[gasps]"
+    } ]
+  }, {
+    "tStartMs": 2641080,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "-Er, cone, ice cream.\n-Ice cream is right."
+    } ]
+  }, {
+    "tStartMs": 2643680,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "My god, she can draw."
+    } ]
+  }, {
+    "tStartMs": 2645480,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Tits, er, four of them. Erm."
+    } ]
+  }, {
+    "tStartMs": 2648680,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "It was fire. Not tits."
+    } ]
+  }, {
+    "tStartMs": 2651480,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "-A handbag, an envelope.\n-Envelope is right."
+    } ]
+  }, {
+    "tStartMs": 2653760,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "-Whoa.\n-Fish, fin."
+    } ]
+  }, {
+    "tStartMs": 2657760,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "-[whistle]\n-It was a whale"
+    } ]
+  }, {
+    "tStartMs": 2659160,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "but the team of two\nwin again with four."
+    } ]
+  }, {
+    "tStartMs": 2661480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Incredible."
+    } ]
+  }, {
+    "tStartMs": 2668360,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Okay, let's reset the stage\nand we'll see"
+    } ]
+  }, {
+    "tStartMs": 2670840,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "how that's affected\nthe final scores."
+    } ]
+  }, {
+    "tStartMs": 2675080,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Here we are. Good.\nThat will have surely affected\nthings dramatically."
+    } ]
+  }, {
+    "tStartMs": 2679480,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Well it depends\nhow many points\nyou're gonna give them."
+    } ]
+  }, {
+    "tStartMs": 2682200,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "They won three-nil\nthe team of two.\nThey got 14 right"
+    } ]
+  }, {
+    "tStartMs": 2684840,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "-compared to the team\nof three's seven.\n-Okay. Well..."
+    } ]
+  }, {
+    "tStartMs": 2687320,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "-Well how many points\nfor the team of two first?\n-Five."
+    } ]
+  }, {
+    "tStartMs": 2689760,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "It's gotta be five.\nThey smashed the task,\nbut the team of three?"
+    } ]
+  }, {
+    "tStartMs": 2692760,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "There's a massive\ngulf but they don't\ngo away empty-handed."
+    } ]
+  }, {
+    "tStartMs": 2695520,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "One."
+    } ]
+  }, {
+    "tStartMs": 2701560,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Well, it's a very\ntight scoreboard,\ntwo people on 15 points"
+    } ]
+  }, {
+    "tStartMs": 2705520,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "but the winner\nwith their fourth win,"
+    } ]
+  }, {
+    "tStartMs": 2707680,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Chloe 19 points."
+    } ]
+  }, {
+    "tStartMs": 2709600,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "[Greg] Oh my god."
+    } ]
+  }, {
+    "tStartMs": 2711680,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Chloe Petts wins again.\nPlease head up"
+    } ]
+  }, {
+    "tStartMs": 2714920,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "to get your sick bits\nof lit kit!"
+    } ]
+  }, {
+    "tStartMs": 2721400,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Chloe Petts!"
+    } ]
+  }, {
+    "tStartMs": 2723960,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "[theme music playing]"
+    } ]
+  } ]
+}

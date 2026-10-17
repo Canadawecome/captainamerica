@@ -1,0 +1,450 @@
+[
+  {
+    "id": "ev001",
+    "start": 0.0,
+    "end": 0.399,
+    "role": "COP",
+    "text": "I SHOW UP"
+  },
+  {
+    "id": "ev002",
+    "start": 0.399,
+    "end": 1.04,
+    "role": "COP",
+    "text": "ON SCENE AND"
+  },
+  {
+    "id": "ev003",
+    "start": 1.04,
+    "end": 1.6,
+    "role": "COP",
+    "text": "THEN YOU DRIVE"
+  },
+  {
+    "id": "ev004",
+    "start": 1.6,
+    "end": 2.8,
+    "role": "COP",
+    "text": "AWAY AND YOU'RE"
+  },
+  {
+    "id": "ev005",
+    "start": 2.8,
+    "end": 3.2,
+    "role": "COP",
+    "text": "IN THE"
+  },
+  {
+    "id": "ev006",
+    "start": 3.2,
+    "end": 3.84,
+    "role": "SUSPECT",
+    "text": "I CUZ CUZ"
+  },
+  {
+    "id": "ev007",
+    "start": 3.84,
+    "end": 4.32,
+    "role": "SUSPECT",
+    "text": "I HAD MY"
+  },
+  {
+    "id": "ev008",
+    "start": 4.32,
+    "end": 5.12,
+    "role": "SUSPECT",
+    "text": "I HAD MY"
+  },
+  {
+    "id": "ev009",
+    "start": 5.12,
+    "end": 5.36,
+    "role": "SUSPECT",
+    "text": "LIGHT"
+  },
+  {
+    "id": "ev010",
+    "start": 5.36,
+    "end": 5.759,
+    "role": "SUSPECT",
+    "text": "I WAS GOING"
+  },
+  {
+    "id": "ev011",
+    "start": 5.759,
+    "end": 6.08,
+    "role": "SUSPECT",
+    "text": "TO MAKE IT"
+  },
+  {
+    "id": "ev012",
+    "start": 6.08,
+    "end": 6.32,
+    "role": "SUSPECT",
+    "text": "RIGHT"
+  },
+  {
+    "id": "ev013",
+    "start": 6.32,
+    "end": 6.56,
+    "role": "SUSPECT",
+    "text": "I WAS GOING"
+  },
+  {
+    "id": "ev014",
+    "start": 6.56,
+    "end": 7.2,
+    "role": "SUSPECT",
+    "text": "TO SPIN AROUND"
+  },
+  {
+    "id": "ev015",
+    "start": 7.2,
+    "end": 8.08,
+    "role": "SUSPECT",
+    "text": "ONE MORE TIME"
+  },
+  {
+    "id": "ev016",
+    "start": 8.08,
+    "end": 8.56,
+    "role": "SUSPECT",
+    "text": "THAT'S WHY I"
+  },
+  {
+    "id": "ev017",
+    "start": 8.56,
+    "end": 9.12,
+    "role": "SUSPECT",
+    "text": "AIN'T CUZ I"
+  },
+  {
+    "id": "ev018",
+    "start": 9.12,
+    "end": 9.44,
+    "role": "SUSPECT",
+    "text": "DIDN'T WANT TO"
+  },
+  {
+    "id": "ev019",
+    "start": 9.44,
+    "end": 9.92,
+    "role": "SUSPECT",
+    "text": "GET IN TROUBLE"
+  },
+  {
+    "id": "ev020",
+    "start": 9.92,
+    "end": 10.32,
+    "role": "SUSPECT",
+    "text": "CUZ I SEEN"
+  },
+  {
+    "id": "ev021",
+    "start": 10.32,
+    "end": 10.639,
+    "role": "SUSPECT",
+    "text": "YOU RIGHT THERE"
+  },
+  {
+    "id": "ev022",
+    "start": 10.639,
+    "end": 10.96,
+    "role": "SUSPECT",
+    "text": "I AIN'T WANT"
+  },
+  {
+    "id": "ev023",
+    "start": 10.96,
+    "end": 14.68,
+    "role": "SUSPECT",
+    "text": "TO GET TROUBLE"
+  },
+  {
+    "id": "ev024",
+    "start": 16.24,
+    "end": 16.72,
+    "role": "COP",
+    "text": "DID YOU DID"
+  },
+  {
+    "id": "ev025",
+    "start": 16.72,
+    "end": 17.12,
+    "role": "COP",
+    "text": "YOU CALL HIM"
+  },
+  {
+    "id": "ev026",
+    "start": 17.12,
+    "end": 17.759,
+    "role": "COP",
+    "text": "YET"
+  },
+  {
+    "id": "ev027",
+    "start": 17.759,
+    "end": 21.32,
+    "role": "SUSPECT",
+    "text": "CALLING A LOT"
+  },
+  {
+    "id": "ev028",
+    "start": 25.36,
+    "end": 28.759,
+    "role": "COP",
+    "text": "PUT ON SPEAKER"
+  },
+  {
+    "id": "ev029",
+    "start": 48.16,
+    "end": 48.72,
+    "role": "SUSPECT",
+    "text": "YEAH"
+  },
+  {
+    "id": "ev030",
+    "start": 48.72,
+    "end": 49.519,
+    "role": "COP",
+    "text": "MALE SAYING THAT"
+  },
+  {
+    "id": "ev031",
+    "start": 49.519,
+    "end": 50.16,
+    "role": "COP",
+    "text": "THERE'S TWO OTHER"
+  },
+  {
+    "id": "ev032",
+    "start": 50.16,
+    "end": 51.04,
+    "role": "COP",
+    "text": "MALES"
+  },
+  {
+    "id": "ev033",
+    "start": 51.04,
+    "end": 51.999,
+    "role": "COP",
+    "text": "YOUNGER"
+  },
+  {
+    "id": "ev034",
+    "start": 51.999,
+    "end": 52.56,
+    "role": "COP",
+    "text": "YOUNGER"
+  },
+  {
+    "id": "ev035",
+    "start": 52.56,
+    "end": 55.56,
+    "role": "COP",
+    "text": "YEAH"
+  },
+  {
+    "id": "ev036",
+    "start": 58.639,
+    "end": 58.879,
+    "role": "COP",
+    "text": "ALL RIGHT"
+  },
+  {
+    "id": "ev037",
+    "start": 58.879,
+    "end": 59.2,
+    "role": "COP",
+    "text": "YOU ON THE"
+  },
+  {
+    "id": "ev038",
+    "start": 59.2,
+    "end": 61.84,
+    "role": "COP",
+    "text": "PHONE"
+  },
+  {
+    "id": "ev039",
+    "start": 61.84,
+    "end": 63.84,
+    "role": "SUSPECT",
+    "text": "HELLO"
+  },
+  {
+    "id": "ev040",
+    "start": 63.84,
+    "end": 64.16,
+    "role": "COP",
+    "text": "GIVE ME A"
+  },
+  {
+    "id": "ev041",
+    "start": 64.16,
+    "end": 64.639,
+    "role": "COP",
+    "text": "SEC"
+  },
+  {
+    "id": "ev042",
+    "start": 64.639,
+    "end": 65.759,
+    "role": "COP",
+    "text": "WHAT'S YOUR NAME"
+  },
+  {
+    "id": "ev043",
+    "start": 65.759,
+    "end": 66.8,
+    "role": "SUSPECT",
+    "text": "THIS IS ZAY"
+  },
+  {
+    "id": "ev044",
+    "start": 66.8,
+    "end": 67.2,
+    "role": "COP",
+    "text": "HIS NAME IS"
+  },
+  {
+    "id": "ev045",
+    "start": 67.2,
+    "end": 67.519,
+    "role": "COP",
+    "text": "ZAY"
+  },
+  {
+    "id": "ev046",
+    "start": 67.519,
+    "end": 68.08,
+    "role": "SUSPECT",
+    "text": "YEAH THAT'S THE"
+  },
+  {
+    "id": "ev047",
+    "start": 68.08,
+    "end": 68.48,
+    "role": "SUSPECT",
+    "text": "ONE THAT'S WITH"
+  },
+  {
+    "id": "ev048",
+    "start": 68.48,
+    "end": 68.96,
+    "role": "SUSPECT",
+    "text": "YOU"
+  },
+  {
+    "id": "ev049",
+    "start": 68.96,
+    "end": 70.04,
+    "role": "SUSPECT",
+    "text": "YEAH"
+  },
+  {
+    "id": "ev050",
+    "start": 70.04,
+    "end": 71.04,
+    "role": "COP",
+    "text": "OKAY"
+  },
+  {
+    "id": "ev051",
+    "start": 71.04,
+    "end": 72.639,
+    "role": "COP",
+    "text": "Z"
+  },
+  {
+    "id": "ev052",
+    "start": 72.639,
+    "end": 73.84,
+    "role": "COP",
+    "text": "YEAH"
+  },
+  {
+    "id": "ev053",
+    "start": 73.84,
+    "end": 74.399,
+    "role": "COP",
+    "text": "HEY BUD"
+  },
+  {
+    "id": "ev054",
+    "start": 74.399,
+    "end": 74.96,
+    "role": "COP",
+    "text": "WHERE WHERE YOU"
+  },
+  {
+    "id": "ev055",
+    "start": 74.96,
+    "end": 76.48,
+    "role": "COP",
+    "text": "AT"
+  },
+  {
+    "id": "ev056",
+    "start": 76.48,
+    "end": 77.36,
+    "role": "SUSPECT",
+    "text": "HE IN ORLANDO"
+  },
+  {
+    "id": "ev057",
+    "start": 77.36,
+    "end": 77.92,
+    "role": "SUSPECT",
+    "text": "WITH US"
+  },
+  {
+    "id": "ev058",
+    "start": 77.92,
+    "end": 78.48,
+    "role": "COP",
+    "text": "HUH"
+  },
+  {
+    "id": "ev059",
+    "start": 78.48,
+    "end": 79.36,
+    "role": "SUSPECT",
+    "text": "HE IN ORLANDO"
+  },
+  {
+    "id": "ev060",
+    "start": 79.36,
+    "end": 81.36,
+    "role": "SUSPECT",
+    "text": "WITH US"
+  },
+  {
+    "id": "ev061",
+    "start": 81.36,
+    "end": 81.68,
+    "role": "COP",
+    "text": "DO YOU KNOW"
+  },
+  {
+    "id": "ev062",
+    "start": 81.68,
+    "end": 82.08,
+    "role": "COP",
+    "text": "WHERE YOU'RE AT"
+  },
+  {
+    "id": "ev063",
+    "start": 82.08,
+    "end": 82.639,
+    "role": "COP",
+    "text": "RIGHT NOW"
+  },
+  {
+    "id": "ev064",
+    "start": 82.639,
+    "end": 84.879,
+    "role": "SUSPECT",
+    "text": "THIS ORLANDO RIGHT"
+  }
+]

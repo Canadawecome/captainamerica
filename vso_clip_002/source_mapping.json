@@ -1,0 +1,12 @@
+{
+  "candidate_id": "w003_p3",
+  "verified_by": "OPUS_PROVIDER",
+  "reviewer_or_project_id": "P3101714WviL",
+  "source_ranges_sec": [
+    [
+      685.474,
+      796.66
+    ]
+  ],
+  "evidence_note": "Exported range matches candidate w003_p3"
+}

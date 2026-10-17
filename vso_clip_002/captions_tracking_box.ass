@@ -1,0 +1,100 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TrackBox,Arial Black,64,&H00FFFFFF&,&H00000000,&H00000000,&H00000000,1,1,0,0,100,100,0,0,3,13,0,2,20,20,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.48,TrackBox,,0,0,0,,{\move(480,1150,456,1159)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}MUSIC IS THERE
+Dialogue: 0,0:00:03.48,0:00:03.97,TrackBox,,0,0,0,,{\pos(456,1159)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}A WAY OUT
+Dialogue: 0,0:00:03.97,0:00:05.89,TrackBox,,0,0,0,,{\move(453,1160,440,1165)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}THIS WAY
+Dialogue: 0,0:00:05.89,0:00:06.45,TrackBox,,0,0,0,,{\pos(740,1120)}{\fs38\c&H0000E5FF&}CITIZEN:\N{\fs64\c&H00FFFFFF&}THAT'S GOING TO
+Dialogue: 0,0:00:06.45,0:00:08.69,TrackBox,,0,0,0,,{\pos(740,1120)}{\fs38\c&H0000E5FF&}CITIZEN:\N{\fs64\c&H00FFFFFF&}THE STATE PARK
+Dialogue: 0,0:00:08.69,0:00:09.01,TrackBox,,0,0,0,,{\pos(740,1120)}{\fs38\c&H0000E5FF&}CITIZEN:\N{\fs64\c&H00FFFFFF&}YOU WANT ME
+Dialogue: 0,0:00:09.01,0:00:09.33,TrackBox,,0,0,0,,{\pos(740,1120)}{\fs38\c&H0000E5FF&}CITIZEN:\N{\fs64\c&H00FFFFFF&}TO PUT THE
+Dialogue: 0,0:00:09.33,0:00:09.73,TrackBox,,0,0,0,,{\pos(740,1120)}{\fs38\c&H0000E5FF&}CITIZEN:\N{\fs64\c&H00FFFFFF&}BOAT IN THE
+Dialogue: 0,0:00:09.73,0:00:10.04,TrackBox,,0,0,0,,{\pos(740,1120)}{\fs38\c&H0000E5FF&}CITIZEN:\N{\fs64\c&H00FFFFFF&}WATER
+Dialogue: 0,0:00:10.04,0:00:10.45,TrackBox,,0,0,0,,{\pos(413,1176)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}YES SIR
+Dialogue: 0,0:00:10.45,0:00:10.73,TrackBox,,0,0,0,,{\pos(740,1120)}{\fs38\c&H0000E5FF&}CITIZEN:\N{\fs64\c&H00FFFFFF&}YEAH
+Dialogue: 0,0:00:10.69,0:00:11.97,TrackBox,,0,0,0,,{\pos(408,1178)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}GO AHEAD
+Dialogue: 0,0:00:11.97,0:00:12.25,TrackBox,,0,0,0,,{\pos(740,1120)}{\fs38\c&H0000E5FF&}CITIZEN:\N{\fs64\c&H00FFFFFF&}WATER
+Dialogue: 0,0:00:12.21,0:00:13.25,TrackBox,,0,0,0,,{\pos(398,1182)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}LET'S GO MAN
+Dialogue: 0,0:00:13.25,0:00:17.80,TrackBox,,0,0,0,,{\move(391,1185,374,1192)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}GO MUSIC AHEAD
+Dialogue: 0,0:00:17.80,0:00:18.53,TrackBox,,0,0,0,,{\pos(374,1192)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}UH THEY'RE HEADING
+Dialogue: 0,0:00:18.53,0:00:18.92,TrackBox,,0,0,0,,{\pos(372,1193)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}NORTH
+Dialogue: 0,0:00:18.92,0:00:19.33,TrackBox,,0,0,0,,{\pos(372,1193)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}THEY'RE KIND OF
+Dialogue: 0,0:00:19.33,0:00:20.36,TrackBox,,0,0,0,,{\pos(371,1194)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}HEADING TOWARDS UH
+Dialogue: 0,0:00:20.36,0:00:21.09,TrackBox,,0,0,0,,{\pos(369,1195)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}STATE PARK I
+Dialogue: 0,0:00:21.09,0:00:21.57,TrackBox,,0,0,0,,{\pos(367,1196)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}BELIEVE
+Dialogue: 0,0:00:21.57,0:00:22.29,TrackBox,,0,0,0,,{\pos(366,1196)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}WE'RE PUTTING THE
+Dialogue: 0,0:00:22.29,0:00:22.92,TrackBox,,0,0,0,,{\pos(365,1197)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}OTHER BOAT IN
+Dialogue: 0,0:00:22.92,0:00:23.73,TrackBox,,0,0,0,,{\pos(364,1197)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}THE WATER NOW
+Dialogue: 0,0:00:23.73,0:00:24.29,TrackBox,,0,0,0,,{\pos(362,1198)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}THEY'RE GOING STRAIGHT
+Dialogue: 0,0:00:24.29,0:00:25.09,TrackBox,,0,0,0,,{\pos(361,1199)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}TO THE PARK
+Dialogue: 0,0:00:25.09,0:00:25.48,TrackBox,,0,0,0,,{\pos(359,1200)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}CAN YOU GUYS
+Dialogue: 0,0:00:25.48,0:00:25.97,TrackBox,,0,0,0,,{\pos(359,1200)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}GO TO THE
+Dialogue: 0,0:00:25.97,0:00:27.73,TrackBox,,0,0,0,,{\pos(358,1200)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}PARK
+Dialogue: 0,0:00:27.73,0:00:28.13,TrackBox,,0,0,0,,{\pos(729,1125)}{\fs38\c&H0000E5FF&}CITIZEN:\N{\fs64\c&H00FFFFFF&}ALL RIGHT
+Dialogue: 0,0:00:28.13,0:00:29.09,TrackBox,,0,0,0,,{\pos(353,1203)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}YEAH THEY'RE GOING
+Dialogue: 0,0:00:29.09,0:00:29.73,TrackBox,,0,0,0,,{\pos(351,1204)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}UH THEY'RE GOING
+Dialogue: 0,0:00:29.73,0:00:30.53,TrackBox,,0,0,0,,{\pos(350,1204)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}TO THE STATE
+Dialogue: 0,0:00:30.53,0:00:31.57,TrackBox,,0,0,0,,{\pos(348,1205)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}PARK NOW
+Dialogue: 0,0:00:31.57,0:00:32.13,TrackBox,,0,0,0,,{\pos(346,1206)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}HEY LET'S JUMP
+Dialogue: 0,0:00:32.13,0:00:35.45,TrackBox,,0,0,0,,{\pos(345,1207)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}IN THIS BOAT
+Dialogue: 0,0:00:38.13,0:00:39.17,TrackBox,,0,0,0,,{\pos(687,1146)}{\fs38\c&H0000E5FF&}CITIZEN:\N{\fs64\c&H00FFFFFF&}YES IT'S AN
+Dialogue: 0,0:00:39.17,0:00:39.73,TrackBox,,0,0,0,,{\pos(683,1148)}{\fs38\c&H0000E5FF&}CITIZEN:\N{\fs64\c&H00FFFFFF&}AIRBOAT
+Dialogue: 0,0:00:39.73,0:00:40.13,TrackBox,,0,0,0,,{\pos(330,1214)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}SILVER
+Dialogue: 0,0:00:40.13,0:00:41.16,TrackBox,,0,0,0,,{\pos(329,1215)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}IT'S GOT A
+Dialogue: 0,0:00:41.16,0:00:41.97,TrackBox,,0,0,0,,{\pos(327,1216)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}GREEN WING ON
+Dialogue: 0,0:00:41.97,0:00:43.04,TrackBox,,0,0,0,,{\pos(326,1216)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}IT
+Dialogue: 0,0:00:43.04,0:00:44.04,TrackBox,,0,0,0,,{\pos(667,1156)}{\fs38\c&H0000E5FF&}CITIZEN:\N{\fs64\c&H00FFFFFF&}YEAH
+Dialogue: 0,0:00:44.04,0:00:45.65,TrackBox,,0,0,0,,{\pos(321,1219)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}GO MOM
+Dialogue: 0,0:00:45.65,0:00:46.29,TrackBox,,0,0,0,,{\pos(657,1161)}{\fs38\c&H0000E5FF&}CITIZEN:\N{\fs64\c&H00FFFFFF&}PUSH OFF IT
+Dialogue: 0,0:00:46.29,0:00:47.01,TrackBox,,0,0,0,,{\pos(654,1162)}{\fs38\c&H0000E5FF&}CITIZEN:\N{\fs64\c&H00FFFFFF&}PUSH OFF PART
+Dialogue: 0,0:00:47.01,0:00:47.89,TrackBox,,0,0,0,,{\pos(322,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}WE NEED SOMEBODY
+Dialogue: 0,0:00:47.89,0:00:48.29,TrackBox,,0,0,0,,{\pos(322,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}UH TO GO
+Dialogue: 0,0:00:48.29,0:00:49.48,TrackBox,,0,0,0,,{\pos(323,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}TO THE THERE'S
+Dialogue: 0,0:00:49.48,0:00:50.04,TrackBox,,0,0,0,,{\pos(324,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}AIR1
+Dialogue: 0,0:00:50.04,0:00:50.60,TrackBox,,0,0,0,,{\pos(325,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}WE NEED SOMEBODY
+Dialogue: 0,0:00:50.60,0:00:51.09,TrackBox,,0,0,0,,{\pos(325,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}TO GO OVER
+Dialogue: 0,0:00:51.09,0:00:51.80,TrackBox,,0,0,0,,{\pos(326,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}TO UH THE
+Dialogue: 0,0:00:51.80,0:00:52.53,TrackBox,,0,0,0,,{\pos(326,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}STATE PARK
+Dialogue: 0,0:00:52.53,0:00:53.01,TrackBox,,0,0,0,,{\pos(327,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}SEE IF THEY
+Dialogue: 0,0:00:53.01,0:00:53.48,TrackBox,,0,0,0,,{\pos(328,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}DON'T GO IN
+Dialogue: 0,0:00:53.48,0:00:53.97,TrackBox,,0,0,0,,{\pos(328,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}THERE AND DITCH
+Dialogue: 0,0:00:53.97,0:00:54.92,TrackBox,,0,0,0,,{\pos(328,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}IT
+Dialogue: 0,0:00:54.92,0:00:55.57,TrackBox,,0,0,0,,{\pos(329,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}AIR1 YOU SHOULD
+Dialogue: 0,0:00:55.57,0:00:55.97,TrackBox,,0,0,0,,{\pos(330,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}HAVE IT HERE
+Dialogue: 0,0:00:55.97,0:00:56.69,TrackBox,,0,0,0,,{\pos(330,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}SHORTLY
+Dialogue: 0,0:00:56.69,0:01:00.04,TrackBox,,0,0,0,,{\pos(331,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}IT'S ONLY BOAT
+Dialogue: 0,0:01:00.04,0:01:01.33,TrackBox,,0,0,0,,{\pos(640,1180)}{\fs38\c&H0000E5FF&}CITIZEN:\N{\fs64\c&H00FFFFFF&}REVERSE
+Dialogue: 0,0:01:01.33,0:01:03.57,TrackBox,,0,0,0,,{\pos(336,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}YEP
+Dialogue: 0,0:01:19.45,0:01:20.45,TrackBox,,0,0,0,,{\pos(354,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}YEP
+Dialogue: 0,0:01:20.45,0:01:22.45,TrackBox,,0,0,0,,{\pos(355,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}ALL
+Dialogue: 0,0:01:28.45,0:01:29.01,TrackBox,,0,0,0,,{\pos(363,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}RIGHT GET YOUR
+Dialogue: 0,0:01:29.01,0:01:29.80,TrackBox,,0,0,0,,{\pos(364,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}GUN OUT GUYS
+Dialogue: 0,0:01:29.80,0:01:30.13,TrackBox,,0,0,0,,{\pos(364,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}WE'RE GOING TO
+Dialogue: 0,0:01:30.13,0:01:32.45,TrackBox,,0,0,0,,{\pos(365,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}CHALLENGE
+Dialogue: 0,0:01:36.65,0:01:37.65,TrackBox,,0,0,0,,{\pos(371,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}PEOPLE
+Dialogue: 0,0:01:37.65,0:01:38.13,TrackBox,,0,0,0,,{\pos(372,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}ALL RIGHT GIVE
+Dialogue: 0,0:01:38.13,0:01:38.69,TrackBox,,0,0,0,,{\pos(373,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}US A CHANNEL
+Dialogue: 0,0:01:38.69,0:01:39.01,TrackBox,,0,0,0,,{\pos(373,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}REAL QUICK
+Dialogue: 0,0:01:39.01,0:01:39.33,TrackBox,,0,0,0,,{\pos(374,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}WE'RE GOING TO
+Dialogue: 0,0:01:39.33,0:01:39.97,TrackBox,,0,0,0,,{\pos(374,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}CHALLENGE THESE GUYS
+Dialogue: 0,0:01:39.97,0:01:40.45,TrackBox,,0,0,0,,{\pos(374,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}I KNOW IT'S
+Dialogue: 0,0:01:40.45,0:01:40.77,TrackBox,,0,0,0,,{\pos(375,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}HARD TO HEAR
+Dialogue: 0,0:01:40.77,0:01:43.80,TrackBox,,0,0,0,,{\pos(375,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}OUT HERE
+Dialogue: 0,0:01:43.80,0:01:46.60,TrackBox,,0,0,0,,{\pos(378,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}SLOW DOWN
+Dialogue: 0,0:01:46.60,0:01:47.01,TrackBox,,0,0,0,,{\pos(380,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}GIVE US A
+Dialogue: 0,0:01:47.01,0:01:47.33,TrackBox,,0,0,0,,{\pos(380,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}CHANNEL
+Dialogue: 0,0:01:47.33,0:01:47.89,TrackBox,,0,0,0,,{\pos(380,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}WE'RE GOING TO CHALLENGE
+Dialogue: 0,0:01:47.89,0:01:48.36,TrackBox,,0,0,0,,{\pos(380,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}THESE GUYS
+Dialogue: 0,0:01:48.36,0:01:48.85,TrackBox,,0,0,0,,{\pos(380,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}COMING UP TO
+Dialogue: 0,0:01:48.85,0:01:51.16,TrackBox,,0,0,0,,{\pos(380,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}THEM
+Dialogue: 0,0:01:51.16,0:01:51.48,TrackBox,,0,0,0,,{\pos(380,1220)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}HANDS

@@ -1,0 +1,13 @@
+{
+  "file": "vso_clip_001\\final_multi_speaker.mp4",
+  "duration_sec": 90.066667,
+  "has_audio": true,
+  "audio_codec": "aac",
+  "channels": 2,
+  "rms_dbfs": "-27.547672",
+  "peak_dbfs": "-5.979657",
+  "silence_intervals_40db": [],
+  "silence_ratio": 0.0,
+  "warnings": [],
+  "requires_human_listening_for_speech_accuracy": true
+}

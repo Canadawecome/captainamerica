@@ -1,0 +1,16 @@
+{
+  "status": "SOURCE_GROUP_VERIFIED",
+  "group_id": "group_001",
+  "candidate_ids": [
+    "w002_p1"
+  ],
+  "source_ranges_sec": [
+    [
+      421.346,
+      489.772
+    ]
+  ],
+  "overlap_ratio": 1.0,
+  "provider_project_id": "P3101713Fp8D",
+  "requires_per_candidate_review": false
+}

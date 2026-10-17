@@ -1,0 +1,78 @@
+{
+  "schema_version": "podcast-v1.1",
+  "results": [
+    {
+      "group_id": "group_001",
+      "candidate_ids": [
+        "w002_p1"
+      ],
+      "status": "SUBMITTED",
+      "result": {
+        "id": "P3101713Fp8D",
+        "sourcePlatform": "YOUTUBE",
+        "sourceId": "YT_kozNkiTzzQE",
+        "sourceInfo": {
+          "type": "YOUTUBE",
+          "videoId": "kozNkiTzzQE",
+          "title": "Taskmaster Season 22, Episode 6 - 'To void an oblong.' | Full Episode",
+          "thumbnailUrl": "https://i.ytimg.com/vi_webp/kozNkiTzzQE/maxresdefault.webp",
+          "durationMs": 2770000,
+          "publishAt": "2026-10-17T13:15:59.119Z"
+        },
+        "userId": "user_01M4WMBZKTJYNWNNM2QTNTP56Y",
+        "orgId": "org_1k4skc0dav45yA6LyP56Y",
+        "productTier": "PRO",
+        "stage": "QUEUED",
+        "model": "ClipAnything",
+        "isPrivate": false,
+        "importPref": {
+          "hasScreenplay": true,
+          "enableUnifiedGenre": true
+        },
+        "curationPref": {
+          "model": "ClipAnything",
+          "range": {
+            "startSec": 419.56,
+            "endSec": 492.2
+          },
+          "clipDurations": [
+            [
+              70,
+              72
+            ]
+          ],
+          "customPrompt": "Find the strongest self-contained conversation within these themes: Find the English podcast discussion where a speaker says \"It's got some like Nutella on it. Oh whoopsie.\" and develops the point toward \"Biggest whoopsie wins.\". Important context: A small apparent mishap turns into an absurdly formal \u201cwhoopsie\u201d contest, with a clear rule, escalating attempts, and a comic callback. The excerpt includes the setup and the start of the challenge without presenting the mishap as something more serious than the transcript supports..",
+          "disableJudgeModel": false,
+          "disableSwitchModel": false,
+          "countScaler": 1
+        },
+        "renderPref": {
+          "skipReframe": false,
+          "enableWatermark": false,
+          "layoutAspectRatio": "portrait",
+          "enableCaption": false,
+          "enableEmoji": false,
+          "quickstartConfig": {
+            "enableRemoveFillerWords": false
+          },
+          "enableSplitLayout": true,
+          "disableFitBackgroundBlur": false
+        },
+        "storageSize": 0,
+        "storageExpireAt": "2026-11-16T13:15:59.119Z",
+        "storageStatus": "TEMPORARY",
+        "createdAt": "2026-10-17T13:15:59.135Z",
+        "updatedAt": "2026-10-17T13:15:59.135Z",
+        "title": "Taskmaster Season 22, Episode 6 - 'To void an oblong.' | Full Episode",
+        "projectId": "P3101713Fp8D",
+        "visibility": "DEFAULT",
+        "permissions": [
+          "PROJECT_SHARE",
+          "PROJECT_EDIT",
+          "PROJECT_VIEW"
+        ],
+        "promptRecommendations": []
+      }
+    }
+  ]
+}

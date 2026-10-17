@@ -1,0 +1,75 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S1,Inter Bold,56,&H00BEE663,&H00000000,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,3.5,1.0,5,20,20,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.80,S1,,0,0,0,,{\pos(540,1498)}[Music] Is there a way
+Dialogue: 0,0:00:03.80,0:00:05.89,S1,,0,0,0,,{\pos(540,1498)}out this way?
+Dialogue: 0,0:00:05.89,0:00:06.85,S1,,0,0,0,,{\pos(540,1498)}That's going to the state
+Dialogue: 0,0:00:06.85,0:00:08.69,S1,,0,0,0,,{\pos(540,1498)}park.
+Dialogue: 0,0:00:08.69,0:00:09.25,S1,,0,0,0,,{\pos(540,1498)}You want me to put
+Dialogue: 0,0:00:09.25,0:00:10.04,S1,,0,0,0,,{\pos(540,1498)}the boat in the water?
+Dialogue: 0,0:00:10.04,0:00:10.45,S1,,0,0,0,,{\pos(540,1498)}Yes, sir.
+Dialogue: 0,0:00:10.45,0:00:10.69,S1,,0,0,0,,{\pos(540,1498)}Yeah.
+Dialogue: 0,0:00:10.69,0:00:11.97,S1,,0,0,0,,{\pos(540,1498)}Go ahead.
+Dialogue: 0,0:00:11.97,0:00:12.21,S1,,0,0,0,,{\pos(540,1498)}Water.
+Dialogue: 0,0:00:12.21,0:00:13.25,S1,,0,0,0,,{\pos(540,1498)}Let's go, man.
+Dialogue: 0,0:00:13.25,0:00:17.80,S1,,0,0,0,,{\pos(540,1498)}Go [Music] ahead.
+Dialogue: 0,0:00:17.80,0:00:18.92,S1,,0,0,0,,{\pos(540,1498)}Uh, they're heading north.
+Dialogue: 0,0:00:18.92,0:00:20.13,S1,,0,0,0,,{\pos(540,1498)}They're kind of heading towards
+Dialogue: 0,0:00:20.13,0:00:21.57,S1,,0,0,0,,{\pos(540,1498)}uh state park, I believe.
+Dialogue: 0,0:00:21.57,0:00:22.69,S1,,0,0,0,,{\pos(540,1498)}We're putting the other boat
+Dialogue: 0,0:00:22.69,0:00:23.73,S1,,0,0,0,,{\pos(540,1498)}in the water now.
+Dialogue: 0,0:00:23.73,0:00:24.53,S1,,0,0,0,,{\pos(540,1498)}They're going straight to the
+Dialogue: 0,0:00:24.53,0:00:25.09,S1,,0,0,0,,{\pos(540,1498)}park.
+Dialogue: 0,0:00:25.09,0:00:25.80,S1,,0,0,0,,{\pos(540,1498)}Can you guys go to
+Dialogue: 0,0:00:25.80,0:00:27.73,S1,,0,0,0,,{\pos(540,1498)}the park?
+Dialogue: 0,0:00:27.73,0:00:28.13,S1,,0,0,0,,{\pos(540,1498)}All right.
+Dialogue: 0,0:00:28.13,0:00:29.65,S1,,0,0,0,,{\pos(540,1498)}Yeah, they're going uh they're
+Dialogue: 0,0:00:29.65,0:00:30.85,S1,,0,0,0,,{\pos(540,1498)}going to the state park
+Dialogue: 0,0:00:30.85,0:00:31.57,S1,,0,0,0,,{\pos(540,1498)}now.
+Dialogue: 0,0:00:31.57,0:00:32.45,S1,,0,0,0,,{\pos(540,1498)}Hey, let's jump in this
+Dialogue: 0,0:00:32.45,0:00:35.45,S1,,0,0,0,,{\pos(540,1498)}boat.
+Dialogue: 0,0:00:38.13,0:00:39.73,S1,,0,0,0,,{\pos(540,1498)}Yes, it's an airboat.
+Dialogue: 0,0:00:39.73,0:00:40.13,S1,,0,0,0,,{\pos(540,1498)}Silver.
+Dialogue: 0,0:00:40.13,0:00:41.80,S1,,0,0,0,,{\pos(540,1498)}It's got a green wing
+Dialogue: 0,0:00:41.80,0:00:43.04,S1,,0,0,0,,{\pos(540,1498)}on it.
+Dialogue: 0,0:00:43.04,0:00:44.04,S1,,0,0,0,,{\pos(540,1498)}Yeah.
+Dialogue: 0,0:00:44.04,0:00:45.65,S1,,0,0,0,,{\pos(540,1498)}Go, mom.
+Dialogue: 0,0:00:45.65,0:00:46.29,S1,,0,0,0,,{\pos(540,1498)}Push off it.
+Dialogue: 0,0:00:46.29,0:00:47.01,S1,,0,0,0,,{\pos(540,1498)}Push off part.
+Dialogue: 0,0:00:47.01,0:00:48.13,S1,,0,0,0,,{\pos(540,1498)}We need somebody uh to
+Dialogue: 0,0:00:48.13,0:00:50.04,S1,,0,0,0,,{\pos(540,1498)}go to the There's Air1.
+Dialogue: 0,0:00:50.04,0:00:50.92,S1,,0,0,0,,{\pos(540,1498)}We need somebody to go
+Dialogue: 0,0:00:50.92,0:00:52.04,S1,,0,0,0,,{\pos(540,1498)}over to uh the state
+Dialogue: 0,0:00:52.04,0:00:52.53,S1,,0,0,0,,{\pos(540,1498)}park.
+Dialogue: 0,0:00:52.53,0:00:53.25,S1,,0,0,0,,{\pos(540,1498)}See if they don't go
+Dialogue: 0,0:00:53.25,0:00:54.92,S1,,0,0,0,,{\pos(540,1498)}in there and ditch it.
+Dialogue: 0,0:00:54.92,0:00:55.80,S1,,0,0,0,,{\pos(540,1498)}Air1, you should have it
+Dialogue: 0,0:00:55.80,0:00:56.69,S1,,0,0,0,,{\pos(540,1498)}here shortly.
+Dialogue: 0,0:00:56.69,0:01:00.04,S1,,0,0,0,,{\pos(540,1498)}It's only boat.
+Dialogue: 0,0:01:00.04,0:01:01.33,S1,,0,0,0,,{\pos(540,1498)}Reverse.
+Dialogue: 0,0:01:01.33,0:01:03.57,S1,,0,0,0,,{\pos(540,1498)}Yep.
+Dialogue: 0,0:01:19.45,0:01:20.45,S1,,0,0,0,,{\pos(540,1498)}Yep.
+Dialogue: 0,0:01:20.45,0:01:22.45,S1,,0,0,0,,{\pos(540,1498)}All
+Dialogue: 0,0:01:28.45,0:01:29.48,S1,,0,0,0,,{\pos(540,1498)}right, get your gun out,
+Dialogue: 0,0:01:29.48,0:01:29.80,S1,,0,0,0,,{\pos(540,1498)}guys.
+Dialogue: 0,0:01:29.80,0:01:32.45,S1,,0,0,0,,{\pos(540,1498)}We're going to challenge
+Dialogue: 0,0:01:36.65,0:01:37.65,S1,,0,0,0,,{\pos(540,1498)}people.
+Dialogue: 0,0:01:37.65,0:01:38.45,S1,,0,0,0,,{\pos(540,1498)}All right, give us a
+Dialogue: 0,0:01:38.45,0:01:39.01,S1,,0,0,0,,{\pos(540,1498)}channel real quick.
+Dialogue: 0,0:01:39.01,0:01:39.80,S1,,0,0,0,,{\pos(540,1498)}We're going to challenge these
+Dialogue: 0,0:01:39.80,0:01:39.97,S1,,0,0,0,,{\pos(540,1498)}guys.
+Dialogue: 0,0:01:39.97,0:01:40.60,S1,,0,0,0,,{\pos(540,1498)}I know it's hard to
+Dialogue: 0,0:01:40.60,0:01:43.80,S1,,0,0,0,,{\pos(540,1498)}hear out here.
+Dialogue: 0,0:01:43.80,0:01:46.60,S1,,0,0,0,,{\pos(540,1498)}Slow down.
+Dialogue: 0,0:01:46.60,0:01:47.33,S1,,0,0,0,,{\pos(540,1498)}Give us a channel.
+Dialogue: 0,0:01:47.33,0:01:48.36,S1,,0,0,0,,{\pos(540,1498)}We're going to challenge these guys.
+Dialogue: 0,0:01:48.36,0:01:51.16,S1,,0,0,0,,{\pos(540,1498)}Coming up to them.
+Dialogue: 0,0:01:51.16,0:01:51.48,S1,,0,0,0,,{\pos(540,1498)}Hands

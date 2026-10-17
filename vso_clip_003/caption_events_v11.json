@@ -1,0 +1,1814 @@
+{
+  "schema_version": "1.1-podcast",
+  "audio_policy": "PRESERVE_FINAL_NATIVE_AUDIO",
+  "tts_enabled": false,
+  "final_media": {
+    "video_file": "clip.mp4",
+    "media_sha256": "008f5ac79df5f6ddf6bd4115c97ecfca9c4da73e65b95e42eb8c23af737fdf27",
+    "duration_sec": 83.566667,
+    "canvas": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  "caption_mode": "SMART_HYBRID",
+  "speakers": [
+    {
+      "speaker_id": "S1",
+      "display_name": "Speaker 1",
+      "display_color": "#63E6BE",
+      "is_dominant": true
+    }
+  ],
+  "caption_events": [
+    {
+      "id": "ev001",
+      "start": 0.0,
+      "end": 0.879,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "I show up on scene",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.08,
+          "text": "I",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 0.08,
+          "end": 0.24,
+          "text": "show",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 0.24,
+          "end": 0.399,
+          "text": "up",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 0.399,
+          "end": 0.639,
+          "text": "on",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 0.639,
+          "end": 0.879,
+          "text": "scene",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev002",
+      "start": 0.879,
+      "end": 2.48,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "and then you drive away",
+      "words": [
+        {
+          "start": 0.879,
+          "end": 1.04,
+          "text": "and",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 1.04,
+          "end": 1.2,
+          "text": "then",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 1.2,
+          "end": 1.36,
+          "text": "you",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 1.36,
+          "end": 1.6,
+          "text": "drive",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 1.6,
+          "end": 2.48,
+          "text": "away",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev003",
+      "start": 2.48,
+      "end": 3.519,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "and you're in the I",
+      "words": [
+        {
+          "start": 2.48,
+          "end": 2.639,
+          "text": "and",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 2.639,
+          "end": 2.8,
+          "text": "you're",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 2.8,
+          "end": 2.879,
+          "text": "in",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 2.879,
+          "end": 3.2,
+          "text": "the",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 3.2,
+          "end": 3.519,
+          "text": "I",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev004",
+      "start": 3.519,
+      "end": 4.32,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "cuz cuz I had my",
+      "words": [
+        {
+          "start": 3.519,
+          "end": 3.68,
+          "text": "cuz",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 3.68,
+          "end": 3.84,
+          "text": "cuz",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 3.84,
+          "end": 3.999,
+          "text": "I",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 3.999,
+          "end": 4.16,
+          "text": "had",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 4.16,
+          "end": 4.32,
+          "text": "my",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev005",
+      "start": 4.32,
+      "end": 5.36,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "I had my light.",
+      "words": [
+        {
+          "start": 4.32,
+          "end": 4.48,
+          "text": "I",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 4.48,
+          "end": 4.639,
+          "text": "had",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 4.639,
+          "end": 5.12,
+          "text": "my",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 5.12,
+          "end": 5.36,
+          "text": "light.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev006",
+      "start": 5.36,
+      "end": 5.92,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "I was going to make",
+      "words": [
+        {
+          "start": 5.36,
+          "end": 5.519,
+          "text": "I",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 5.519,
+          "end": 5.68,
+          "text": "was",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 5.68,
+          "end": 5.759,
+          "text": "going",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 5.759,
+          "end": 5.84,
+          "text": "to",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 5.84,
+          "end": 5.92,
+          "text": "make",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev007",
+      "start": 5.92,
+      "end": 6.32,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "it right.",
+      "words": [
+        {
+          "start": 5.92,
+          "end": 6.08,
+          "text": "it",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 6.08,
+          "end": 6.32,
+          "text": "right.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev008",
+      "start": 6.32,
+      "end": 6.879,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "I was going to spin",
+      "words": [
+        {
+          "start": 6.32,
+          "end": 6.399,
+          "text": "I",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 6.399,
+          "end": 6.48,
+          "text": "was",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 6.48,
+          "end": 6.56,
+          "text": "going",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 6.56,
+          "end": 6.72,
+          "text": "to",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 6.72,
+          "end": 6.879,
+          "text": "spin",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev009",
+      "start": 6.879,
+      "end": 8.08,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "around one more time.",
+      "words": [
+        {
+          "start": 6.879,
+          "end": 7.2,
+          "text": "around",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 7.2,
+          "end": 7.44,
+          "text": "one",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 7.44,
+          "end": 7.6,
+          "text": "more",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 7.6,
+          "end": 8.08,
+          "text": "time.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev010",
+      "start": 8.08,
+      "end": 8.96,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "That's why I ain't cuz",
+      "words": [
+        {
+          "start": 8.08,
+          "end": 8.32,
+          "text": "That's",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 8.32,
+          "end": 8.48,
+          "text": "why",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 8.48,
+          "end": 8.56,
+          "text": "I",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 8.56,
+          "end": 8.8,
+          "text": "ain't",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 8.8,
+          "end": 8.96,
+          "text": "cuz",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev011",
+      "start": 8.96,
+      "end": 9.519,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "I didn't want to get",
+      "words": [
+        {
+          "start": 8.96,
+          "end": 9.12,
+          "text": "I",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 9.12,
+          "end": 9.279,
+          "text": "didn't",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 9.279,
+          "end": 9.36,
+          "text": "want",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 9.36,
+          "end": 9.44,
+          "text": "to",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 9.44,
+          "end": 9.519,
+          "text": "get",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev012",
+      "start": 9.519,
+      "end": 10.32,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "in trouble cuz I seen",
+      "words": [
+        {
+          "start": 9.519,
+          "end": 9.68,
+          "text": "in",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 9.68,
+          "end": 9.92,
+          "text": "trouble",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 9.92,
+          "end": 9.999,
+          "text": "cuz",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 9.999,
+          "end": 10.16,
+          "text": "I",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 10.16,
+          "end": 10.32,
+          "text": "seen",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev013",
+      "start": 10.32,
+      "end": 10.639,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "you right there.",
+      "words": [
+        {
+          "start": 10.32,
+          "end": 10.399,
+          "text": "you",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 10.399,
+          "end": 10.56,
+          "text": "right",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 10.56,
+          "end": 10.639,
+          "text": "there.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev014",
+      "start": 10.639,
+      "end": 11.68,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "I ain't want to get",
+      "words": [
+        {
+          "start": 10.639,
+          "end": 10.72,
+          "text": "I",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 10.72,
+          "end": 10.879,
+          "text": "ain't",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 10.879,
+          "end": 10.96,
+          "text": "want",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 10.96,
+          "end": 11.04,
+          "text": "to",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 11.04,
+          "end": 11.68,
+          "text": "get",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev015",
+      "start": 11.68,
+      "end": 14.68,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "trouble.",
+      "words": [
+        {
+          "start": 11.68,
+          "end": 14.68,
+          "text": "trouble.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev016",
+      "start": 16.24,
+      "end": 16.96,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Did you Did you call",
+      "words": [
+        {
+          "start": 16.24,
+          "end": 16.399,
+          "text": "Did",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 16.399,
+          "end": 16.56,
+          "text": "you",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 16.56,
+          "end": 16.72,
+          "text": "Did",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 16.72,
+          "end": 16.879,
+          "text": "you",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 16.879,
+          "end": 16.96,
+          "text": "call",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev017",
+      "start": 16.96,
+      "end": 17.759,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "him yet?",
+      "words": [
+        {
+          "start": 16.96,
+          "end": 17.12,
+          "text": "him",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 17.12,
+          "end": 17.759,
+          "text": "yet?",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev018",
+      "start": 17.759,
+      "end": 21.32,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Calling a lot.",
+      "words": [
+        {
+          "start": 17.759,
+          "end": 18.16,
+          "text": "Calling",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 18.16,
+          "end": 18.32,
+          "text": "a",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 18.32,
+          "end": 21.32,
+          "text": "lot.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev019",
+      "start": 25.36,
+      "end": 28.759,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Put on speaker.",
+      "words": [
+        {
+          "start": 25.36,
+          "end": 25.519,
+          "text": "Put",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 25.519,
+          "end": 25.759,
+          "text": "on",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 25.759,
+          "end": 28.759,
+          "text": "speaker.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev020",
+      "start": 48.16,
+      "end": 48.72,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Yeah.",
+      "words": [
+        {
+          "start": 48.16,
+          "end": 48.72,
+          "text": "Yeah.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev021",
+      "start": 48.72,
+      "end": 49.92,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Male saying that there's two",
+      "words": [
+        {
+          "start": 48.72,
+          "end": 49.12,
+          "text": "Male",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 49.12,
+          "end": 49.44,
+          "text": "saying",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 49.44,
+          "end": 49.519,
+          "text": "that",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 49.519,
+          "end": 49.759,
+          "text": "there's",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 49.759,
+          "end": 49.92,
+          "text": "two",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev022",
+      "start": 49.92,
+      "end": 51.04,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "other males.",
+      "words": [
+        {
+          "start": 49.92,
+          "end": 50.16,
+          "text": "other",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 50.16,
+          "end": 51.04,
+          "text": "males.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev023",
+      "start": 51.04,
+      "end": 51.999,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Younger.",
+      "words": [
+        {
+          "start": 51.04,
+          "end": 51.999,
+          "text": "Younger.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev024",
+      "start": 51.999,
+      "end": 52.56,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Younger.",
+      "words": [
+        {
+          "start": 51.999,
+          "end": 52.56,
+          "text": "Younger.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev025",
+      "start": 52.56,
+      "end": 55.56,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Yeah.",
+      "words": [
+        {
+          "start": 52.56,
+          "end": 55.56,
+          "text": "Yeah.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev026",
+      "start": 58.639,
+      "end": 58.879,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "All right.",
+      "words": [
+        {
+          "start": 58.639,
+          "end": 58.879,
+          "text": "All right.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev027",
+      "start": 58.879,
+      "end": 61.84,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "You on the phone.",
+      "words": [
+        {
+          "start": 58.879,
+          "end": 58.96,
+          "text": "You",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 58.96,
+          "end": 59.12,
+          "text": "on",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 59.12,
+          "end": 59.2,
+          "text": "the",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 59.2,
+          "end": 61.84,
+          "text": "phone.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev028",
+      "start": 61.84,
+      "end": 63.84,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Hello.",
+      "words": [
+        {
+          "start": 61.84,
+          "end": 63.84,
+          "text": "Hello.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev029",
+      "start": 63.84,
+      "end": 64.639,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Give me a sec.",
+      "words": [
+        {
+          "start": 63.84,
+          "end": 63.999,
+          "text": "Give",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 63.999,
+          "end": 64.08,
+          "text": "me",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 64.08,
+          "end": 64.16,
+          "text": "a",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 64.16,
+          "end": 64.639,
+          "text": "sec.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev030",
+      "start": 64.639,
+      "end": 65.759,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "What's your name?",
+      "words": [
+        {
+          "start": 64.639,
+          "end": 64.879,
+          "text": "What's",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 64.879,
+          "end": 65.04,
+          "text": "your",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 65.04,
+          "end": 65.759,
+          "text": "name?",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev031",
+      "start": 65.759,
+      "end": 66.8,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "This is Zay.",
+      "words": [
+        {
+          "start": 65.759,
+          "end": 65.92,
+          "text": "This",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 65.92,
+          "end": 66.08,
+          "text": "is",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 66.08,
+          "end": 66.8,
+          "text": "Zay.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev032",
+      "start": 66.8,
+      "end": 67.519,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "His name is Zay.",
+      "words": [
+        {
+          "start": 66.8,
+          "end": 67.04,
+          "text": "His",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 67.04,
+          "end": 67.12,
+          "text": "name",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 67.12,
+          "end": 67.2,
+          "text": "is",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 67.2,
+          "end": 67.519,
+          "text": "Zay.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev033",
+      "start": 67.519,
+      "end": 68.32,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Yeah, that's the one that's",
+      "words": [
+        {
+          "start": 67.519,
+          "end": 67.68,
+          "text": "Yeah,",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 67.68,
+          "end": 67.999,
+          "text": "that's",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 67.999,
+          "end": 68.08,
+          "text": "the",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 68.08,
+          "end": 68.24,
+          "text": "one",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 68.24,
+          "end": 68.32,
+          "text": "that's",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev034",
+      "start": 68.32,
+      "end": 68.96,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "with you.",
+      "words": [
+        {
+          "start": 68.32,
+          "end": 68.48,
+          "text": "with",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 68.48,
+          "end": 68.96,
+          "text": "you.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev035",
+      "start": 68.96,
+      "end": 70.04,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Yeah.",
+      "words": [
+        {
+          "start": 68.96,
+          "end": 70.04,
+          "text": "Yeah.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev036",
+      "start": 70.04,
+      "end": 71.04,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Okay.",
+      "words": [
+        {
+          "start": 70.04,
+          "end": 71.04,
+          "text": "Okay.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev037",
+      "start": 71.04,
+      "end": 72.639,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Z.",
+      "words": [
+        {
+          "start": 71.04,
+          "end": 72.639,
+          "text": "Z.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev038",
+      "start": 72.639,
+      "end": 73.84,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Yeah.",
+      "words": [
+        {
+          "start": 72.639,
+          "end": 73.84,
+          "text": "Yeah.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev039",
+      "start": 73.84,
+      "end": 74.399,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Hey, bud.",
+      "words": [
+        {
+          "start": 73.84,
+          "end": 74.16,
+          "text": "Hey,",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 74.16,
+          "end": 74.399,
+          "text": "bud.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev040",
+      "start": 74.399,
+      "end": 76.48,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Where where you at?",
+      "words": [
+        {
+          "start": 74.399,
+          "end": 74.639,
+          "text": "Where",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 74.639,
+          "end": 74.879,
+          "text": "where",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 74.879,
+          "end": 74.96,
+          "text": "you",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 74.96,
+          "end": 76.48,
+          "text": "at?",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev041",
+      "start": 76.48,
+      "end": 77.92,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "He in Orlando with us.",
+      "words": [
+        {
+          "start": 76.48,
+          "end": 76.639,
+          "text": "He",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 76.639,
+          "end": 76.8,
+          "text": "in",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 76.8,
+          "end": 77.36,
+          "text": "Orlando",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 77.36,
+          "end": 77.519,
+          "text": "with",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 77.519,
+          "end": 77.92,
+          "text": "us.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev042",
+      "start": 77.92,
+      "end": 78.48,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Huh?",
+      "words": [
+        {
+          "start": 77.92,
+          "end": 78.48,
+          "text": "Huh?",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev043",
+      "start": 78.48,
+      "end": 81.36,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "He in Orlando with us.",
+      "words": [
+        {
+          "start": 78.48,
+          "end": 78.639,
+          "text": "He",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 78.639,
+          "end": 78.8,
+          "text": "in",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 78.8,
+          "end": 79.36,
+          "text": "Orlando",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 79.36,
+          "end": 79.6,
+          "text": "with",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 79.6,
+          "end": 81.36,
+          "text": "us.",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev044",
+      "start": 81.36,
+      "end": 81.92,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "Do you know where you're",
+      "words": [
+        {
+          "start": 81.36,
+          "end": 81.519,
+          "text": "Do",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 81.519,
+          "end": 81.6,
+          "text": "you",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 81.6,
+          "end": 81.68,
+          "text": "know",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 81.68,
+          "end": 81.84,
+          "text": "where",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 81.84,
+          "end": 81.92,
+          "text": "you're",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev045",
+      "start": 81.92,
+      "end": 82.639,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "at right now?",
+      "words": [
+        {
+          "start": 81.92,
+          "end": 82.08,
+          "text": "at",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 82.08,
+          "end": 82.24,
+          "text": "right",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 82.24,
+          "end": 82.639,
+          "text": "now?",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    },
+    {
+      "id": "ev046",
+      "start": 82.639,
+      "end": 84.879,
+      "speaker_id": "S1",
+      "speaker_name": "Speaker 1",
+      "text": "This Orlando, right?",
+      "words": [
+        {
+          "start": 82.639,
+          "end": 82.96,
+          "text": "This",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 82.96,
+          "end": 83.44,
+          "text": "Orlando,",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        },
+        {
+          "start": 83.44,
+          "end": 84.879,
+          "text": "right?",
+          "speaker": "speaker_1",
+          "confidence": null,
+          "speaker_id": "S1",
+          "speaker_name": "Speaker 1"
+        }
+      ]
+    }
+  ],
+  "qa": {
+    "total_events": 46,
+    "total_words": 147,
+    "speakers_detected": 1,
+    "needs_editor_review": false
+  }
+}

@@ -1,0 +1,98 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,58,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,1,1,0,0,100,100,0,0,1,5.0,2.0,2,20,20,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.48,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}MUSIC IS THERE
+Dialogue: 0,0:00:03.48,0:00:03.97,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}A WAY OUT
+Dialogue: 0,0:00:03.97,0:00:05.89,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}THIS WAY
+Dialogue: 0,0:00:05.89,0:00:06.45,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}THAT'S GOING TO
+Dialogue: 0,0:00:06.45,0:00:08.69,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}THE STATE PARK
+Dialogue: 0,0:00:08.69,0:00:09.01,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}YOU WANT ME
+Dialogue: 0,0:00:09.01,0:00:09.33,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}TO PUT THE
+Dialogue: 0,0:00:09.33,0:00:09.73,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}BOAT IN THE
+Dialogue: 0,0:00:09.73,0:00:10.04,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}WATER
+Dialogue: 0,0:00:10.04,0:00:10.45,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}YES SIR
+Dialogue: 0,0:00:10.45,0:00:10.69,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}YEAH
+Dialogue: 0,0:00:10.69,0:00:11.97,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}GO AHEAD
+Dialogue: 0,0:00:11.97,0:00:12.21,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}WATER
+Dialogue: 0,0:00:12.21,0:00:13.25,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}LET'S GO MAN
+Dialogue: 0,0:00:13.25,0:00:17.80,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}GO MUSIC AHEAD
+Dialogue: 0,0:00:17.80,0:00:18.53,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}UH THEY'RE HEADING
+Dialogue: 0,0:00:18.53,0:00:18.92,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}NORTH
+Dialogue: 0,0:00:18.92,0:00:19.33,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}THEY'RE KIND OF
+Dialogue: 0,0:00:19.33,0:00:20.36,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}HEADING TOWARDS UH
+Dialogue: 0,0:00:20.36,0:00:21.09,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}STATE PARK I
+Dialogue: 0,0:00:21.09,0:00:21.57,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}BELIEVE
+Dialogue: 0,0:00:21.57,0:00:22.29,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}WE'RE PUTTING THE
+Dialogue: 0,0:00:22.29,0:00:22.92,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}OTHER BOAT IN
+Dialogue: 0,0:00:22.92,0:00:23.73,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}THE WATER NOW
+Dialogue: 0,0:00:23.73,0:00:24.29,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}THEY'RE GOING STRAIGHT
+Dialogue: 0,0:00:24.29,0:00:25.09,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}TO THE PARK
+Dialogue: 0,0:00:25.09,0:00:25.48,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}CAN YOU GUYS
+Dialogue: 0,0:00:25.48,0:00:25.97,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}GO TO THE
+Dialogue: 0,0:00:25.97,0:00:27.73,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}PARK
+Dialogue: 0,0:00:27.73,0:00:28.13,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}ALL RIGHT
+Dialogue: 0,0:00:28.13,0:00:29.09,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}YEAH THEY'RE GOING
+Dialogue: 0,0:00:29.09,0:00:29.73,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}UH THEY'RE GOING
+Dialogue: 0,0:00:29.73,0:00:30.53,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}TO THE STATE
+Dialogue: 0,0:00:30.53,0:00:31.57,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}PARK NOW
+Dialogue: 0,0:00:31.57,0:00:32.13,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}HEY LET'S JUMP
+Dialogue: 0,0:00:32.13,0:00:35.45,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}IN THIS BOAT
+Dialogue: 0,0:00:38.13,0:00:39.17,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}YES IT'S AN
+Dialogue: 0,0:00:39.17,0:00:39.73,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}AIRBOAT
+Dialogue: 0,0:00:39.73,0:00:40.13,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}SILVER
+Dialogue: 0,0:00:40.13,0:00:41.16,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}IT'S GOT A
+Dialogue: 0,0:00:41.16,0:00:41.97,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}GREEN WING ON
+Dialogue: 0,0:00:41.97,0:00:43.04,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}IT
+Dialogue: 0,0:00:43.04,0:00:44.04,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}YEAH
+Dialogue: 0,0:00:44.04,0:00:45.65,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}GO MOM
+Dialogue: 0,0:00:45.65,0:00:46.29,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}PUSH OFF IT
+Dialogue: 0,0:00:46.29,0:00:47.01,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}PUSH OFF PART
+Dialogue: 0,0:00:47.01,0:00:47.89,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}WE NEED SOMEBODY
+Dialogue: 0,0:00:47.89,0:00:48.29,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}UH TO GO
+Dialogue: 0,0:00:48.29,0:00:49.48,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}TO THE THERE'S
+Dialogue: 0,0:00:49.48,0:00:50.04,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}AIR1
+Dialogue: 0,0:00:50.04,0:00:50.60,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}WE NEED SOMEBODY
+Dialogue: 0,0:00:50.60,0:00:51.09,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}TO GO OVER
+Dialogue: 0,0:00:51.09,0:00:51.80,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}TO UH THE
+Dialogue: 0,0:00:51.80,0:00:52.53,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}STATE PARK
+Dialogue: 0,0:00:52.53,0:00:53.01,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}SEE IF THEY
+Dialogue: 0,0:00:53.01,0:00:53.48,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}DON'T GO IN
+Dialogue: 0,0:00:53.48,0:00:53.97,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}THERE AND DITCH
+Dialogue: 0,0:00:53.97,0:00:54.92,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}IT
+Dialogue: 0,0:00:54.92,0:00:55.57,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}AIR1 YOU SHOULD
+Dialogue: 0,0:00:55.57,0:00:55.97,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}HAVE IT HERE
+Dialogue: 0,0:00:55.97,0:00:56.69,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}SHORTLY
+Dialogue: 0,0:00:56.69,0:01:00.04,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}IT'S ONLY BOAT
+Dialogue: 0,0:01:00.04,0:01:01.33,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}REVERSE
+Dialogue: 0,0:01:01.33,0:01:03.57,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}YEP
+Dialogue: 0,0:01:19.45,0:01:20.45,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}YEP
+Dialogue: 0,0:01:20.45,0:01:22.45,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}ALL
+Dialogue: 0,0:01:28.45,0:01:29.01,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}RIGHT GET YOUR
+Dialogue: 0,0:01:29.01,0:01:29.80,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}GUN OUT GUYS
+Dialogue: 0,0:01:29.80,0:01:30.13,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}WE'RE GOING TO
+Dialogue: 0,0:01:30.13,0:01:32.45,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}CHALLENGE
+Dialogue: 0,0:01:36.65,0:01:37.65,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}PEOPLE
+Dialogue: 0,0:01:37.65,0:01:38.13,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}ALL RIGHT GIVE
+Dialogue: 0,0:01:38.13,0:01:38.69,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}US A CHANNEL
+Dialogue: 0,0:01:38.69,0:01:39.01,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}REAL QUICK
+Dialogue: 0,0:01:39.01,0:01:39.33,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}WE'RE GOING TO
+Dialogue: 0,0:01:39.33,0:01:39.97,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}CHALLENGE THESE GUYS
+Dialogue: 0,0:01:39.97,0:01:40.45,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}I KNOW IT'S
+Dialogue: 0,0:01:40.45,0:01:40.77,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}HARD TO HEAR
+Dialogue: 0,0:01:40.77,0:01:43.80,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}OUT HERE
+Dialogue: 0,0:01:43.80,0:01:46.60,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}SLOW DOWN
+Dialogue: 0,0:01:46.60,0:01:47.01,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}GIVE US A
+Dialogue: 0,0:01:47.01,0:01:47.33,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}CHANNEL
+Dialogue: 0,0:01:47.33,0:01:47.89,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}WE'RE GOING TO CHALLENGE
+Dialogue: 0,0:01:47.89,0:01:48.36,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}THESE GUYS
+Dialogue: 0,0:01:48.36,0:01:48.85,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}COMING UP TO
+Dialogue: 0,0:01:48.85,0:01:51.16,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}THEM
+Dialogue: 0,0:01:51.16,0:01:51.48,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}HANDS

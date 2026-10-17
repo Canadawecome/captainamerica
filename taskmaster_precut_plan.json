@@ -1,0 +1,74 @@
+{
+  "schema_version": "podcast-v1",
+  "source_sha256": "745027f50a73cd3d29d264e060752d569715ad9ef95822c3e391811f9ceef4b5",
+  "transcript_sha256": "a0d6a69439fea69ff826ba10ae84a5841d9f5523fca35d9dd79975479145c1e8",
+  "rights_verified": true,
+  "candidates": [
+    {
+      "id": "w004_p1",
+      "start": 1005.56,
+      "end": 1088.4,
+      "hook_quote": "Have a good look at the Gregulator.",
+      "payoff_quote": "One Greg really likes eggs.",
+      "transcript_evidence": "Hey Alex. Chloe. Isy. Wow. Have a good look at the Gregulator. This is the Gregulator. Yeah. Okay. 'You may ask five questions but please note one Greg will always lie, one Greg really likes eggs.' 'Be Greg for one round, 400 points.' Okay. There's actual people... What? There are the three Gregs. ... 'Achieve the highest score on the Gregulator.' I love this. 'You have a maximum of five spins and ten minutes.' 'You may ask the Gregs a total of five questions.' 'And each question must be addressed to an individual Greg,' okay. 'You may only ask yes or no questions. Your time starts now.' But what, what, what at all am I doing with it? Well to spin you press that button. Yeah. And they will hold up either a duck, an egg or a pineapple. You've gotta achieve the highest score. Okay. And you can also use some of your points to change the outcome by removing things or requesting things. Or becoming a Greg. 'You may ask five questions but please note one Greg will always lie and one Greg...' has my time started? Mm hmm. Mm hmm. 'One Greg really likes eggs.'",
+      "why_compelling": "A playful, self-contained game premise quickly turns into a deliberately confusing rules explanation, with the odd Greg clues and absurd options giving the segment a clear comic payoff. The excerpt preserves the host\u2019s uncertainty and the rules needed to understand the game.",
+      "predicted_potential_score": 78,
+      "confidence": 0.88
+    },
+    {
+      "id": "w006_p1",
+      "start": 1297.12,
+      "end": 1397.034,
+      "hook_quote": "This is your last spin.",
+      "payoff_quote": "Minus 300 might be the best score.",
+      "transcript_evidence": "This is your last spin. Oh my god. Alright. Is there anything you wanna do before the spin? Yes. But it's gonna cut my score down very badly. I'm going to take your egg away, number two. Very expensive. Right so we're now down to minus five hundred. Thank you. I'm gonna remove your egg please. Okay you can go and take it if you want. No, I'd like you to remove it yourself, I don't wanna go and take it. You want me to go and remove the egg for you. So that'll cost you 500 points. Okay. Oh, we're spinning for the last time. Pineapple. Yes. 200 points. Your final score is minus 300 points Nina. A ha. Minus 300 might be the best score. You never know. Now you've only got one spin left. You've got three questions. Okay number two, if I give you four eggs will you hold up a pineapple? No. That would've been good wouldn't it. Two questions left though, it's worth finding out these things. Maybe that's the one who lies. Maybe. Okay, I'm gonna risk it.",
+      "why_compelling": "A clear game-show setup builds suspense around a final spin, then escalates through costly egg removals and a wildly negative score. The questions and playful reversals make the payoff legible, while the ending lands on a clean decision to stop.",
+      "predicted_potential_score": 78,
+      "confidence": 0.91
+    },
+    {
+      "id": "w002_p1",
+      "start": 419.56,
+      "end": 492.2,
+      "hook_quote": "It's got some like Nutella on it. Oh whoopsie.",
+      "payoff_quote": "Biggest whoopsie wins.",
+      "transcript_evidence": "I... What's wrong? It's got some like Nutella on it. Oh whoopsie. That is so good. Okay. 'Do a whoopsie.' Do a whoopsie. A dreadful word. 'A whoopsie.' 'Do a whoopsie. Biggest whoopsie wins.' 'You have 20 minutes, your time starts now.' Whoopsie. Oh, I've just done it. Do you think you're gonna win with that? Whoopsie that you're d... what is a whoopsie? Oh, it's gotta be a large whoopsie? Oh yeah. Oh I see, yeah. Whoopsie! Like that. I mean if that went down, that'd be a nightmare wouldn't it. Y... yeah. Do you have two of these? No, we don't have a spare temple. No. That was quite bad actually. I'll go and have a look to see what's... I'll be taking all these for the whoopsie. Come on. Okay. The most expensive looking one. That one. But you've gotta say it like that I think. Whoopsie! Has my 20 minutes started? Yeah. Okay.",
+      "why_compelling": "A small apparent mishap turns into an absurdly formal \u201cwhoopsie\u201d contest, with a clear rule, escalating attempts, and a comic callback. The excerpt includes the setup and the start of the challenge without presenting the mishap as something more serious than the transcript supports.",
+      "predicted_potential_score": 76,
+      "confidence": 0.85
+    },
+    {
+      "id": "w003_p1",
+      "start": 571.08,
+      "end": 649.04,
+      "hook_quote": "You've got just under 15 minutes left, Matt.",
+      "payoff_quote": "Obviously the whoopsie is because I went a little bit up the wall. Whoopsie! Thank you, Matt.",
+      "transcript_evidence": "Hello. You've got just under 15 minutes left, Matt. Have I? Whoopsie. I mean I keep thinking of a whoopee cushion and I'm glad it's not that. It's lonely up here with my whoopsie. Alright, hang on a minute. This whoopsie hasn't been thought through. What I'd like to create is a gol... er, what's his name? Rube? Rube Goldberg. Goldberg. So, why are you putting that on? It's mainly just production value. Oh I see, thank you. Oh I see. Can you see? I can see perfectly. Can you? Yes. Okay. Whoopsie. Oh, finished? Is that legible as a W? It is, it took you four and a half minutes. Right, okay. I hear what you're saying. Lovely. What's this? You'll see. I mean the whole thing is whoopsie. Yes. Whoopsie. I think it might work. M. L. There you go. Obviously the whoopsie is because I went a little bit up the wall. Whoopsie! Thank you, Matt.",
+      "why_compelling": "A playful, self-contained creative task: the countdown sets a clear premise, the improvised Rube Goldberg idea develops into a repeated \u201cwhoopsie\u201d character, and the finished result supplies a neat comic payoff.",
+      "predicted_potential_score": 76,
+      "confidence": 0.84
+    },
+    {
+      "id": "w011_p1",
+      "start": 2621.96,
+      "end": 2718.52,
+      "hook_quote": "My god she's fast.",
+      "payoff_quote": "Chloe Petts wins again.",
+      "transcript_evidence": "My god she's fast. Er, microphone, watch. Watch is right. Er, cone, ice cream. Ice cream is right. My god, she can draw. Tits, er, four of them. Erm. It was fire. Not tits. A handbag, an envelope. Envelope is right. Whoa. Fish, fin. It was a whale but the team of two win again with four. Incredible. ... the winner with their fourth win, Chloe 19 points. Oh my god. Chloe Petts wins again. Please head up to get your sick bits of lit kit!",
+      "why_compelling": "A fast-paced drawing-game round builds through quick guesses and humorous misfires, then pays off with the running score and a clear winner. The excerpt preserves the correction from \u201ctits\u201d to \u201cfire\u201d rather than turning it into a misleading out-of-context joke.",
+      "predicted_potential_score": 74,
+      "confidence": 0.83
+    },
+    {
+      "id": "w007_p1",
+      "start": 1645.36,
+      "end": 1741.68,
+      "hook_quote": "You're very good at telling people off that's for sure.",
+      "payoff_quote": "The winner of the task was Chloe Petts with 600 points, which is five points.",
+      "transcript_evidence": "I'm not sure what happened there. I'm no good at that. And... Well you're very good at telling people off that's for sure. Yes. You were a sort of weird PE teacher by the end of it. I think it just got to the point where like Richard I was pleased with what I had, but we have very different personalities. So instead of, erm, burning everything to the ground, I decided to strategise and gain myself more points. Yeah. I'd just like to come back on that. Please. Please. What I felt was that I left the game and it is a game, erm, with good will intact, I came away with one hun... I mean let's not forget I came away with 100 points. I didn't know how many points were on offer. For me that's like the, the, like someone just gave me the sky Greg. I mean 100 points. Imagine it, I'd come in that day, I didn't have a point to my name. Chloe, do you wanna come back on that? I got 600 points. You could've had 2,000 points. So, the, the best method, you were just trying to get pineapples. So just remove all the eggs and ducks that would cost you a total of 3,000 points. But every time from then on you'll get a thousand, a thousand, a thousand, a thousand, a thousand, you'll get 2,000 points. So, it was just kind of looking through all those stupid rules. Even as you say it now I still don't care. Yeah. I, I get that. I get that. Points wise it means that Nina gets one for getting minus 300. Yes. Richard two for 100, Isy three for 200, Matt 4 for 400 but the winner of the task was Chloe Petts with 600 points, which is five points.",
+      "why_compelling": "A playful post-game debrief moves from teasing to a genuine disagreement about strategy and fairness, then resolves with the standings. The scorekeeping context is included rather than cutting straight to the punchline.",
+      "predicted_potential_score": 72,
+      "confidence": 0.82
+    }
+  ]
+}

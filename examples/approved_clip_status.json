@@ -1,0 +1,10 @@
+{
+  "job_id": "SYNTHETIC_TEST_ONLY",
+  "rights_verified": true,
+  "gpt_postcut_status": "APPROVED",
+  "timeline_locked": true,
+  "timeline_revision": "sha256:example_locked_revision",
+  "duration_sec_ffprobe": 78.5,
+  "distinct_speakers": 2,
+  "source_audio_policy": "PRESERVE_FINAL_NATIVE_AUDIO"
+}

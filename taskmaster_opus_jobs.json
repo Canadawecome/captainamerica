@@ -1,0 +1,262 @@
+{
+  "schema_version": "podcast-v1.1",
+  "source_sha256": "745027f50a73cd3d29d264e060752d569715ad9ef95822c3e391811f9ceef4b5",
+  "source_transcript_sha256": "a0d6a69439fea69ff826ba10ae84a5841d9f5523fca35d9dd79975479145c1e8",
+  "plan_sha256": "c085f999b4ad9a8597a59fbfa68b80a5fea43ffe5da4bfbb231aa005f2ce4d03",
+  "jobs": [
+    {
+      "group_id": "group_001",
+      "candidate_ids": [
+        "w002_p1"
+      ],
+      "source_window": [
+        419.56,
+        492.2
+      ],
+      "request": {
+        "videoUrl": "https://www.youtube.com/watch?v=kozNkiTzzQE",
+        "curationPref": {
+          "model": "ClipAnything",
+          "range": {
+            "startSec": 419.56,
+            "endSec": 492.2
+          },
+          "clipDurations": [
+            [
+              70,
+              72
+            ]
+          ],
+          "customPrompt": "Find the strongest self-contained conversation within these themes: Find the English podcast discussion where a speaker says \"It's got some like Nutella on it. Oh whoopsie.\" and develops the point toward \"Biggest whoopsie wins.\". Important context: A small apparent mishap turns into an absurdly formal \u201cwhoopsie\u201d contest, with a clear rule, escalating attempts, and a comic callback. The excerpt includes the setup and the start of the challenge without presenting the mishap as something more serious than the transcript supports.."
+        },
+        "renderPref": {
+          "layoutAspectRatio": "portrait",
+          "enableCaption": false,
+          "enableEmoji": false,
+          "enableBroll": false,
+          "quickstartConfig": {
+            "enableRemoveFillerWords": false
+          },
+          "enableSplitLayout": true
+        }
+      },
+      "requires_post_export_review": true,
+      "source_interval_sec": [
+        419.56,
+        492.2
+      ]
+    },
+    {
+      "group_id": "group_002",
+      "candidate_ids": [
+        "w003_p1"
+      ],
+      "source_window": [
+        571.08,
+        649.04
+      ],
+      "request": {
+        "videoUrl": "https://www.youtube.com/watch?v=kozNkiTzzQE",
+        "curationPref": {
+          "model": "ClipAnything",
+          "range": {
+            "startSec": 571.08,
+            "endSec": 649.04
+          },
+          "clipDurations": [
+            [
+              70,
+              77
+            ]
+          ],
+          "customPrompt": "Find the strongest self-contained conversation within these themes: Find the English podcast discussion where a speaker says \"You've got just under 15 minutes left, Matt.\" and develops the point toward \"Obviously the whoopsie is because I went a little bit up the wall. Whoopsie! Thank you, Matt.\". Important context: A playful, self-contained creative task: the countdown sets a clear premise, the improvised Rube Goldberg idea develops into a repeated \u201cwhoopsie\u201d character, and the finished result supplies a neat comic payoff.."
+        },
+        "renderPref": {
+          "layoutAspectRatio": "portrait",
+          "enableCaption": false,
+          "enableEmoji": false,
+          "enableBroll": false,
+          "quickstartConfig": {
+            "enableRemoveFillerWords": false
+          },
+          "enableSplitLayout": true
+        }
+      },
+      "requires_post_export_review": true,
+      "source_interval_sec": [
+        571.08,
+        649.04
+      ]
+    },
+    {
+      "group_id": "group_003",
+      "candidate_ids": [
+        "w004_p1"
+      ],
+      "source_window": [
+        1005.56,
+        1088.4
+      ],
+      "request": {
+        "videoUrl": "https://www.youtube.com/watch?v=kozNkiTzzQE",
+        "curationPref": {
+          "model": "ClipAnything",
+          "range": {
+            "startSec": 1005.56,
+            "endSec": 1088.4
+          },
+          "clipDurations": [
+            [
+              70,
+              82
+            ]
+          ],
+          "customPrompt": "Find the strongest self-contained conversation within these themes: Find the English podcast discussion where a speaker says \"Have a good look at the Gregulator.\" and develops the point toward \"One Greg really likes eggs.\". Important context: A playful, self-contained game premise quickly turns into a deliberately confusing rules explanation, with the odd Greg clues and absurd options giving the segment a clear comic payoff. The excerpt preserves the host\u2019s uncertainty and the rules needed to understand the game.."
+        },
+        "renderPref": {
+          "layoutAspectRatio": "portrait",
+          "enableCaption": false,
+          "enableEmoji": false,
+          "enableBroll": false,
+          "quickstartConfig": {
+            "enableRemoveFillerWords": false
+          },
+          "enableSplitLayout": true
+        }
+      },
+      "requires_post_export_review": true,
+      "source_interval_sec": [
+        1005.56,
+        1088.4
+      ]
+    },
+    {
+      "group_id": "group_004",
+      "candidate_ids": [
+        "w006_p1"
+      ],
+      "source_window": [
+        1297.12,
+        1397.034
+      ],
+      "request": {
+        "videoUrl": "https://www.youtube.com/watch?v=kozNkiTzzQE",
+        "curationPref": {
+          "model": "ClipAnything",
+          "range": {
+            "startSec": 1297.12,
+            "endSec": 1397.034
+          },
+          "clipDurations": [
+            [
+              70,
+              99
+            ]
+          ],
+          "customPrompt": "Find the strongest self-contained conversation within these themes: Find the English podcast discussion where a speaker says \"This is your last spin.\" and develops the point toward \"Minus 300 might be the best score.\". Important context: A clear game-show setup builds suspense around a final spin, then escalates through costly egg removals and a wildly negative score. The questions and playful reversals make the payoff legible, while the ending lands on a clean decision to stop.."
+        },
+        "renderPref": {
+          "layoutAspectRatio": "portrait",
+          "enableCaption": false,
+          "enableEmoji": false,
+          "enableBroll": false,
+          "quickstartConfig": {
+            "enableRemoveFillerWords": false
+          },
+          "enableSplitLayout": true
+        }
+      },
+      "requires_post_export_review": true,
+      "source_interval_sec": [
+        1297.12,
+        1397.034
+      ]
+    },
+    {
+      "group_id": "group_005",
+      "candidate_ids": [
+        "w007_p1"
+      ],
+      "source_window": [
+        1645.36,
+        1741.68
+      ],
+      "request": {
+        "videoUrl": "https://www.youtube.com/watch?v=kozNkiTzzQE",
+        "curationPref": {
+          "model": "ClipAnything",
+          "range": {
+            "startSec": 1645.36,
+            "endSec": 1741.68
+          },
+          "clipDurations": [
+            [
+              70,
+              96
+            ]
+          ],
+          "customPrompt": "Find the strongest self-contained conversation within these themes: Find the English podcast discussion where a speaker says \"You're very good at telling people off that's for sure.\" and develops the point toward \"The winner of the task was Chloe Petts with 600 points, which is five points.\". Important context: A playful post-game debrief moves from teasing to a genuine disagreement about strategy and fairness, then resolves with the standings. The scorekeeping context is included rather than cutting straight to the punchline.."
+        },
+        "renderPref": {
+          "layoutAspectRatio": "portrait",
+          "enableCaption": false,
+          "enableEmoji": false,
+          "enableBroll": false,
+          "quickstartConfig": {
+            "enableRemoveFillerWords": false
+          },
+          "enableSplitLayout": true
+        }
+      },
+      "requires_post_export_review": true,
+      "source_interval_sec": [
+        1645.36,
+        1741.68
+      ]
+    },
+    {
+      "group_id": "group_006",
+      "candidate_ids": [
+        "w011_p1"
+      ],
+      "source_window": [
+        2621.96,
+        2718.52
+      ],
+      "request": {
+        "videoUrl": "https://www.youtube.com/watch?v=kozNkiTzzQE",
+        "curationPref": {
+          "model": "ClipAnything",
+          "range": {
+            "startSec": 2621.96,
+            "endSec": 2718.52
+          },
+          "clipDurations": [
+            [
+              70,
+              96
+            ]
+          ],
+          "customPrompt": "Find the strongest self-contained conversation within these themes: Find the English podcast discussion where a speaker says \"My god she's fast.\" and develops the point toward \"Chloe Petts wins again.\". Important context: A fast-paced drawing-game round builds through quick guesses and humorous misfires, then pays off with the running score and a clear winner. The excerpt preserves the correction from \u201ctits\u201d to \u201cfire\u201d rather than turning it into a misleading out-of-context joke.."
+        },
+        "renderPref": {
+          "layoutAspectRatio": "portrait",
+          "enableCaption": false,
+          "enableEmoji": false,
+          "enableBroll": false,
+          "quickstartConfig": {
+            "enableRemoveFillerWords": false
+          },
+          "enableSplitLayout": true
+        }
+      },
+      "requires_post_export_review": true,
+      "source_interval_sec": [
+        2621.96,
+        2718.52
+      ]
+    }
+  ],
+  "project_budget_plan": 6,
+  "credit_note": "Grouping may reduce submissions; actual API credit charges/pricing are account-specific and unverified."
+}

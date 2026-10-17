@@ -1,0 +1,39 @@
+{
+  "schema_version": "opus-expert-ledger-v1",
+  "jobs": [
+    {
+      "project_id": "P3101714WouP",
+      "group_id": "group_001",
+      "candidate_ids": [
+        "w001_p3",
+        "w001_p4"
+      ],
+      "source_window": [
+        173.36,
+        360.08
+      ]
+    },
+    {
+      "project_id": "P3101714WviL",
+      "group_id": "group_002",
+      "candidate_ids": [
+        "w003_p3"
+      ],
+      "source_window": [
+        688.64,
+        784.48
+      ]
+    },
+    {
+      "project_id": "P3101714Wwwx",
+      "group_id": "group_003",
+      "candidate_ids": [
+        "w007_p2"
+      ],
+      "source_window": [
+        1559.12,
+        1643.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,58,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,1,1,0,0,100,100,0,0,1,5.0,2.0,2,20,20,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.22,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}WE RECEIVED SEVERAL
+Dialogue: 0,0:00:01.22,0:00:02.50,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}CALLS ABOUT YOU
+Dialogue: 0,0:00:02.50,0:00:03.82,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}TOUCHING YOURSELF OUT
+Dialogue: 0,0:00:03.82,0:00:04.82,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}HERE
+Dialogue: 0,0:00:04.82,0:00:05.78,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}OKAY
+Dialogue: 0,0:00:05.78,0:00:06.26,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}WAS IT JUST
+Dialogue: 0,0:00:06.26,0:00:07.06,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}AN IMPULSE THING
+Dialogue: 0,0:00:07.06,0:00:07.62,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}LIKE DID YOU
+Dialogue: 0,0:00:07.62,0:00:10.58,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}JUST I MEAN
+Dialogue: 0,0:00:10.58,0:00:11.54,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}SO WHY WHY
+Dialogue: 0,0:00:11.54,0:00:12.42,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}WOULD ALL THESE
+Dialogue: 0,0:00:12.42,0:00:13.34,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}PEOPLE ON THIS
+Dialogue: 0,0:00:13.34,0:00:14.74,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}BEACH FOR SOME
+Dialogue: 0,0:00:14.74,0:00:15.62,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}REASON JUST DESCRIBE
+Dialogue: 0,0:00:15.62,0:00:16.10,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}A MALE WITH
+Dialogue: 0,0:00:16.10,0:00:17.62,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}A TAN HOODIE
+Dialogue: 0,0:00:17.62,0:00:19.94,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}CAMO PANTS EXPOSING
+Dialogue: 0,0:00:19.94,0:00:20.58,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}HIMSELF ON THE
+Dialogue: 0,0:00:20.58,0:00:20.82,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}BEACH
+Dialogue: 0,0:00:20.82,0:00:21.22,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}WHY WHY WOULD
+Dialogue: 0,0:00:21.22,0:00:21.70,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}THEY DO WHY
+Dialogue: 0,0:00:21.70,0:00:22.10,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}WOULD THEY JUST
+Dialogue: 0,0:00:22.10,0:00:22.50,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}MAKE THAT UP
+Dialogue: 0,0:00:22.50,0:00:22.90,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}OUT OF ALL
+Dialogue: 0,0:00:22.90,0:00:23.30,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}THE PEOPLE ON
+Dialogue: 0,0:00:23.30,0:00:23.70,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}THIS BEACH
+Dialogue: 0,0:00:23.70,0:00:24.42,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}IT'S A LIE
+Dialogue: 0,0:00:24.42,0:00:26.34,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}IT'S A LIE
+Dialogue: 0,0:00:26.34,0:00:28.10,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}SO SO EVERYBODY
+Dialogue: 0,0:00:28.10,0:00:28.82,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}ELSE THAT RANDOMLY
+Dialogue: 0,0:00:28.82,0:00:29.30,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}DOESN'T KNOW YOU
+Dialogue: 0,0:00:29.30,0:00:32.54,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}IS LYING
+Dialogue: 0,0:00:32.98,0:00:33.46,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}WHY WOULD THEY
+Dialogue: 0,0:00:33.46,0:00:36.42,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}LIE ABOUT THAT
+Dialogue: 0,0:00:36.42,0:00:37.22,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}MYSELF
+Dialogue: 0,0:00:37.22,0:00:37.94,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}WHAT'S THAT
+Dialogue: 0,0:00:37.94,0:00:38.58,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}I DID NOT
+Dialogue: 0,0:00:38.58,0:00:40.18,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}SWIM
+Dialogue: 0,0:00:40.18,0:00:42.58,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}OKAY
+Dialogue: 0,0:00:42.58,0:00:43.06,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}YEAH
+Dialogue: 0,0:00:43.06,0:00:43.86,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}STAND UP TRAVIS
+Dialogue: 0,0:00:43.86,0:00:45.30,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}ALL RIGHT
+Dialogue: 0,0:00:45.30,0:00:46.22,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}I SWEAR
+Dialogue: 0,0:00:46.22,0:00:47.54,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}I SWEAR TO
+Dialogue: 0,0:00:47.54,0:00:47.94,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}GOD I DIDN'T
+Dialogue: 0,0:00:47.94,0:00:48.74,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}DO NOTHING WRONG
+Dialogue: 0,0:00:48.74,0:00:49.14,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}MAN
+Dialogue: 0,0:00:49.14,0:00:50.66,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}THERE'S NO STOP
+Dialogue: 0,0:00:50.66,0:00:51.22,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}PICK UP YOUR
+Dialogue: 0,0:00:51.22,0:00:51.86,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}__ FEET
+Dialogue: 0,0:00:51.86,0:00:52.98,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}YOU DRAGGED YOUR
+Dialogue: 0,0:00:52.98,0:00:53.70,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}ASS
+Dialogue: 0,0:00:53.70,0:00:54.18,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}YOU'RE TAKING ME
+Dialogue: 0,0:00:54.18,0:00:54.74,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}TO JAIL FOR
+Dialogue: 0,0:00:54.74,0:00:56.18,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}NO REASON MAN
+Dialogue: 0,0:00:56.18,0:00:57.06,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}THAT AIN'T RIGHT
+Dialogue: 0,0:00:57.06,0:00:57.46,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}MAN
+Dialogue: 0,0:00:57.46,0:00:58.42,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}SHUT UP
+Dialogue: 0,0:00:58.42,0:00:58.82,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}STOP
+Dialogue: 0,0:00:58.82,0:00:59.38,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}PLEASE DON'T TAKE
+Dialogue: 0,0:00:59.38,0:00:59.86,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}ME TO JAIL
+Dialogue: 0,0:00:59.86,0:01:00.26,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}I DIDN'T DO
+Dialogue: 0,0:01:00.26,0:01:00.58,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}NOTHING WRONG
+Dialogue: 0,0:01:00.58,0:01:01.06,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}WELL YOU'RE GOING
+Dialogue: 0,0:01:01.06,0:01:02.10,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}TO __ JAIL
+Dialogue: 0,0:01:02.10,0:01:02.98,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}FOR WHAT SIR
+Dialogue: 0,0:01:02.98,0:01:03.46,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}I DIDN'T DO
+Dialogue: 0,0:01:03.46,0:01:04.82,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}THAT DUDE
+Dialogue: 0,0:01:04.82,0:01:05.46,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}I SWEAR I
+Dialogue: 0,0:01:05.46,0:01:06.02,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}DIDN'T DO BUT
+Dialogue: 0,0:01:06.02,0:01:06.74,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}I SP MYSELF
+Dialogue: 0,0:01:06.74,0:01:08.10,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}I SWEAR LOOK
+Dialogue: 0,0:01:08.10,0:01:08.66,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}AT MYSELF
+Dialogue: 0,0:01:08.66,0:01:09.46,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}LOOK AT MY
+Dialogue: 0,0:01:09.46,0:01:10.34,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}SPREAD YOUR FEET
+Dialogue: 0,0:01:10.34,0:01:11.70,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}I DIDN'T EVEN TOUCH
+Dialogue: 0,0:01:11.70,0:01:12.50,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}MYSELF
+Dialogue: 0,0:01:12.50,0:01:13.30,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}LOOK
+Dialogue: 0,0:01:13.30,0:01:14.42,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}LOOK AT LOOK
+Dialogue: 0,0:01:14.42,0:01:15.06,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}AT MY PANTS
+Dialogue: 0,0:01:15.06,0:01:15.54,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}RELAX
+Dialogue: 0,0:01:15.54,0:01:16.10,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}RELAX
+Dialogue: 0,0:01:16.10,0:01:17.06,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}I DIDN'T EXPOSE
+Dialogue: 0,0:01:17.06,0:01:17.86,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}MYSELF SIR
+Dialogue: 0,0:01:17.86,0:01:18.98,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}BE CAREFUL
+Dialogue: 0,0:01:18.98,0:01:19.62,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H002222FF&\3c&H00000000&\bord3}COP:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}HE ALWAYS
+Dialogue: 0,0:01:19.62,0:01:20.10,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}PLEASE DON'T DO
+Dialogue: 0,0:01:20.10,0:01:21.14,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}THAT TO ME
+Dialogue: 0,0:01:21.14,0:01:22.66,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}LISTEN SIR
+Dialogue: 0,0:01:22.66,0:01:23.22,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}I NEED TO
+Dialogue: 0,0:01:23.22,0:01:23.78,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}TALK TO THE
+Dialogue: 0,0:01:23.78,0:01:24.58,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}CHIEF CUZ I
+Dialogue: 0,0:01:24.58,0:01:25.22,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}DID NOT DO
+Dialogue: 0,0:01:25.22,0:01:26.90,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}NOTHING WRONG MAN
+Dialogue: 0,0:01:26.90,0:01:27.78,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}I'M MY BAG'S
+Dialogue: 0,0:01:27.78,0:01:28.66,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}UP THERE TOO
+Dialogue: 0,0:01:28.66,0:01:29.78,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}SOMEBODY GRABBED MY
+Dialogue: 0,0:01:29.78,0:01:32.06,Default,,0,0,0,,{\pos(540,1459)\an2}{\fs36\b1\i1\c&H0033FF33&\3c&H00000000&\bord3}SUSPECT:\N{\fs62\b1\i1\c&H00FFFFFF&\3c&H00000000&\bord5.5\shad2}BAG

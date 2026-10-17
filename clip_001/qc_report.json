@@ -1,0 +1,14 @@
+{
+  "status": "PASS_NATIVE_PODCAST_AUDIO",
+  "source_clip_sha256": "7ff6bcf8fcc4f74aa488b2c6c8664a46a2c5d224317406aecda3c888e8fd0f61",
+  "original_dialogue_kept": true,
+  "audio_stream_copied": true,
+  "elevenlabs_used": false,
+  "asr_words": 148,
+  "captions": 52,
+  "duration_sec": 68.44,
+  "audio_mode": "preserve",
+  "subtitle_size_px": 54,
+  "subtitle_vertical_pct": 85,
+  "notes": "Aural listening check still needed to verify real sound quality."
+}

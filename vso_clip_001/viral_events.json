@@ -1,0 +1,688 @@
+[
+  {
+    "id": "ev001",
+    "start": 0.0,
+    "end": 1.22,
+    "role": "COP",
+    "text": "WE RECEIVED SEVERAL"
+  },
+  {
+    "id": "ev002",
+    "start": 1.22,
+    "end": 2.5,
+    "role": "COP",
+    "text": "CALLS ABOUT YOU"
+  },
+  {
+    "id": "ev003",
+    "start": 2.5,
+    "end": 3.819,
+    "role": "COP",
+    "text": "TOUCHING YOURSELF OUT"
+  },
+  {
+    "id": "ev004",
+    "start": 3.819,
+    "end": 4.819,
+    "role": "COP",
+    "text": "HERE"
+  },
+  {
+    "id": "ev005",
+    "start": 4.819,
+    "end": 5.78,
+    "role": "SUSPECT",
+    "text": "OKAY"
+  },
+  {
+    "id": "ev006",
+    "start": 5.78,
+    "end": 6.26,
+    "role": "COP",
+    "text": "WAS IT JUST"
+  },
+  {
+    "id": "ev007",
+    "start": 6.26,
+    "end": 7.06,
+    "role": "COP",
+    "text": "AN IMPULSE THING"
+  },
+  {
+    "id": "ev008",
+    "start": 7.06,
+    "end": 7.62,
+    "role": "COP",
+    "text": "LIKE DID YOU"
+  },
+  {
+    "id": "ev009",
+    "start": 7.62,
+    "end": 10.58,
+    "role": "COP",
+    "text": "JUST I MEAN"
+  },
+  {
+    "id": "ev010",
+    "start": 10.58,
+    "end": 11.539,
+    "role": "COP",
+    "text": "SO WHY WHY"
+  },
+  {
+    "id": "ev011",
+    "start": 11.539,
+    "end": 12.42,
+    "role": "COP",
+    "text": "WOULD ALL THESE"
+  },
+  {
+    "id": "ev012",
+    "start": 12.42,
+    "end": 13.34,
+    "role": "COP",
+    "text": "PEOPLE ON THIS"
+  },
+  {
+    "id": "ev013",
+    "start": 13.34,
+    "end": 14.739,
+    "role": "COP",
+    "text": "BEACH FOR SOME"
+  },
+  {
+    "id": "ev014",
+    "start": 14.739,
+    "end": 15.62,
+    "role": "COP",
+    "text": "REASON JUST DESCRIBE"
+  },
+  {
+    "id": "ev015",
+    "start": 15.62,
+    "end": 16.099,
+    "role": "COP",
+    "text": "A MALE WITH"
+  },
+  {
+    "id": "ev016",
+    "start": 16.099,
+    "end": 17.62,
+    "role": "COP",
+    "text": "A TAN HOODIE"
+  },
+  {
+    "id": "ev017",
+    "start": 17.62,
+    "end": 19.94,
+    "role": "COP",
+    "text": "CAMO PANTS EXPOSING"
+  },
+  {
+    "id": "ev018",
+    "start": 19.94,
+    "end": 20.58,
+    "role": "COP",
+    "text": "HIMSELF ON THE"
+  },
+  {
+    "id": "ev019",
+    "start": 20.58,
+    "end": 20.819,
+    "role": "COP",
+    "text": "BEACH"
+  },
+  {
+    "id": "ev020",
+    "start": 20.819,
+    "end": 21.22,
+    "role": "COP",
+    "text": "WHY WHY WOULD"
+  },
+  {
+    "id": "ev021",
+    "start": 21.22,
+    "end": 21.7,
+    "role": "COP",
+    "text": "THEY DO WHY"
+  },
+  {
+    "id": "ev022",
+    "start": 21.7,
+    "end": 22.099,
+    "role": "COP",
+    "text": "WOULD THEY JUST"
+  },
+  {
+    "id": "ev023",
+    "start": 22.099,
+    "end": 22.5,
+    "role": "COP",
+    "text": "MAKE THAT UP"
+  },
+  {
+    "id": "ev024",
+    "start": 22.5,
+    "end": 22.899,
+    "role": "COP",
+    "text": "OUT OF ALL"
+  },
+  {
+    "id": "ev025",
+    "start": 22.899,
+    "end": 23.3,
+    "role": "COP",
+    "text": "THE PEOPLE ON"
+  },
+  {
+    "id": "ev026",
+    "start": 23.3,
+    "end": 23.7,
+    "role": "COP",
+    "text": "THIS BEACH"
+  },
+  {
+    "id": "ev027",
+    "start": 23.7,
+    "end": 24.42,
+    "role": "SUSPECT",
+    "text": "IT'S A LIE"
+  },
+  {
+    "id": "ev028",
+    "start": 24.42,
+    "end": 26.34,
+    "role": "SUSPECT",
+    "text": "IT'S A LIE"
+  },
+  {
+    "id": "ev029",
+    "start": 26.34,
+    "end": 28.099,
+    "role": "COP",
+    "text": "SO SO EVERYBODY"
+  },
+  {
+    "id": "ev030",
+    "start": 28.099,
+    "end": 28.819,
+    "role": "COP",
+    "text": "ELSE THAT RANDOMLY"
+  },
+  {
+    "id": "ev031",
+    "start": 28.819,
+    "end": 29.3,
+    "role": "COP",
+    "text": "DOESN'T KNOW YOU"
+  },
+  {
+    "id": "ev032",
+    "start": 29.3,
+    "end": 32.539,
+    "role": "COP",
+    "text": "IS LYING"
+  },
+  {
+    "id": "ev033",
+    "start": 32.98,
+    "end": 33.459,
+    "role": "COP",
+    "text": "WHY WOULD THEY"
+  },
+  {
+    "id": "ev034",
+    "start": 33.459,
+    "end": 36.42,
+    "role": "COP",
+    "text": "LIE ABOUT THAT"
+  },
+  {
+    "id": "ev035",
+    "start": 36.42,
+    "end": 37.22,
+    "role": "SUSPECT",
+    "text": "MYSELF"
+  },
+  {
+    "id": "ev036",
+    "start": 37.22,
+    "end": 37.94,
+    "role": "COP",
+    "text": "WHAT'S THAT"
+  },
+  {
+    "id": "ev037",
+    "start": 37.94,
+    "end": 38.58,
+    "role": "SUSPECT",
+    "text": "I DID NOT"
+  },
+  {
+    "id": "ev038",
+    "start": 38.58,
+    "end": 40.179,
+    "role": "SUSPECT",
+    "text": "SWIM"
+  },
+  {
+    "id": "ev039",
+    "start": 40.179,
+    "end": 42.58,
+    "role": "COP",
+    "text": "OKAY"
+  },
+  {
+    "id": "ev040",
+    "start": 42.58,
+    "end": 43.06,
+    "role": "COP",
+    "text": "YEAH"
+  },
+  {
+    "id": "ev041",
+    "start": 43.06,
+    "end": 43.86,
+    "role": "COP",
+    "text": "STAND UP TRAVIS"
+  },
+  {
+    "id": "ev042",
+    "start": 43.86,
+    "end": 45.3,
+    "role": "COP",
+    "text": "ALL RIGHT"
+  },
+  {
+    "id": "ev043",
+    "start": 45.3,
+    "end": 46.22,
+    "role": "SUSPECT",
+    "text": "I SWEAR"
+  },
+  {
+    "id": "ev044",
+    "start": 46.22,
+    "end": 47.539,
+    "role": "SUSPECT",
+    "text": "I SWEAR TO"
+  },
+  {
+    "id": "ev045",
+    "start": 47.539,
+    "end": 47.94,
+    "role": "SUSPECT",
+    "text": "GOD I DIDN'T"
+  },
+  {
+    "id": "ev046",
+    "start": 47.94,
+    "end": 48.739,
+    "role": "SUSPECT",
+    "text": "DO NOTHING WRONG"
+  },
+  {
+    "id": "ev047",
+    "start": 48.739,
+    "end": 49.14,
+    "role": "SUSPECT",
+    "text": "MAN"
+  },
+  {
+    "id": "ev048",
+    "start": 49.14,
+    "end": 50.66,
+    "role": "COP",
+    "text": "THERE'S NO STOP"
+  },
+  {
+    "id": "ev049",
+    "start": 50.66,
+    "end": 51.22,
+    "role": "COP",
+    "text": "PICK UP YOUR"
+  },
+  {
+    "id": "ev050",
+    "start": 51.22,
+    "end": 51.86,
+    "role": "COP",
+    "text": "__ FEET"
+  },
+  {
+    "id": "ev051",
+    "start": 51.86,
+    "end": 52.98,
+    "role": "COP",
+    "text": "YOU DRAGGED YOUR"
+  },
+  {
+    "id": "ev052",
+    "start": 52.98,
+    "end": 53.7,
+    "role": "COP",
+    "text": "ASS"
+  },
+  {
+    "id": "ev053",
+    "start": 53.7,
+    "end": 54.179,
+    "role": "SUSPECT",
+    "text": "YOU'RE TAKING ME"
+  },
+  {
+    "id": "ev054",
+    "start": 54.179,
+    "end": 54.739,
+    "role": "SUSPECT",
+    "text": "TO JAIL FOR"
+  },
+  {
+    "id": "ev055",
+    "start": 54.739,
+    "end": 56.179,
+    "role": "SUSPECT",
+    "text": "NO REASON MAN"
+  },
+  {
+    "id": "ev056",
+    "start": 56.179,
+    "end": 57.06,
+    "role": "SUSPECT",
+    "text": "THAT AIN'T RIGHT"
+  },
+  {
+    "id": "ev057",
+    "start": 57.06,
+    "end": 57.459,
+    "role": "SUSPECT",
+    "text": "MAN"
+  },
+  {
+    "id": "ev058",
+    "start": 57.459,
+    "end": 58.42,
+    "role": "COP",
+    "text": "SHUT UP"
+  },
+  {
+    "id": "ev059",
+    "start": 58.42,
+    "end": 58.819,
+    "role": "COP",
+    "text": "STOP"
+  },
+  {
+    "id": "ev060",
+    "start": 58.819,
+    "end": 59.379,
+    "role": "SUSPECT",
+    "text": "PLEASE DON'T TAKE"
+  },
+  {
+    "id": "ev061",
+    "start": 59.379,
+    "end": 59.86,
+    "role": "SUSPECT",
+    "text": "ME TO JAIL"
+  },
+  {
+    "id": "ev062",
+    "start": 59.86,
+    "end": 60.26,
+    "role": "SUSPECT",
+    "text": "I DIDN'T DO"
+  },
+  {
+    "id": "ev063",
+    "start": 60.26,
+    "end": 60.58,
+    "role": "SUSPECT",
+    "text": "NOTHING WRONG"
+  },
+  {
+    "id": "ev064",
+    "start": 60.58,
+    "end": 61.06,
+    "role": "COP",
+    "text": "WELL YOU'RE GOING"
+  },
+  {
+    "id": "ev065",
+    "start": 61.06,
+    "end": 62.099,
+    "role": "COP",
+    "text": "TO __ JAIL"
+  },
+  {
+    "id": "ev066",
+    "start": 62.099,
+    "end": 62.98,
+    "role": "SUSPECT",
+    "text": "FOR WHAT SIR"
+  },
+  {
+    "id": "ev067",
+    "start": 62.98,
+    "end": 63.459,
+    "role": "SUSPECT",
+    "text": "I DIDN'T DO"
+  },
+  {
+    "id": "ev068",
+    "start": 63.459,
+    "end": 64.819,
+    "role": "SUSPECT",
+    "text": "THAT DUDE"
+  },
+  {
+    "id": "ev069",
+    "start": 64.819,
+    "end": 65.459,
+    "role": "SUSPECT",
+    "text": "I SWEAR I"
+  },
+  {
+    "id": "ev070",
+    "start": 65.459,
+    "end": 66.019,
+    "role": "SUSPECT",
+    "text": "DIDN'T DO BUT"
+  },
+  {
+    "id": "ev071",
+    "start": 66.019,
+    "end": 66.739,
+    "role": "SUSPECT",
+    "text": "I SP MYSELF"
+  },
+  {
+    "id": "ev072",
+    "start": 66.739,
+    "end": 68.099,
+    "role": "SUSPECT",
+    "text": "I SWEAR LOOK"
+  },
+  {
+    "id": "ev073",
+    "start": 68.099,
+    "end": 68.66,
+    "role": "SUSPECT",
+    "text": "AT MYSELF"
+  },
+  {
+    "id": "ev074",
+    "start": 68.66,
+    "end": 69.459,
+    "role": "SUSPECT",
+    "text": "LOOK AT MY"
+  },
+  {
+    "id": "ev075",
+    "start": 69.459,
+    "end": 70.34,
+    "role": "SUSPECT",
+    "text": "SPREAD YOUR FEET"
+  },
+  {
+    "id": "ev076",
+    "start": 70.34,
+    "end": 71.7,
+    "role": "SUSPECT",
+    "text": "I DIDN'T EVEN TOUCH"
+  },
+  {
+    "id": "ev077",
+    "start": 71.7,
+    "end": 72.5,
+    "role": "SUSPECT",
+    "text": "MYSELF"
+  },
+  {
+    "id": "ev078",
+    "start": 72.5,
+    "end": 73.3,
+    "role": "SUSPECT",
+    "text": "LOOK"
+  },
+  {
+    "id": "ev079",
+    "start": 73.3,
+    "end": 74.42,
+    "role": "SUSPECT",
+    "text": "LOOK AT LOOK"
+  },
+  {
+    "id": "ev080",
+    "start": 74.42,
+    "end": 75.06,
+    "role": "SUSPECT",
+    "text": "AT MY PANTS"
+  },
+  {
+    "id": "ev081",
+    "start": 75.06,
+    "end": 75.539,
+    "role": "COP",
+    "text": "RELAX"
+  },
+  {
+    "id": "ev082",
+    "start": 75.539,
+    "end": 76.099,
+    "role": "COP",
+    "text": "RELAX"
+  },
+  {
+    "id": "ev083",
+    "start": 76.099,
+    "end": 77.06,
+    "role": "SUSPECT",
+    "text": "I DIDN'T EXPOSE"
+  },
+  {
+    "id": "ev084",
+    "start": 77.06,
+    "end": 77.86,
+    "role": "SUSPECT",
+    "text": "MYSELF SIR"
+  },
+  {
+    "id": "ev085",
+    "start": 77.86,
+    "end": 78.98,
+    "role": "COP",
+    "text": "BE CAREFUL"
+  },
+  {
+    "id": "ev086",
+    "start": 78.98,
+    "end": 79.62,
+    "role": "COP",
+    "text": "HE ALWAYS"
+  },
+  {
+    "id": "ev087",
+    "start": 79.62,
+    "end": 80.099,
+    "role": "SUSPECT",
+    "text": "PLEASE DON'T DO"
+  },
+  {
+    "id": "ev088",
+    "start": 80.099,
+    "end": 81.14,
+    "role": "SUSPECT",
+    "text": "THAT TO ME"
+  },
+  {
+    "id": "ev089",
+    "start": 81.14,
+    "end": 82.659,
+    "role": "SUSPECT",
+    "text": "LISTEN SIR"
+  },
+  {
+    "id": "ev090",
+    "start": 82.659,
+    "end": 83.219,
+    "role": "SUSPECT",
+    "text": "I NEED TO"
+  },
+  {
+    "id": "ev091",
+    "start": 83.219,
+    "end": 83.779,
+    "role": "SUSPECT",
+    "text": "TALK TO THE"
+  },
+  {
+    "id": "ev092",
+    "start": 83.779,
+    "end": 84.58,
+    "role": "SUSPECT",
+    "text": "CHIEF CUZ I"
+  },
+  {
+    "id": "ev093",
+    "start": 84.58,
+    "end": 85.219,
+    "role": "SUSPECT",
+    "text": "DID NOT DO"
+  },
+  {
+    "id": "ev094",
+    "start": 85.219,
+    "end": 86.9,
+    "role": "SUSPECT",
+    "text": "NOTHING WRONG MAN"
+  },
+  {
+    "id": "ev095",
+    "start": 86.9,
+    "end": 87.779,
+    "role": "SUSPECT",
+    "text": "I'M MY BAG'S"
+  },
+  {
+    "id": "ev096",
+    "start": 87.779,
+    "end": 88.659,
+    "role": "SUSPECT",
+    "text": "UP THERE TOO"
+  },
+  {
+    "id": "ev097",
+    "start": 88.659,
+    "end": 89.779,
+    "role": "SUSPECT",
+    "text": "SOMEBODY GRABBED MY"
+  },
+  {
+    "id": "ev098",
+    "start": 89.779,
+    "end": 92.059,
+    "role": "SUSPECT",
+    "text": "BAG"
+  }
+]

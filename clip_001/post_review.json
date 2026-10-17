@@ -1,0 +1,25 @@
+{
+  "schema_version": "podcast-v1",
+  "candidate_id": "w002_p1",
+  "clip_sha256": "7ff6bcf8fcc4f74aa488b2c6c8664a46a2c5d224317406aecda3c888e8fd0f61",
+  "transcript_sha256": "83bd44c356abbd462f57b0560bdb63feb39e322dedda2759eb2954be78699860",
+  "scores": {
+    "hook": 92,
+    "meaning": 94,
+    "audio_emotion": 90,
+    "framing": 92,
+    "pacing": 88,
+    "caption_readiness": 92
+  },
+  "complete_thought": true,
+  "meaning_not_distorted": true,
+  "begins_at_natural_boundary": true,
+  "ends_at_natural_boundary": true,
+  "clear_english_dialogue": true,
+  "speaker_framing_ok": true,
+  "rights_verified": true,
+  "source_mapping_verified": true,
+  "review_confidence": 0.92,
+  "evidence_note": "Exported 9:16 dialogue and sound verified against Taskmaster source.",
+  "recut_instruction": null
+}

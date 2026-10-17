@@ -1,0 +1,1178 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.08,
+    "text": "I",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 0.08,
+    "end": 0.24,
+    "text": "show",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 0.24,
+    "end": 0.399,
+    "text": "up",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 0.399,
+    "end": 0.639,
+    "text": "on",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 0.639,
+    "end": 0.879,
+    "text": "scene",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 0.879,
+    "end": 1.04,
+    "text": "and",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 1.04,
+    "end": 1.2,
+    "text": "then",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 1.2,
+    "end": 1.36,
+    "text": "you",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 1.36,
+    "end": 1.6,
+    "text": "drive",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 1.6,
+    "end": 2.48,
+    "text": "away",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 2.48,
+    "end": 2.639,
+    "text": "and",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 2.639,
+    "end": 2.8,
+    "text": "you're",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 2.8,
+    "end": 2.879,
+    "text": "in",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 2.879,
+    "end": 3.2,
+    "text": "the",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 3.2,
+    "end": 3.519,
+    "text": "I",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 3.519,
+    "end": 3.68,
+    "text": "cuz",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 3.68,
+    "end": 3.84,
+    "text": "cuz",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 3.84,
+    "end": 3.999,
+    "text": "I",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 3.999,
+    "end": 4.16,
+    "text": "had",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 4.16,
+    "end": 4.32,
+    "text": "my",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 4.32,
+    "end": 4.48,
+    "text": "I",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 4.48,
+    "end": 4.639,
+    "text": "had",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 4.639,
+    "end": 5.12,
+    "text": "my",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 5.12,
+    "end": 5.36,
+    "text": "light.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 5.36,
+    "end": 5.519,
+    "text": "I",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 5.519,
+    "end": 5.68,
+    "text": "was",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 5.68,
+    "end": 5.759,
+    "text": "going",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 5.759,
+    "end": 5.84,
+    "text": "to",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 5.84,
+    "end": 5.92,
+    "text": "make",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 5.92,
+    "end": 6.08,
+    "text": "it",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 6.08,
+    "end": 6.32,
+    "text": "right.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 6.32,
+    "end": 6.399,
+    "text": "I",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 6.399,
+    "end": 6.48,
+    "text": "was",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 6.48,
+    "end": 6.56,
+    "text": "going",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 6.56,
+    "end": 6.72,
+    "text": "to",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 6.72,
+    "end": 6.879,
+    "text": "spin",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 6.879,
+    "end": 7.2,
+    "text": "around",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 7.2,
+    "end": 7.44,
+    "text": "one",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 7.44,
+    "end": 7.6,
+    "text": "more",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 7.6,
+    "end": 8.08,
+    "text": "time.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 8.08,
+    "end": 8.32,
+    "text": "That's",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 8.32,
+    "end": 8.48,
+    "text": "why",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 8.48,
+    "end": 8.56,
+    "text": "I",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 8.56,
+    "end": 8.8,
+    "text": "ain't",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 8.8,
+    "end": 8.96,
+    "text": "cuz",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 8.96,
+    "end": 9.12,
+    "text": "I",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 9.12,
+    "end": 9.279,
+    "text": "didn't",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 9.279,
+    "end": 9.36,
+    "text": "want",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 9.36,
+    "end": 9.44,
+    "text": "to",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 9.44,
+    "end": 9.519,
+    "text": "get",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 9.519,
+    "end": 9.68,
+    "text": "in",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 9.68,
+    "end": 9.92,
+    "text": "trouble",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 9.92,
+    "end": 9.999,
+    "text": "cuz",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 9.999,
+    "end": 10.16,
+    "text": "I",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 10.16,
+    "end": 10.32,
+    "text": "seen",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 10.32,
+    "end": 10.399,
+    "text": "you",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 10.399,
+    "end": 10.56,
+    "text": "right",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 10.56,
+    "end": 10.639,
+    "text": "there.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 10.639,
+    "end": 10.72,
+    "text": "I",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 10.72,
+    "end": 10.879,
+    "text": "ain't",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 10.879,
+    "end": 10.96,
+    "text": "want",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 10.96,
+    "end": 11.04,
+    "text": "to",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 11.04,
+    "end": 11.68,
+    "text": "get",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 11.68,
+    "end": 14.68,
+    "text": "trouble.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 16.24,
+    "end": 16.399,
+    "text": "Did",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 16.399,
+    "end": 16.56,
+    "text": "you",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 16.56,
+    "end": 16.72,
+    "text": "Did",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 16.72,
+    "end": 16.879,
+    "text": "you",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 16.879,
+    "end": 16.96,
+    "text": "call",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 16.96,
+    "end": 17.12,
+    "text": "him",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 17.12,
+    "end": 17.759,
+    "text": "yet?",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 17.759,
+    "end": 18.16,
+    "text": "Calling",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 18.16,
+    "end": 18.32,
+    "text": "a",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 18.32,
+    "end": 21.32,
+    "text": "lot.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 25.36,
+    "end": 25.519,
+    "text": "Put",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 25.519,
+    "end": 25.759,
+    "text": "on",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 25.759,
+    "end": 28.759,
+    "text": "speaker.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 48.16,
+    "end": 48.72,
+    "text": "Yeah.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 48.72,
+    "end": 49.12,
+    "text": "Male",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 49.12,
+    "end": 49.44,
+    "text": "saying",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 49.44,
+    "end": 49.519,
+    "text": "that",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 49.519,
+    "end": 49.759,
+    "text": "there's",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 49.759,
+    "end": 49.92,
+    "text": "two",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 49.92,
+    "end": 50.16,
+    "text": "other",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 50.16,
+    "end": 51.04,
+    "text": "males.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 51.04,
+    "end": 51.999,
+    "text": "Younger.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 51.999,
+    "end": 52.56,
+    "text": "Younger.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 52.56,
+    "end": 55.56,
+    "text": "Yeah.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 58.639,
+    "end": 58.879,
+    "text": "All right.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 58.879,
+    "end": 58.96,
+    "text": "You",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 58.96,
+    "end": 59.12,
+    "text": "on",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 59.12,
+    "end": 59.2,
+    "text": "the",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 59.2,
+    "end": 61.84,
+    "text": "phone.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 61.84,
+    "end": 63.84,
+    "text": "Hello.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 63.84,
+    "end": 63.999,
+    "text": "Give",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 63.999,
+    "end": 64.08,
+    "text": "me",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 64.08,
+    "end": 64.16,
+    "text": "a",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 64.16,
+    "end": 64.639,
+    "text": "sec.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 64.639,
+    "end": 64.879,
+    "text": "What's",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 64.879,
+    "end": 65.04,
+    "text": "your",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 65.04,
+    "end": 65.759,
+    "text": "name?",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 65.759,
+    "end": 65.92,
+    "text": "This",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 65.92,
+    "end": 66.08,
+    "text": "is",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 66.08,
+    "end": 66.8,
+    "text": "Zay.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 66.8,
+    "end": 67.04,
+    "text": "His",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 67.04,
+    "end": 67.12,
+    "text": "name",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 67.12,
+    "end": 67.2,
+    "text": "is",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 67.2,
+    "end": 67.519,
+    "text": "Zay.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 67.519,
+    "end": 67.68,
+    "text": "Yeah,",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 67.68,
+    "end": 67.999,
+    "text": "that's",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 67.999,
+    "end": 68.08,
+    "text": "the",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 68.08,
+    "end": 68.24,
+    "text": "one",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 68.24,
+    "end": 68.32,
+    "text": "that's",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 68.32,
+    "end": 68.48,
+    "text": "with",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 68.48,
+    "end": 68.96,
+    "text": "you.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 68.96,
+    "end": 70.04,
+    "text": "Yeah.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 70.04,
+    "end": 71.04,
+    "text": "Okay.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 71.04,
+    "end": 72.639,
+    "text": "Z.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 72.639,
+    "end": 73.84,
+    "text": "Yeah.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 73.84,
+    "end": 74.16,
+    "text": "Hey,",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 74.16,
+    "end": 74.399,
+    "text": "bud.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 74.399,
+    "end": 74.639,
+    "text": "Where",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 74.639,
+    "end": 74.879,
+    "text": "where",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 74.879,
+    "end": 74.96,
+    "text": "you",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 74.96,
+    "end": 76.48,
+    "text": "at?",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 76.48,
+    "end": 76.639,
+    "text": "He",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 76.639,
+    "end": 76.8,
+    "text": "in",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 76.8,
+    "end": 77.36,
+    "text": "Orlando",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 77.36,
+    "end": 77.519,
+    "text": "with",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 77.519,
+    "end": 77.92,
+    "text": "us.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 77.92,
+    "end": 78.48,
+    "text": "Huh?",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 78.48,
+    "end": 78.639,
+    "text": "He",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 78.639,
+    "end": 78.8,
+    "text": "in",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 78.8,
+    "end": 79.36,
+    "text": "Orlando",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 79.36,
+    "end": 79.6,
+    "text": "with",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 79.6,
+    "end": 81.36,
+    "text": "us.",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 81.36,
+    "end": 81.519,
+    "text": "Do",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 81.519,
+    "end": 81.6,
+    "text": "you",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 81.6,
+    "end": 81.68,
+    "text": "know",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 81.68,
+    "end": 81.84,
+    "text": "where",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 81.84,
+    "end": 81.92,
+    "text": "you're",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 81.92,
+    "end": 82.08,
+    "text": "at",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 82.08,
+    "end": 82.24,
+    "text": "right",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 82.24,
+    "end": 82.639,
+    "text": "now?",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "COP"
+  },
+  {
+    "start": 82.639,
+    "end": 82.96,
+    "text": "This",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 82.96,
+    "end": 83.44,
+    "text": "Orlando,",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  },
+  {
+    "start": 83.44,
+    "end": 84.879,
+    "text": "right?",
+    "speaker": "speaker_1",
+    "confidence": null,
+    "role": "SUSPECT"
+  }
+]

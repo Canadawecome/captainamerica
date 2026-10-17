@@ -1,0 +1,137 @@
+{
+  "schema_version": "podcast-v1.1",
+  "source_sha256": "3cbb4183a78ca55593558c1e857537bcb1a2574b4823bf4236298948d0800858",
+  "source_transcript_sha256": "355be15caa60c6409f61735101ef47d955e689ce3740a3417c75c0a9a1f834b0",
+  "plan_sha256": "74825e17388b2dc3a2cf501ffd34a6db10cb7da7b1d754298231a20360896074",
+  "jobs": [
+    {
+      "group_id": "group_001",
+      "candidate_ids": [
+        "w001_p3",
+        "w001_p4"
+      ],
+      "source_window": [
+        173.36,
+        360.08
+      ],
+      "request": {
+        "videoUrl": "https://www.youtube.com/watch?v=C1Dj5yI8lgg",
+        "curationPref": {
+          "model": "ClipAnything",
+          "range": {
+            "startSec": 173.36,
+            "endSec": 360.08
+          },
+          "clipDurations": [
+            [
+              70,
+              100
+            ]
+          ],
+          "customPrompt": "Find the strongest self-contained conversation within these themes: Find the English podcast discussion where a speaker says \"We received several calls about you touching yourself out here.\" and develops the point toward \"Somebody grabbed my bag.\". Important context: Intense interrogation and arrest sequence: officer confronts suspect with multiple witness reports, suspect vehemently denies everything while being cuffed. Raw emotional escalation from questioning to physical restraint with suspect pleading innocence, claiming false accusations, demanding to see chief. High stakes confrontation.. | Find the English podcast discussion where a speaker says \"Listen, you said you didn't have drugs last time I arrested you, too.\" and develops the point toward \"That's it.\". Important context: Explosive finale: officer reveals prior arrest history, drops bombshell about video evidence while suspect threatens lawsuit for false arrest. Suspect becomes increasingly combative, denying everything while officers mention transporting to truck. Raw emotion, legal threats, and claim of video evidence create climactic confrontation ending in bitter resignation.."
+        },
+        "renderPref": {
+          "layoutAspectRatio": "portrait",
+          "enableCaption": false,
+          "enableEmoji": false,
+          "enableBroll": false,
+          "quickstartConfig": {
+            "enableRemoveFillerWords": false
+          },
+          "enableSplitLayout": true
+        }
+      },
+      "requires_post_export_review": true,
+      "source_interval_sec": [
+        173.36,
+        360.08
+      ]
+    },
+    {
+      "group_id": "group_002",
+      "candidate_ids": [
+        "w003_p3"
+      ],
+      "source_window": [
+        688.64,
+        784.48
+      ],
+      "request": {
+        "videoUrl": "https://www.youtube.com/watch?v=C1Dj5yI8lgg",
+        "curationPref": {
+          "model": "ClipAnything",
+          "range": {
+            "startSec": 688.64,
+            "endSec": 784.48
+          },
+          "clipDurations": [
+            [
+              70,
+              95
+            ]
+          ],
+          "customPrompt": "Find the strongest self-contained conversation within these themes: Find the English podcast discussion where a speaker says \"Is there a way out this way?\" and develops the point toward \"All right, give us a channel real quick. We're going to challenge these guys.\". Important context: High-stakes tactical water pursuit as officers coordinate to deploy a boat and chase suspects fleeing across a lake toward a state park. Features rapid planning, helicopter coordination, and building tension as they prepare for an armed confrontation on the water.."
+        },
+        "renderPref": {
+          "layoutAspectRatio": "portrait",
+          "enableCaption": false,
+          "enableEmoji": false,
+          "enableBroll": false,
+          "quickstartConfig": {
+            "enableRemoveFillerWords": false
+          },
+          "enableSplitLayout": true
+        }
+      },
+      "requires_post_export_review": true,
+      "source_interval_sec": [
+        688.64,
+        784.48
+      ]
+    },
+    {
+      "group_id": "group_003",
+      "candidate_ids": [
+        "w007_p2"
+      ],
+      "source_window": [
+        1559.12,
+        1643.0
+      ],
+      "request": {
+        "videoUrl": "https://www.youtube.com/watch?v=C1Dj5yI8lgg",
+        "curationPref": {
+          "model": "ClipAnything",
+          "range": {
+            "startSec": 1559.12,
+            "endSec": 1643.0
+          },
+          "clipDurations": [
+            [
+              70,
+              83
+            ]
+          ],
+          "customPrompt": "Find the strongest self-contained conversation within these themes: Find the English podcast discussion where a speaker says \"I show up on scene and then you drive away\" and develops the point toward \"You're in Orlando? Yeah. Oh, okay.\". Important context: The driver's explanation of why he drove away becomes increasingly convoluted, then there's a crucial phone call to verify his story about where his brothers are. The tension peaks when the brother on the phone insists he's 'in Orlando' but the officer flatly contradicts him with 'Definitely not' - revealing the lie and the severity of the situation.."
+        },
+        "renderPref": {
+          "layoutAspectRatio": "portrait",
+          "enableCaption": false,
+          "enableEmoji": false,
+          "enableBroll": false,
+          "quickstartConfig": {
+            "enableRemoveFillerWords": false
+          },
+          "enableSplitLayout": true
+        }
+      },
+      "requires_post_export_review": true,
+      "source_interval_sec": [
+        1559.12,
+        1643.0
+      ]
+    }
+  ],
+  "project_budget_plan": 3,
+  "credit_note": "Grouping may reduce submissions; actual API credit charges/pricing are account-specific and unverified."
+}

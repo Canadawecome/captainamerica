@@ -1,0 +1,611 @@
+[
+  {
+    "id": "ev001",
+    "start": 0.0,
+    "end": 3.485,
+    "role": "COP",
+    "text": "MUSIC IS THERE"
+  },
+  {
+    "id": "ev002",
+    "start": 3.485,
+    "end": 3.966,
+    "role": "COP",
+    "text": "A WAY OUT"
+  },
+  {
+    "id": "ev003",
+    "start": 3.966,
+    "end": 5.886,
+    "role": "COP",
+    "text": "THIS WAY"
+  },
+  {
+    "id": "ev004",
+    "start": 5.886,
+    "end": 6.446,
+    "role": "COP",
+    "text": "THAT'S GOING TO"
+  },
+  {
+    "id": "ev005",
+    "start": 6.446,
+    "end": 8.686,
+    "role": "COP",
+    "text": "THE STATE PARK"
+  },
+  {
+    "id": "ev006",
+    "start": 8.686,
+    "end": 9.006,
+    "role": "COP",
+    "text": "YOU WANT ME"
+  },
+  {
+    "id": "ev007",
+    "start": 9.006,
+    "end": 9.326,
+    "role": "COP",
+    "text": "TO PUT THE"
+  },
+  {
+    "id": "ev008",
+    "start": 9.326,
+    "end": 9.726,
+    "role": "COP",
+    "text": "BOAT IN THE"
+  },
+  {
+    "id": "ev009",
+    "start": 9.726,
+    "end": 10.045,
+    "role": "COP",
+    "text": "WATER"
+  },
+  {
+    "id": "ev010",
+    "start": 10.045,
+    "end": 10.446,
+    "role": "SUSPECT",
+    "text": "YES SIR"
+  },
+  {
+    "id": "ev011",
+    "start": 10.446,
+    "end": 10.686,
+    "role": "COP",
+    "text": "YEAH"
+  },
+  {
+    "id": "ev012",
+    "start": 10.686,
+    "end": 11.966,
+    "role": "COP",
+    "text": "GO AHEAD"
+  },
+  {
+    "id": "ev013",
+    "start": 11.966,
+    "end": 12.206,
+    "role": "COP",
+    "text": "WATER"
+  },
+  {
+    "id": "ev014",
+    "start": 12.206,
+    "end": 13.246,
+    "role": "COP",
+    "text": "LET'S GO MAN"
+  },
+  {
+    "id": "ev015",
+    "start": 13.246,
+    "end": 17.805,
+    "role": "COP",
+    "text": "GO MUSIC AHEAD"
+  },
+  {
+    "id": "ev016",
+    "start": 17.805,
+    "end": 18.526,
+    "role": "COP",
+    "text": "UH THEY'RE HEADING"
+  },
+  {
+    "id": "ev017",
+    "start": 18.526,
+    "end": 18.925,
+    "role": "COP",
+    "text": "NORTH"
+  },
+  {
+    "id": "ev018",
+    "start": 18.925,
+    "end": 19.326,
+    "role": "COP",
+    "text": "THEY'RE KIND OF"
+  },
+  {
+    "id": "ev019",
+    "start": 19.326,
+    "end": 20.365,
+    "role": "COP",
+    "text": "HEADING TOWARDS UH"
+  },
+  {
+    "id": "ev020",
+    "start": 20.365,
+    "end": 21.086,
+    "role": "COP",
+    "text": "STATE PARK I"
+  },
+  {
+    "id": "ev021",
+    "start": 21.086,
+    "end": 21.566,
+    "role": "COP",
+    "text": "BELIEVE"
+  },
+  {
+    "id": "ev022",
+    "start": 21.566,
+    "end": 22.286,
+    "role": "COP",
+    "text": "WE'RE PUTTING THE"
+  },
+  {
+    "id": "ev023",
+    "start": 22.286,
+    "end": 22.925,
+    "role": "COP",
+    "text": "OTHER BOAT IN"
+  },
+  {
+    "id": "ev024",
+    "start": 22.925,
+    "end": 23.726,
+    "role": "COP",
+    "text": "THE WATER NOW"
+  },
+  {
+    "id": "ev025",
+    "start": 23.726,
+    "end": 24.286,
+    "role": "COP",
+    "text": "THEY'RE GOING STRAIGHT"
+  },
+  {
+    "id": "ev026",
+    "start": 24.286,
+    "end": 25.086,
+    "role": "COP",
+    "text": "TO THE PARK"
+  },
+  {
+    "id": "ev027",
+    "start": 25.086,
+    "end": 25.485,
+    "role": "COP",
+    "text": "CAN YOU GUYS"
+  },
+  {
+    "id": "ev028",
+    "start": 25.485,
+    "end": 25.966,
+    "role": "COP",
+    "text": "GO TO THE"
+  },
+  {
+    "id": "ev029",
+    "start": 25.966,
+    "end": 27.726,
+    "role": "COP",
+    "text": "PARK"
+  },
+  {
+    "id": "ev030",
+    "start": 27.726,
+    "end": 28.126,
+    "role": "COP",
+    "text": "ALL RIGHT"
+  },
+  {
+    "id": "ev031",
+    "start": 28.126,
+    "end": 29.086,
+    "role": "COP",
+    "text": "YEAH THEY'RE GOING"
+  },
+  {
+    "id": "ev032",
+    "start": 29.086,
+    "end": 29.726,
+    "role": "COP",
+    "text": "UH THEY'RE GOING"
+  },
+  {
+    "id": "ev033",
+    "start": 29.726,
+    "end": 30.526,
+    "role": "COP",
+    "text": "TO THE STATE"
+  },
+  {
+    "id": "ev034",
+    "start": 30.526,
+    "end": 31.566,
+    "role": "COP",
+    "text": "PARK NOW"
+  },
+  {
+    "id": "ev035",
+    "start": 31.566,
+    "end": 32.126,
+    "role": "COP",
+    "text": "HEY LET'S JUMP"
+  },
+  {
+    "id": "ev036",
+    "start": 32.126,
+    "end": 35.446,
+    "role": "COP",
+    "text": "IN THIS BOAT"
+  },
+  {
+    "id": "ev037",
+    "start": 38.126,
+    "end": 39.166,
+    "role": "COP",
+    "text": "YES IT'S AN"
+  },
+  {
+    "id": "ev038",
+    "start": 39.166,
+    "end": 39.726,
+    "role": "COP",
+    "text": "AIRBOAT"
+  },
+  {
+    "id": "ev039",
+    "start": 39.726,
+    "end": 40.126,
+    "role": "COP",
+    "text": "SILVER"
+  },
+  {
+    "id": "ev040",
+    "start": 40.126,
+    "end": 41.165,
+    "role": "COP",
+    "text": "IT'S GOT A"
+  },
+  {
+    "id": "ev041",
+    "start": 41.165,
+    "end": 41.966,
+    "role": "COP",
+    "text": "GREEN WING ON"
+  },
+  {
+    "id": "ev042",
+    "start": 41.966,
+    "end": 43.045,
+    "role": "COP",
+    "text": "IT"
+  },
+  {
+    "id": "ev043",
+    "start": 43.045,
+    "end": 44.045,
+    "role": "COP",
+    "text": "YEAH"
+  },
+  {
+    "id": "ev044",
+    "start": 44.045,
+    "end": 45.646,
+    "role": "COP",
+    "text": "GO MOM"
+  },
+  {
+    "id": "ev045",
+    "start": 45.646,
+    "end": 46.286,
+    "role": "COP",
+    "text": "PUSH OFF IT"
+  },
+  {
+    "id": "ev046",
+    "start": 46.286,
+    "end": 47.006,
+    "role": "COP",
+    "text": "PUSH OFF PART"
+  },
+  {
+    "id": "ev047",
+    "start": 47.006,
+    "end": 47.886,
+    "role": "COP",
+    "text": "WE NEED SOMEBODY"
+  },
+  {
+    "id": "ev048",
+    "start": 47.886,
+    "end": 48.286,
+    "role": "COP",
+    "text": "UH TO GO"
+  },
+  {
+    "id": "ev049",
+    "start": 48.286,
+    "end": 49.485,
+    "role": "COP",
+    "text": "TO THE THERE'S"
+  },
+  {
+    "id": "ev050",
+    "start": 49.485,
+    "end": 50.045,
+    "role": "COP",
+    "text": "AIR1"
+  },
+  {
+    "id": "ev051",
+    "start": 50.045,
+    "end": 50.605,
+    "role": "COP",
+    "text": "WE NEED SOMEBODY"
+  },
+  {
+    "id": "ev052",
+    "start": 50.605,
+    "end": 51.086,
+    "role": "COP",
+    "text": "TO GO OVER"
+  },
+  {
+    "id": "ev053",
+    "start": 51.086,
+    "end": 51.805,
+    "role": "COP",
+    "text": "TO UH THE"
+  },
+  {
+    "id": "ev054",
+    "start": 51.805,
+    "end": 52.526,
+    "role": "COP",
+    "text": "STATE PARK"
+  },
+  {
+    "id": "ev055",
+    "start": 52.526,
+    "end": 53.006,
+    "role": "COP",
+    "text": "SEE IF THEY"
+  },
+  {
+    "id": "ev056",
+    "start": 53.006,
+    "end": 53.485,
+    "role": "COP",
+    "text": "DON'T GO IN"
+  },
+  {
+    "id": "ev057",
+    "start": 53.485,
+    "end": 53.966,
+    "role": "COP",
+    "text": "THERE AND DITCH"
+  },
+  {
+    "id": "ev058",
+    "start": 53.966,
+    "end": 54.925,
+    "role": "COP",
+    "text": "IT"
+  },
+  {
+    "id": "ev059",
+    "start": 54.925,
+    "end": 55.566,
+    "role": "COP",
+    "text": "AIR1 YOU SHOULD"
+  },
+  {
+    "id": "ev060",
+    "start": 55.566,
+    "end": 55.966,
+    "role": "COP",
+    "text": "HAVE IT HERE"
+  },
+  {
+    "id": "ev061",
+    "start": 55.966,
+    "end": 56.686,
+    "role": "COP",
+    "text": "SHORTLY"
+  },
+  {
+    "id": "ev062",
+    "start": 56.686,
+    "end": 60.045,
+    "role": "COP",
+    "text": "IT'S ONLY BOAT"
+  },
+  {
+    "id": "ev063",
+    "start": 60.045,
+    "end": 61.326,
+    "role": "COP",
+    "text": "REVERSE"
+  },
+  {
+    "id": "ev064",
+    "start": 61.326,
+    "end": 63.566,
+    "role": "COP",
+    "text": "YEP"
+  },
+  {
+    "id": "ev065",
+    "start": 79.446,
+    "end": 80.446,
+    "role": "COP",
+    "text": "YEP"
+  },
+  {
+    "id": "ev066",
+    "start": 80.446,
+    "end": 82.446,
+    "role": "COP",
+    "text": "ALL"
+  },
+  {
+    "id": "ev067",
+    "start": 88.446,
+    "end": 89.006,
+    "role": "COP",
+    "text": "RIGHT GET YOUR"
+  },
+  {
+    "id": "ev068",
+    "start": 89.006,
+    "end": 89.805,
+    "role": "COP",
+    "text": "GUN OUT GUYS"
+  },
+  {
+    "id": "ev069",
+    "start": 89.805,
+    "end": 90.126,
+    "role": "COP",
+    "text": "WE'RE GOING TO"
+  },
+  {
+    "id": "ev070",
+    "start": 90.126,
+    "end": 92.446,
+    "role": "COP",
+    "text": "CHALLENGE"
+  },
+  {
+    "id": "ev071",
+    "start": 96.646,
+    "end": 97.646,
+    "role": "COP",
+    "text": "PEOPLE"
+  },
+  {
+    "id": "ev072",
+    "start": 97.646,
+    "end": 98.126,
+    "role": "COP",
+    "text": "ALL RIGHT GIVE"
+  },
+  {
+    "id": "ev073",
+    "start": 98.126,
+    "end": 98.686,
+    "role": "COP",
+    "text": "US A CHANNEL"
+  },
+  {
+    "id": "ev074",
+    "start": 98.686,
+    "end": 99.006,
+    "role": "COP",
+    "text": "REAL QUICK"
+  },
+  {
+    "id": "ev075",
+    "start": 99.006,
+    "end": 99.326,
+    "role": "COP",
+    "text": "WE'RE GOING TO"
+  },
+  {
+    "id": "ev076",
+    "start": 99.326,
+    "end": 99.966,
+    "role": "COP",
+    "text": "CHALLENGE THESE GUYS"
+  },
+  {
+    "id": "ev077",
+    "start": 99.966,
+    "end": 100.446,
+    "role": "COP",
+    "text": "I KNOW IT'S"
+  },
+  {
+    "id": "ev078",
+    "start": 100.446,
+    "end": 100.766,
+    "role": "COP",
+    "text": "HARD TO HEAR"
+  },
+  {
+    "id": "ev079",
+    "start": 100.766,
+    "end": 103.805,
+    "role": "COP",
+    "text": "OUT HERE"
+  },
+  {
+    "id": "ev080",
+    "start": 103.805,
+    "end": 106.605,
+    "role": "COP",
+    "text": "SLOW DOWN"
+  },
+  {
+    "id": "ev081",
+    "start": 106.605,
+    "end": 107.006,
+    "role": "COP",
+    "text": "GIVE US A"
+  },
+  {
+    "id": "ev082",
+    "start": 107.006,
+    "end": 107.326,
+    "role": "COP",
+    "text": "CHANNEL"
+  },
+  {
+    "id": "ev083",
+    "start": 107.326,
+    "end": 107.886,
+    "role": "COP",
+    "text": "WE'RE GOING TO CHALLENGE"
+  },
+  {
+    "id": "ev084",
+    "start": 107.886,
+    "end": 108.365,
+    "role": "COP",
+    "text": "THESE GUYS"
+  },
+  {
+    "id": "ev085",
+    "start": 108.365,
+    "end": 108.846,
+    "role": "COP",
+    "text": "COMING UP TO"
+  },
+  {
+    "id": "ev086",
+    "start": 108.846,
+    "end": 111.165,
+    "role": "COP",
+    "text": "THEM"
+  },
+  {
+    "id": "ev087",
+    "start": 111.165,
+    "end": 111.485,
+    "role": "COP",
+    "text": "HANDS"
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "schema_version": "podcast-v1.1",
+  "source_sha256": "745027f50a73cd3d29d264e060752d569715ad9ef95822c3e391811f9ceef4b5",
+  "source_transcript_sha256": "a0d6a69439fea69ff826ba10ae84a5841d9f5523fca35d9dd79975479145c1e8",
+  "plan_sha256": "c085f999b4ad9a8597a59fbfa68b80a5fea43ffe5da4bfbb231aa005f2ce4d03",
+  "jobs": [
+    {
+      "group_id": "group_001",
+      "candidate_ids": [
+        "w002_p1"
+      ],
+      "source_window": [
+        419.56,
+        492.2
+      ],
+      "request": {
+        "videoUrl": "https://www.youtube.com/watch?v=kozNkiTzzQE",
+        "curationPref": {
+          "model": "ClipAnything",
+          "range": {
+            "startSec": 419.56,
+            "endSec": 492.2
+          },
+          "clipDurations": [
+            [
+              70,
+              72
+            ]
+          ],
+          "customPrompt": "Find the strongest self-contained conversation within these themes: Find the English podcast discussion where a speaker says \"It's got some like Nutella on it. Oh whoopsie.\" and develops the point toward \"Biggest whoopsie wins.\". Important context: A small apparent mishap turns into an absurdly formal \u201cwhoopsie\u201d contest, with a clear rule, escalating attempts, and a comic callback. The excerpt includes the setup and the start of the challenge without presenting the mishap as something more serious than the transcript supports.."
+        },
+        "renderPref": {
+          "layoutAspectRatio": "portrait",
+          "enableCaption": false,
+          "enableEmoji": false,
+          "enableBroll": false,
+          "quickstartConfig": {
+            "enableRemoveFillerWords": false
+          },
+          "enableSplitLayout": true
+        }
+      },
+      "requires_post_export_review": true,
+      "source_interval_sec": [
+        419.56,
+        492.2
+      ]
+    }
+  ],
+  "project_budget_plan": 1,
+  "credit_note": "Grouping may reduce submissions; actual API credit charges/pricing are account-specific and unverified."
+}

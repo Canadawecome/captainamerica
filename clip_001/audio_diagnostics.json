@@ -1,0 +1,38 @@
+{
+  "file": "clip_001\\final.mp4",
+  "duration_sec": 68.44,
+  "has_audio": true,
+  "audio_codec": "aac",
+  "channels": 2,
+  "rms_dbfs": "-27.098557",
+  "peak_dbfs": "-4.111582",
+  "silence_intervals_40db": [
+    [
+      3.504521,
+      4.752104
+    ],
+    [
+      10.028333,
+      10.751521
+    ],
+    [
+      15.268292,
+      16.085917
+    ],
+    [
+      16.936146,
+      17.794271
+    ],
+    [
+      25.06825,
+      25.976917
+    ],
+    [
+      36.208354,
+      38.135854
+    ]
+  ],
+  "silence_ratio": 0.0947,
+  "warnings": [],
+  "requires_human_listening_for_speech_accuracy": true
+}

@@ -1,0 +1,1627 @@
+{
+  "schema_version": "1.1-podcast",
+  "audio_policy": "PRESERVE_FINAL_NATIVE_AUDIO",
+  "tts_enabled": false,
+  "final_media": {
+    "video_file": "clip.mp4",
+    "media_sha256": "7ff6bcf8fcc4f74aa488b2c6c8664a46a2c5d224317406aecda3c888e8fd0f61",
+    "duration_sec": 68.44,
+    "canvas": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  "caption_mode": "SMART_HYBRID",
+  "speakers": [
+    {
+      "speaker_id": "S1",
+      "display_name": "Alex Horne",
+      "display_color": "#63E6BE",
+      "identity_verified": true
+    },
+    {
+      "speaker_id": "S2",
+      "display_name": "Matt Lucas",
+      "display_color": "#74C0FC",
+      "identity_verified": true
+    }
+  ],
+  "caption_events": [
+    {
+      "id": "ev001",
+      "start": 0.0,
+      "end": 0.814,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "I...",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.814,
+          "text": "I...",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev002",
+      "start": 0.0,
+      "end": 0.814,
+      "speaker_id": "S1",
+      "speaker_name": "Alex Horne",
+      "text": "What's wrong?",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.1,
+          "text": "What's",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        },
+        {
+          "start": 0.0,
+          "end": 0.814,
+          "text": "wrong?",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        }
+      ]
+    },
+    {
+      "id": "ev003",
+      "start": 0.854,
+      "end": 1.654,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "It's like",
+      "words": [
+        {
+          "start": 0.854,
+          "end": 1.921,
+          "text": "It's",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 0.854,
+          "end": 1.654,
+          "text": "like",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev004",
+      "start": 0.854,
+      "end": 2.454,
+      "speaker_id": "S1",
+      "speaker_name": "Alex Horne",
+      "text": "Oh",
+      "words": [
+        {
+          "start": 0.854,
+          "end": 2.454,
+          "text": "Oh",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        }
+      ]
+    },
+    {
+      "id": "ev005",
+      "start": 1.654,
+      "end": 3.254,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "Nutella got on",
+      "words": [
+        {
+          "start": 1.654,
+          "end": 2.454,
+          "text": "Nutella",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 1.921,
+          "end": 2.987,
+          "text": "got",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 2.454,
+          "end": 3.254,
+          "text": "on",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev006",
+      "start": 2.454,
+      "end": 4.054,
+      "speaker_id": "S1",
+      "speaker_name": "Alex Horne",
+      "text": "whoopsie.",
+      "words": [
+        {
+          "start": 2.454,
+          "end": 4.054,
+          "text": "whoopsie.",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        }
+      ]
+    },
+    {
+      "id": "ev007",
+      "start": 2.987,
+      "end": 4.054,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "some it.",
+      "words": [
+        {
+          "start": 2.987,
+          "end": 4.054,
+          "text": "some",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 3.254,
+          "end": 4.054,
+          "text": "it.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev008",
+      "start": 6.974,
+      "end": 8.654,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "That is so good.",
+      "words": [
+        {
+          "start": 6.974,
+          "end": 7.394,
+          "text": "That",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 7.394,
+          "end": 7.814,
+          "text": "is",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 7.814,
+          "end": 8.234,
+          "text": "so",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 8.234,
+          "end": 8.654,
+          "text": "good.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev009",
+      "start": 8.694,
+      "end": 9.784,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "Okay.",
+      "words": [
+        {
+          "start": 8.694,
+          "end": 9.784,
+          "text": "Okay.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev010",
+      "start": 8.694,
+      "end": 13.054,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "Do 'Do a a whoopsie.",
+      "words": [
+        {
+          "start": 8.694,
+          "end": 10.147,
+          "text": "Do",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 9.784,
+          "end": 10.874,
+          "text": "'Do",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 10.147,
+          "end": 11.601,
+          "text": "a",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 10.874,
+          "end": 11.964,
+          "text": "a",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 11.601,
+          "end": 13.054,
+          "text": "whoopsie.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev011",
+      "start": 11.964,
+      "end": 13.054,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "whoopsie.'",
+      "words": [
+        {
+          "start": 11.964,
+          "end": 13.054,
+          "text": "whoopsie.'",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev012",
+      "start": 14.454,
+      "end": 16.23,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "A dreadful word.",
+      "words": [
+        {
+          "start": 14.454,
+          "end": 15.046,
+          "text": "A",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 15.046,
+          "end": 15.638,
+          "text": "dreadful",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 15.638,
+          "end": 16.23,
+          "text": "word.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev013",
+      "start": 16.23,
+      "end": 17.414,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "'A whoopsie.'",
+      "words": [
+        {
+          "start": 16.23,
+          "end": 16.822,
+          "text": "'A",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 16.822,
+          "end": 17.414,
+          "text": "whoopsie.'",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev014",
+      "start": 18.094,
+      "end": 21.494,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "'Do Biggest a whoopsie whoopsie.",
+      "words": [
+        {
+          "start": 18.094,
+          "end": 19.227,
+          "text": "'Do",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 18.094,
+          "end": 19.227,
+          "text": "Biggest",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 19.227,
+          "end": 20.361,
+          "text": "a",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 19.227,
+          "end": 20.361,
+          "text": "whoopsie",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 20.361,
+          "end": 21.494,
+          "text": "whoopsie.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev015",
+      "start": 20.361,
+      "end": 23.174,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "wins.' 'You your have time",
+      "words": [
+        {
+          "start": 20.361,
+          "end": 21.494,
+          "text": "wins.'",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 21.574,
+          "end": 22.374,
+          "text": "'You",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 21.574,
+          "end": 22.374,
+          "text": "your",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 22.374,
+          "end": 23.174,
+          "text": "have",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 22.374,
+          "end": 23.174,
+          "text": "time",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev016",
+      "start": 23.174,
+      "end": 25.341,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "20 starts minutes, now.' Whoopsie.",
+      "words": [
+        {
+          "start": 23.174,
+          "end": 23.974,
+          "text": "20",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 23.174,
+          "end": 23.974,
+          "text": "starts",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 23.974,
+          "end": 24.774,
+          "text": "minutes,",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 23.974,
+          "end": 24.774,
+          "text": "now.'",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 24.854,
+          "end": 25.341,
+          "text": "Whoopsie.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev017",
+      "start": 25.341,
+      "end": 27.774,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "Oh, I've just done it.",
+      "words": [
+        {
+          "start": 25.341,
+          "end": 25.827,
+          "text": "Oh,",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 25.827,
+          "end": 26.314,
+          "text": "I've",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 26.314,
+          "end": 26.801,
+          "text": "just",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 26.801,
+          "end": 27.287,
+          "text": "done",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 27.287,
+          "end": 27.774,
+          "text": "it.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev018",
+      "start": 27.814,
+      "end": 28.942,
+      "speaker_id": "S1",
+      "speaker_name": "Alex Horne",
+      "text": "Do you're gonna you win",
+      "words": [
+        {
+          "start": 27.814,
+          "end": 28.441,
+          "text": "Do",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        },
+        {
+          "start": 27.814,
+          "end": 28.19,
+          "text": "you're",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        },
+        {
+          "start": 28.19,
+          "end": 28.566,
+          "text": "gonna",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        },
+        {
+          "start": 28.441,
+          "end": 29.067,
+          "text": "you",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        },
+        {
+          "start": 28.566,
+          "end": 28.942,
+          "text": "win",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        }
+      ]
+    },
+    {
+      "id": "ev019",
+      "start": 28.942,
+      "end": 29.694,
+      "speaker_id": "S1",
+      "speaker_name": "Alex Horne",
+      "text": "with think that?",
+      "words": [
+        {
+          "start": 28.942,
+          "end": 29.318,
+          "text": "with",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        },
+        {
+          "start": 29.067,
+          "end": 29.694,
+          "text": "think",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        },
+        {
+          "start": 29.318,
+          "end": 29.694,
+          "text": "that?",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        }
+      ]
+    },
+    {
+      "id": "ev020",
+      "start": 29.774,
+      "end": 31.784,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "Whoopsie what that is you're",
+      "words": [
+        {
+          "start": 29.774,
+          "end": 30.444,
+          "text": "Whoopsie",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 29.774,
+          "end": 30.444,
+          "text": "what",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 30.444,
+          "end": 31.114,
+          "text": "that",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 30.444,
+          "end": 31.114,
+          "text": "is",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 31.114,
+          "end": 31.784,
+          "text": "you're",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev021",
+      "start": 31.114,
+      "end": 32.454,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "a d...",
+      "words": [
+        {
+          "start": 31.114,
+          "end": 31.784,
+          "text": "a",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 31.784,
+          "end": 32.454,
+          "text": "d...",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev022",
+      "start": 31.784,
+      "end": 32.454,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "whoopsie?",
+      "words": [
+        {
+          "start": 31.784,
+          "end": 32.454,
+          "text": "whoopsie?",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev023",
+      "start": 32.534,
+      "end": 33.507,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "Oh, a",
+      "words": [
+        {
+          "start": 32.534,
+          "end": 33.264,
+          "text": "Oh,",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 32.534,
+          "end": 33.507,
+          "text": "a",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev024",
+      "start": 32.534,
+      "end": 33.994,
+      "speaker_id": "S1",
+      "speaker_name": "Alex Horne",
+      "text": "Oh",
+      "words": [
+        {
+          "start": 32.534,
+          "end": 33.994,
+          "text": "Oh",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        }
+      ]
+    },
+    {
+      "id": "ev025",
+      "start": 33.264,
+      "end": 34.724,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "it's large gotta",
+      "words": [
+        {
+          "start": 33.264,
+          "end": 33.994,
+          "text": "it's",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 33.507,
+          "end": 34.481,
+          "text": "large",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 33.994,
+          "end": 34.724,
+          "text": "gotta",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev026",
+      "start": 33.994,
+      "end": 35.454,
+      "speaker_id": "S1",
+      "speaker_name": "Alex Horne",
+      "text": "yeah.",
+      "words": [
+        {
+          "start": 33.994,
+          "end": 35.454,
+          "text": "yeah.",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        }
+      ]
+    },
+    {
+      "id": "ev027",
+      "start": 34.481,
+      "end": 35.454,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "whoopsie?",
+      "words": [
+        {
+          "start": 34.481,
+          "end": 35.454,
+          "text": "whoopsie?",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev028",
+      "start": 34.724,
+      "end": 37.374,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "be Oh I see, yeah.",
+      "words": [
+        {
+          "start": 34.724,
+          "end": 35.454,
+          "text": "be",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 35.534,
+          "end": 35.994,
+          "text": "Oh",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 35.994,
+          "end": 36.454,
+          "text": "I",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 36.454,
+          "end": 36.914,
+          "text": "see,",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 36.914,
+          "end": 37.374,
+          "text": "yeah.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev029",
+      "start": 39.014,
+      "end": 39.974,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "Whoopsie!",
+      "words": [
+        {
+          "start": 39.014,
+          "end": 39.974,
+          "text": "Whoopsie!",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev030",
+      "start": 39.974,
+      "end": 41.894,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "Like that.",
+      "words": [
+        {
+          "start": 39.974,
+          "end": 40.934,
+          "text": "Like",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 40.934,
+          "end": 41.894,
+          "text": "that.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev031",
+      "start": 42.414,
+      "end": 44.234,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "I that'd wouldn't mean be",
+      "words": [
+        {
+          "start": 42.414,
+          "end": 43.021,
+          "text": "I",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 42.414,
+          "end": 43.324,
+          "text": "that'd",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 42.414,
+          "end": 44.234,
+          "text": "wouldn't",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 43.021,
+          "end": 43.627,
+          "text": "mean",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 43.324,
+          "end": 44.234,
+          "text": "be",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev032",
+      "start": 43.627,
+      "end": 46.054,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "if that a it.",
+      "words": [
+        {
+          "start": 43.627,
+          "end": 44.234,
+          "text": "if",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 44.234,
+          "end": 44.841,
+          "text": "that",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 44.234,
+          "end": 45.144,
+          "text": "a",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 44.234,
+          "end": 46.054,
+          "text": "it.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev033",
+      "start": 44.841,
+      "end": 46.054,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "went nightmare down,",
+      "words": [
+        {
+          "start": 44.841,
+          "end": 45.447,
+          "text": "went",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 45.144,
+          "end": 46.054,
+          "text": "nightmare",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 45.447,
+          "end": 46.054,
+          "text": "down,",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev034",
+      "start": 46.134,
+      "end": 47.274,
+      "speaker_id": "S1",
+      "speaker_name": "Alex Horne",
+      "text": "Y...",
+      "words": [
+        {
+          "start": 46.134,
+          "end": 47.274,
+          "text": "Y...",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        }
+      ]
+    },
+    {
+      "id": "ev035",
+      "start": 46.134,
+      "end": 47.274,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "Do you have",
+      "words": [
+        {
+          "start": 46.134,
+          "end": 46.514,
+          "text": "Do",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 46.514,
+          "end": 46.894,
+          "text": "you",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 46.894,
+          "end": 47.274,
+          "text": "have",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev036",
+      "start": 47.274,
+      "end": 48.414,
+      "speaker_id": "S1",
+      "speaker_name": "Alex Horne",
+      "text": "yeah.",
+      "words": [
+        {
+          "start": 47.274,
+          "end": 48.414,
+          "text": "yeah.",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        }
+      ]
+    },
+    {
+      "id": "ev037",
+      "start": 47.274,
+      "end": 48.414,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "two of these?",
+      "words": [
+        {
+          "start": 47.274,
+          "end": 47.654,
+          "text": "two",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 47.654,
+          "end": 48.034,
+          "text": "of",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 48.034,
+          "end": 48.414,
+          "text": "these?",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev038",
+      "start": 48.494,
+      "end": 49.614,
+      "speaker_id": "S1",
+      "speaker_name": "Alex Horne",
+      "text": "No, a",
+      "words": [
+        {
+          "start": 48.494,
+          "end": 49.334,
+          "text": "No,",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        },
+        {
+          "start": 48.494,
+          "end": 49.614,
+          "text": "a",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        }
+      ]
+    },
+    {
+      "id": "ev039",
+      "start": 48.494,
+      "end": 51.854,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "No.",
+      "words": [
+        {
+          "start": 48.494,
+          "end": 51.854,
+          "text": "No.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev040",
+      "start": 49.334,
+      "end": 51.854,
+      "speaker_id": "S1",
+      "speaker_name": "Alex Horne",
+      "text": "we spare don't temple.",
+      "words": [
+        {
+          "start": 49.334,
+          "end": 50.174,
+          "text": "we",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        },
+        {
+          "start": 49.614,
+          "end": 50.734,
+          "text": "spare",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        },
+        {
+          "start": 50.174,
+          "end": 51.014,
+          "text": "don't",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        },
+        {
+          "start": 50.734,
+          "end": 51.854,
+          "text": "temple.",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        }
+      ]
+    },
+    {
+      "id": "ev041",
+      "start": 51.014,
+      "end": 51.854,
+      "speaker_id": "S1",
+      "speaker_name": "Alex Horne",
+      "text": "have",
+      "words": [
+        {
+          "start": 51.014,
+          "end": 51.854,
+          "text": "have",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        }
+      ]
+    },
+    {
+      "id": "ev042",
+      "start": 54.334,
+      "end": 55.47,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "That I'll to go was",
+      "words": [
+        {
+          "start": 54.334,
+          "end": 54.902,
+          "text": "That",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 54.334,
+          "end": 54.807,
+          "text": "I'll",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 54.334,
+          "end": 55.281,
+          "text": "to",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 54.807,
+          "end": 55.281,
+          "text": "go",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 54.902,
+          "end": 55.47,
+          "text": "was",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev043",
+      "start": 55.281,
+      "end": 56.606,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "and see quite have bad",
+      "words": [
+        {
+          "start": 55.281,
+          "end": 55.754,
+          "text": "and",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 55.281,
+          "end": 56.227,
+          "text": "see",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 55.47,
+          "end": 56.038,
+          "text": "quite",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 55.754,
+          "end": 56.227,
+          "text": "have",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 56.038,
+          "end": 56.606,
+          "text": "bad",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev044",
+      "start": 56.227,
+      "end": 57.174,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "a what's...",
+      "words": [
+        {
+          "start": 56.227,
+          "end": 56.701,
+          "text": "a",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 56.227,
+          "end": 57.174,
+          "text": "what's...",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev045",
+      "start": 56.606,
+      "end": 57.174,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "actually.",
+      "words": [
+        {
+          "start": 56.606,
+          "end": 57.174,
+          "text": "actually.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev046",
+      "start": 56.701,
+      "end": 57.894,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "look I'll for",
+      "words": [
+        {
+          "start": 56.701,
+          "end": 57.174,
+          "text": "look",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 57.254,
+          "end": 57.894,
+          "text": "I'll",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 57.254,
+          "end": 57.894,
+          "text": "for",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev047",
+      "start": 57.254,
+      "end": 60.454,
+      "speaker_id": "S1",
+      "speaker_name": "Alex Horne",
+      "text": "Okay.",
+      "words": [
+        {
+          "start": 57.254,
+          "end": 60.454,
+          "text": "Okay.",
+          "speaker_id": "S1",
+          "speaker_name": "Alex Horne"
+        }
+      ]
+    },
+    {
+      "id": "ev048",
+      "start": 57.894,
+      "end": 59.174,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "be the taking whoopsie.",
+      "words": [
+        {
+          "start": 57.894,
+          "end": 58.534,
+          "text": "be",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 57.894,
+          "end": 58.534,
+          "text": "the",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 58.534,
+          "end": 59.174,
+          "text": "taking",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 58.534,
+          "end": 59.174,
+          "text": "whoopsie.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev049",
+      "start": 59.174,
+      "end": 60.454,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "all Come these on.",
+      "words": [
+        {
+          "start": 59.174,
+          "end": 59.814,
+          "text": "all",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 59.174,
+          "end": 59.814,
+          "text": "Come",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 59.814,
+          "end": 60.454,
+          "text": "these",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 59.814,
+          "end": 60.454,
+          "text": "on.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev050",
+      "start": 60.534,
+      "end": 62.934,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "The That most expensive one.",
+      "words": [
+        {
+          "start": 60.534,
+          "end": 61.014,
+          "text": "The",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 60.534,
+          "end": 61.734,
+          "text": "That",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 61.014,
+          "end": 61.494,
+          "text": "most",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 61.494,
+          "end": 61.974,
+          "text": "expensive",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 61.734,
+          "end": 62.934,
+          "text": "one.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev051",
+      "start": 61.974,
+      "end": 62.934,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "looking one.",
+      "words": [
+        {
+          "start": 61.974,
+          "end": 62.454,
+          "text": "looking",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 62.454,
+          "end": 62.934,
+          "text": "one.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev052",
+      "start": 63.014,
+      "end": 66.734,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "But say Whoopsie!",
+      "words": [
+        {
+          "start": 63.014,
+          "end": 64.254,
+          "text": "But",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 63.014,
+          "end": 63.634,
+          "text": "say",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 63.014,
+          "end": 66.734,
+          "text": "Whoopsie!",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev053",
+      "start": 63.634,
+      "end": 66.734,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "it you've like that gotta",
+      "words": [
+        {
+          "start": 63.634,
+          "end": 64.254,
+          "text": "it",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 64.254,
+          "end": 65.494,
+          "text": "you've",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 64.254,
+          "end": 64.874,
+          "text": "like",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 64.874,
+          "end": 65.494,
+          "text": "that",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 65.494,
+          "end": 66.734,
+          "text": "gotta",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    },
+    {
+      "id": "ev054",
+      "start": 65.494,
+      "end": 66.734,
+      "speaker_id": "S2",
+      "speaker_name": "Matt Lucas",
+      "text": "I think.",
+      "words": [
+        {
+          "start": 65.494,
+          "end": 66.114,
+          "text": "I",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        },
+        {
+          "start": 66.114,
+          "end": 66.734,
+          "text": "think.",
+          "speaker_id": "S2",
+          "speaker_name": "Matt Lucas"
+        }
+      ]
+    }
+  ],
+  "qa": {
+    "total_events": 54,
+    "total_words": 150,
+    "speakers_detected": 2,
+    "needs_editor_review": false
+  }
+}

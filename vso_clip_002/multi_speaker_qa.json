@@ -1,0 +1,13 @@
+{
+  "status": "PASS_MULTI_SPEAKER_CAPTIONS_v1.1",
+  "output_file": "C:\\Users\\ADMIN\\Downloads\\Podcast_Forge_v1.1_OPUS_EXPERT\\vso_clip_002\\final_multi_speaker.mp4",
+  "duration_sec": 111.2,
+  "audio_stream_copied": true,
+  "resolution": "1080x1920",
+  "qa_checks": {
+    "native_audio_preserved": true,
+    "duration_matched": true,
+    "no_tts_used": true,
+    "multi_speaker_styling": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": "podcast-v1",
+  "media_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "language": "en",
+  "timestamp_source": "PROVIDER_ALIGNED_WORDS",
+  "words": [
+    {"start":0.10,"end":0.36,"text":"That's","speaker":"host","confidence":0.98},
+    {"start":0.38,"end":0.61,"text":"exactly","speaker":"host","confidence":0.98},
+    {"start":0.63,"end":0.90,"text":"why.","speaker":"host","confidence":0.99}
+  ]
+}

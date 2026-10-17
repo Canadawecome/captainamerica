@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.2-podcast",
+  "clip_file": "clip.mp4",
+  "clip_sha256": "8c4e2a07e7f60cafc285ac22ea0e1da0679dae689d049dccb8f93923931932a4",
+  "source_audio_policy": "PRESERVE_FINAL_NATIVE_AUDIO",
+  "rights_verified": true,
+  "gpt_postcut_status": "APPROVED",
+  "timeline_locked": true,
+  "timeline_revision": "sha256:8c4e2a07e7f60cafc285ac22ea0e1da0679dae689d049dccb8f93923931932a4",
+  "duration_sec_ffprobe": 90.066667,
+  "distinct_speakers": 1
+}

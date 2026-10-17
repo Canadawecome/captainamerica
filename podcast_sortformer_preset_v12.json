@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.2-podcast-sortformer-preset",
+  "product": "PODCAST_FORGE_NATIVE_ENGLISH",
+  "caption_mode": "SMART_HYBRID",
+  "language": "en",
+  "audio_policy": "PRESERVE_FINAL_NATIVE_AUDIO",
+  "voiceover": {"tts_enabled": false, "elevenlabs_enabled": false, "replace_original_dialogue": false},
+  "selection": {"require_gpt_precut_plan": true, "require_gpt_postcut_approval": true, "lock_final_timeline_before_asr": true, "rights_verified": false},
+  "duration_policy": {"monetization_gt_65s": false, "strict_threshold_sec": 65.0, "source": "ffprobe_actual_media"},
+  "transcription": {"provider": "whisperx", "forced_word_alignment": true, "source": "LOCKED_FINAL_NATIVE_AUDIO", "preserve_approved_words": true, "overlap_transcript_policy": "HOLD_IF_INCOMPLETE"},
+  "diarization": {
+    "primary_provider": "nemo_sortformer",
+    "model_id": "nvidia/diar_sortformer_4spk-v1",
+    "model_revision": "PIN_EXACT_COMMIT_BEFORE_USE",
+    "mode": "offline",
+    "max_distinct_speakers": 4,
+    "chunk_strategy": "whole_clip_preferred",
+    "chunk_overlap_seconds_if_needed": 3,
+    "preserve_overlaps": true,
+    "speaker_id_scope": "per_locked_clip_after_reconciliation",
+    "unknown_policy": "REVIEW",
+    "more_than_4_policy": "BLOCK_OR_EXPLICIT_APPROVED_FALLBACK",
+    "fallback_provider": null
+  },
+  "licensing": {
+    "commercial_mode": true,
+    "approved_model_weights": [],
+    "verified_license_evidence": {},
+    "block_before_model_download_or_inference": true,
+    "note": "This default is BLOCKED_LICENSE for NeMo offline weights until proper commercial rights or approved alternate model is configured."
+  },
+  "active_speaker": {"provider": "lr_asd", "fallback_provider": "talknet", "enabled_when_available": true, "require_mouth_speech_sync_or_manual_verification": true, "never_attach_offscreen_voice": true},
+  "speaker_mapping": {"minimum_av_match_confidence": 0.85, "minimum_visual_track_quality": 0.8, "minimum_visible_fraction": 0.75, "max_unsafe_track_gap_ms": 250, "fallback_style": "SPEAKER_COLOR"},
+  "layout": {"font_family": "Inter Bold", "font_px_at_1080x1920": 56, "canvas": [1080, 1920], "fixed_anchor_y": 0.78, "anchor_y_range": [0.74, 0.82], "max_lines": 2, "min_words_per_chunk": 1, "max_words_per_chunk": 5, "max_chars_per_line_target": 34, "minimum_style_dwell_s": 1.2, "hysteresis_delta": 0.12, "transition_ms": 140, "avoid_face_and_mouth": true, "avoid_tiktok_ui": true},
+  "speakers": {"colors": ["#63E6BE", "#74C0FC", "#FFD67A", "#D0BFFF"], "default_labels": ["Speaker 1", "Speaker 2", "Speaker 3", "Speaker 4"], "verified_roles_only": true},
+  "export": {"burn_in_mp4": true, "ass": true, "srt": true, "vtt": true, "canonical_json": true, "qa_report": true, "preserve_original_audio": true},
+  "qa": {"fail_on_unlogged_missing_words": true, "fail_on_unresolved_overlap_transcript": true, "fail_on_unsupported_speaker_count": true, "fail_on_timeline_revision_mismatch": true, "never_attach_caption_to_unverified_face": true, "report_audio_integrity": true}
+}

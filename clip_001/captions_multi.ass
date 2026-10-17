@@ -1,0 +1,66 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: S1,Inter Bold,56,&H00BEE663,&H00000000,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,3.5,1.0,5,20,20,0,1
+Style: S2,Inter Bold,56,&H00FCC074,&H00000000,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,3.5,1.0,5,20,20,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.81,S2,,0,0,0,,{\pos(540,1498)}I...
+Dialogue: 0,0:00:00.00,0:00:00.81,S1,,0,0,0,,{\pos(540,1498)}What's wrong?
+Dialogue: 0,0:00:00.85,0:00:01.65,S2,,0,0,0,,{\pos(540,1498)}It's like
+Dialogue: 0,0:00:00.85,0:00:02.45,S1,,0,0,0,,{\pos(540,1498)}Oh
+Dialogue: 0,0:00:01.65,0:00:03.25,S2,,0,0,0,,{\pos(540,1498)}Nutella got on
+Dialogue: 0,0:00:02.45,0:00:04.05,S1,,0,0,0,,{\pos(540,1498)}whoopsie.
+Dialogue: 0,0:00:02.99,0:00:04.05,S2,,0,0,0,,{\pos(540,1498)}some it.
+Dialogue: 0,0:00:06.97,0:00:08.65,S2,,0,0,0,,{\pos(540,1498)}That is so good.
+Dialogue: 0,0:00:08.69,0:00:09.78,S2,,0,0,0,,{\pos(540,1498)}Okay.
+Dialogue: 0,0:00:08.69,0:00:13.05,S2,,0,0,0,,{\pos(540,1498)}Do 'Do a a whoopsie.
+Dialogue: 0,0:00:11.96,0:00:13.05,S2,,0,0,0,,{\pos(540,1498)}whoopsie.'
+Dialogue: 0,0:00:14.45,0:00:16.23,S2,,0,0,0,,{\pos(540,1498)}A dreadful word.
+Dialogue: 0,0:00:16.23,0:00:17.41,S2,,0,0,0,,{\pos(540,1498)}'A whoopsie.'
+Dialogue: 0,0:00:18.09,0:00:21.49,S2,,0,0,0,,{\pos(540,1498)}'Do Biggest a whoopsie whoopsie.
+Dialogue: 0,0:00:20.36,0:00:23.17,S2,,0,0,0,,{\pos(540,1498)}wins.' 'You your have time
+Dialogue: 0,0:00:23.17,0:00:25.34,S2,,0,0,0,,{\pos(540,1498)}20 starts minutes, now.' Whoopsie.
+Dialogue: 0,0:00:25.34,0:00:27.77,S2,,0,0,0,,{\pos(540,1498)}Oh, I've just done it.
+Dialogue: 0,0:00:27.81,0:00:28.94,S1,,0,0,0,,{\pos(540,1498)}Do you're gonna you win
+Dialogue: 0,0:00:28.94,0:00:29.69,S1,,0,0,0,,{\pos(540,1498)}with think that?
+Dialogue: 0,0:00:29.77,0:00:31.78,S2,,0,0,0,,{\pos(540,1498)}Whoopsie what that is you're
+Dialogue: 0,0:00:31.11,0:00:32.45,S2,,0,0,0,,{\pos(540,1498)}a d...
+Dialogue: 0,0:00:31.78,0:00:32.45,S2,,0,0,0,,{\pos(540,1498)}whoopsie?
+Dialogue: 0,0:00:32.53,0:00:33.51,S2,,0,0,0,,{\pos(540,1498)}Oh, a
+Dialogue: 0,0:00:32.53,0:00:33.99,S1,,0,0,0,,{\pos(540,1498)}Oh
+Dialogue: 0,0:00:33.26,0:00:34.72,S2,,0,0,0,,{\pos(540,1498)}it's large gotta
+Dialogue: 0,0:00:33.99,0:00:35.45,S1,,0,0,0,,{\pos(540,1498)}yeah.
+Dialogue: 0,0:00:34.48,0:00:35.45,S2,,0,0,0,,{\pos(540,1498)}whoopsie?
+Dialogue: 0,0:00:34.72,0:00:37.37,S2,,0,0,0,,{\pos(540,1498)}be Oh I see, yeah.
+Dialogue: 0,0:00:39.01,0:00:39.97,S2,,0,0,0,,{\pos(540,1498)}Whoopsie!
+Dialogue: 0,0:00:39.97,0:00:41.89,S2,,0,0,0,,{\pos(540,1498)}Like that.
+Dialogue: 0,0:00:42.41,0:00:44.23,S2,,0,0,0,,{\pos(540,1498)}I that'd wouldn't mean be
+Dialogue: 0,0:00:43.63,0:00:46.05,S2,,0,0,0,,{\pos(540,1498)}if that a it.
+Dialogue: 0,0:00:44.84,0:00:46.05,S2,,0,0,0,,{\pos(540,1498)}went nightmare down,
+Dialogue: 0,0:00:46.13,0:00:47.27,S1,,0,0,0,,{\pos(540,1498)}Y...
+Dialogue: 0,0:00:46.13,0:00:47.27,S2,,0,0,0,,{\pos(540,1498)}Do you have
+Dialogue: 0,0:00:47.27,0:00:48.41,S1,,0,0,0,,{\pos(540,1498)}yeah.
+Dialogue: 0,0:00:47.27,0:00:48.41,S2,,0,0,0,,{\pos(540,1498)}two of these?
+Dialogue: 0,0:00:48.49,0:00:49.61,S1,,0,0,0,,{\pos(540,1498)}No, a
+Dialogue: 0,0:00:48.49,0:00:51.85,S2,,0,0,0,,{\pos(540,1498)}No.
+Dialogue: 0,0:00:49.33,0:00:51.85,S1,,0,0,0,,{\pos(540,1498)}we spare don't temple.
+Dialogue: 0,0:00:51.01,0:00:51.85,S1,,0,0,0,,{\pos(540,1498)}have
+Dialogue: 0,0:00:54.33,0:00:55.47,S2,,0,0,0,,{\pos(540,1498)}That I'll to go was
+Dialogue: 0,0:00:55.28,0:00:56.61,S2,,0,0,0,,{\pos(540,1498)}and see quite have bad
+Dialogue: 0,0:00:56.23,0:00:57.17,S2,,0,0,0,,{\pos(540,1498)}a what's...
+Dialogue: 0,0:00:56.61,0:00:57.17,S2,,0,0,0,,{\pos(540,1498)}actually.
+Dialogue: 0,0:00:56.70,0:00:57.89,S2,,0,0,0,,{\pos(540,1498)}look I'll for
+Dialogue: 0,0:00:57.25,0:01:00.45,S1,,0,0,0,,{\pos(540,1498)}Okay.
+Dialogue: 0,0:00:57.89,0:00:59.17,S2,,0,0,0,,{\pos(540,1498)}be the taking whoopsie.
+Dialogue: 0,0:00:59.17,0:01:00.45,S2,,0,0,0,,{\pos(540,1498)}all Come these on.
+Dialogue: 0,0:01:00.53,0:01:02.93,S2,,0,0,0,,{\pos(540,1498)}The That most expensive one.
+Dialogue: 0,0:01:01.97,0:01:02.93,S2,,0,0,0,,{\pos(540,1498)}looking one.
+Dialogue: 0,0:01:03.01,0:01:06.73,S2,,0,0,0,,{\pos(540,1498)}But say Whoopsie!
+Dialogue: 0,0:01:03.63,0:01:06.73,S2,,0,0,0,,{\pos(540,1498)}it you've like that gotta
+Dialogue: 0,0:01:05.49,0:01:06.73,S2,,0,0,0,,{\pos(540,1498)}I think.

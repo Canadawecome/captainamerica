@@ -1,0 +1,12 @@
+{
+  "schema_version": "podcast-v1",
+  "status": "APPROVED",
+  "score": 89.55,
+  "blockers": [],
+  "clip_sha256": "008f5ac79df5f6ddf6bd4115c97ecfca9c4da73e65b95e42eb8c23af737fdf27",
+  "transcript_sha256": "4b90ce67a76f7fa9476a47ae7e8706295849b51023bef305241be924ac80c9b0",
+  "review_sha256": "51f78ee5986add88b68c5eccae0418378c57c992fdd612221fdfe8ac3dba2fc6",
+  "plan_sha256": "74825e17388b2dc3a2cf501ffd34a6db10cb7da7b1d754298231a20360896074",
+  "mapping_sha256": "6275e551e3f3f35925a6f123d6fa08d443f71aca2a439cde943e580708c3c079",
+  "source_transcript_sha256": "355be15caa60c6409f61735101ef47d955e689ce3740a3417c75c0a9a1f834b0"
+}

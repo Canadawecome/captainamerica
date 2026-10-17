@@ -1,0 +1,77 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TrackBox,Arial Black,64,&H00FFFFFF&,&H00000000,&H00000000,&H00000000,1,1,0,0,100,100,0,0,3,13,0,2,20,20,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.40,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}I SHOW UP
+Dialogue: 0,0:00:00.40,0:00:01.04,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}ON SCENE AND
+Dialogue: 0,0:00:01.04,0:00:01.60,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}THEN YOU DRIVE
+Dialogue: 0,0:00:01.60,0:00:02.80,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}AWAY AND YOU'RE
+Dialogue: 0,0:00:02.80,0:00:03.20,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}IN THE
+Dialogue: 0,0:00:03.20,0:00:03.84,TrackBox,,0,0,0,,{\pos(355,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}I CUZ CUZ
+Dialogue: 0,0:00:03.84,0:00:04.32,TrackBox,,0,0,0,,{\pos(356,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}I HAD MY
+Dialogue: 0,0:00:04.32,0:00:05.12,TrackBox,,0,0,0,,{\pos(356,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}I HAD MY
+Dialogue: 0,0:00:05.12,0:00:05.40,TrackBox,,0,0,0,,{\pos(358,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}LIGHT
+Dialogue: 0,0:00:05.36,0:00:05.76,TrackBox,,0,0,0,,{\pos(358,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}I WAS GOING
+Dialogue: 0,0:00:05.76,0:00:06.08,TrackBox,,0,0,0,,{\pos(359,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}TO MAKE IT
+Dialogue: 0,0:00:06.08,0:00:06.36,TrackBox,,0,0,0,,{\pos(359,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}RIGHT
+Dialogue: 0,0:00:06.32,0:00:06.60,TrackBox,,0,0,0,,{\pos(360,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}I WAS GOING
+Dialogue: 0,0:00:06.56,0:00:07.20,TrackBox,,0,0,0,,{\pos(360,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}TO SPIN AROUND
+Dialogue: 0,0:00:07.20,0:00:08.08,TrackBox,,0,0,0,,{\pos(361,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}ONE MORE TIME
+Dialogue: 0,0:00:08.08,0:00:08.56,TrackBox,,0,0,0,,{\pos(362,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}THAT'S WHY I
+Dialogue: 0,0:00:08.56,0:00:09.12,TrackBox,,0,0,0,,{\pos(363,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}AIN'T CUZ I
+Dialogue: 0,0:00:09.12,0:00:09.44,TrackBox,,0,0,0,,{\pos(364,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}DIDN'T WANT TO
+Dialogue: 0,0:00:09.44,0:00:09.92,TrackBox,,0,0,0,,{\pos(365,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}GET IN TROUBLE
+Dialogue: 0,0:00:09.92,0:00:10.32,TrackBox,,0,0,0,,{\pos(365,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}CUZ I SEEN
+Dialogue: 0,0:00:10.32,0:00:10.64,TrackBox,,0,0,0,,{\pos(366,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}YOU RIGHT THERE
+Dialogue: 0,0:00:10.64,0:00:10.96,TrackBox,,0,0,0,,{\pos(367,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}I AIN'T WANT
+Dialogue: 0,0:00:10.96,0:00:14.68,TrackBox,,0,0,0,,{\pos(367,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}TO GET TROUBLE
+Dialogue: 0,0:00:16.24,0:00:16.72,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}DID YOU DID
+Dialogue: 0,0:00:16.72,0:00:17.12,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}YOU CALL HIM
+Dialogue: 0,0:00:17.12,0:00:17.76,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}YET
+Dialogue: 0,0:00:17.76,0:00:21.32,TrackBox,,0,0,0,,{\pos(378,1100)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}CALLING A LOT
+Dialogue: 0,0:00:25.36,0:00:28.76,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}PUT ON SPEAKER
+Dialogue: 0,0:00:48.16,0:00:48.72,TrackBox,,0,0,0,,{\pos(363,1120)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}YEAH
+Dialogue: 0,0:00:48.72,0:00:49.52,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}MALE SAYING THAT
+Dialogue: 0,0:00:49.52,0:00:50.16,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}THERE'S TWO OTHER
+Dialogue: 0,0:00:50.16,0:00:51.04,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}MALES
+Dialogue: 0,0:00:51.04,0:00:52.00,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}YOUNGER
+Dialogue: 0,0:00:52.00,0:00:52.56,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}YOUNGER
+Dialogue: 0,0:00:52.56,0:00:55.56,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}YEAH
+Dialogue: 0,0:00:58.64,0:00:58.92,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}ALL RIGHT
+Dialogue: 0,0:00:58.88,0:00:59.20,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}YOU ON THE
+Dialogue: 0,0:00:59.20,0:01:01.84,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}PHONE
+Dialogue: 0,0:01:01.84,0:01:03.84,TrackBox,,0,0,0,,{\pos(381,1120)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}HELLO
+Dialogue: 0,0:01:03.84,0:01:04.16,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}GIVE ME A
+Dialogue: 0,0:01:04.16,0:01:04.64,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}SEC
+Dialogue: 0,0:01:04.64,0:01:05.76,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}WHAT'S YOUR NAME
+Dialogue: 0,0:01:05.76,0:01:06.80,TrackBox,,0,0,0,,{\pos(385,1120)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}THIS IS ZAY
+Dialogue: 0,0:01:06.80,0:01:07.20,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}HIS NAME IS
+Dialogue: 0,0:01:07.20,0:01:07.52,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}ZAY
+Dialogue: 0,0:01:07.52,0:01:08.08,TrackBox,,0,0,0,,{\pos(388,1120)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}YEAH THAT'S THE
+Dialogue: 0,0:01:08.08,0:01:08.48,TrackBox,,0,0,0,,{\pos(388,1120)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}ONE THAT'S WITH
+Dialogue: 0,0:01:08.48,0:01:08.96,TrackBox,,0,0,0,,{\pos(389,1120)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}YOU
+Dialogue: 0,0:01:08.96,0:01:10.04,TrackBox,,0,0,0,,{\pos(389,1120)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}YEAH
+Dialogue: 0,0:01:10.04,0:01:11.04,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}OKAY
+Dialogue: 0,0:01:11.04,0:01:12.64,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}Z
+Dialogue: 0,0:01:12.64,0:01:13.84,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}YEAH
+Dialogue: 0,0:01:13.84,0:01:14.40,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}HEY BUD
+Dialogue: 0,0:01:14.40,0:01:14.96,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}WHERE WHERE YOU
+Dialogue: 0,0:01:14.96,0:01:16.48,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}AT
+Dialogue: 0,0:01:16.48,0:01:17.36,TrackBox,,0,0,0,,{\pos(399,1120)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}HE IN ORLANDO
+Dialogue: 0,0:01:17.36,0:01:17.92,TrackBox,,0,0,0,,{\pos(400,1120)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}WITH US
+Dialogue: 0,0:01:17.92,0:01:18.48,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}HUH
+Dialogue: 0,0:01:18.48,0:01:19.36,TrackBox,,0,0,0,,{\pos(401,1120)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}HE IN ORLANDO
+Dialogue: 0,0:01:19.36,0:01:21.36,TrackBox,,0,0,0,,{\pos(402,1120)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}WITH US
+Dialogue: 0,0:01:21.36,0:01:21.68,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}DO YOU KNOW
+Dialogue: 0,0:01:21.68,0:01:22.08,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}WHERE YOU'RE AT
+Dialogue: 0,0:01:22.08,0:01:22.64,TrackBox,,0,0,0,,{\pos(540,1440)}{\fs38\c&H002222FF&}COP:\N{\fs64\c&H00FFFFFF&}RIGHT NOW
+Dialogue: 0,0:01:22.64,0:01:24.88,TrackBox,,0,0,0,,{\pos(407,1120)}{\fs38\c&H0033FF33&}SUSPECT:\N{\fs64\c&H00FFFFFF&}THIS ORLANDO RIGHT

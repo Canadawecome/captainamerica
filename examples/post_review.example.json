@@ -1,0 +1,21 @@
+{
+  "schema_version": "podcast-v1",
+  "candidate_id": "p001",
+  "clip_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "transcript_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "scores": {
+    "hook": 90, "meaning": 94, "audio_emotion": 88,
+    "framing": 90, "pacing": 92, "caption_readiness": 96
+  },
+  "complete_thought": true,
+  "meaning_not_distorted": true,
+  "begins_at_natural_boundary": true,
+  "ends_at_natural_boundary": true,
+  "clear_english_dialogue": false,
+  "speaker_framing_ok": true,
+  "rights_verified": false,
+  "source_mapping_verified": false,
+  "review_confidence": 0.89,
+  "evidence_note": "NEEDS HUMAN review of exact exported podcast, audio, rights and source mapping",
+  "recut_instruction": null
+}

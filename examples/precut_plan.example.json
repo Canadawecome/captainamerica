@@ -1,0 +1,17 @@
+{
+  "schema_version": "podcast-v1",
+  "source_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "transcript_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "rights_verified": false,
+  "candidates": [
+    {
+      "id": "p001", "start": 202.0, "end": 290.0,
+      "hook_quote": "REPLACE WITH EXACT ORIGINAL QUOTE",
+      "payoff_quote": "REPLACE WITH EXACT CLOSING QUOTE",
+      "transcript_evidence": "REPLACE WITH VERIFIED SOURCE TRANSCRIPT WORDS",
+      "why_compelling": "One coherent opinion with a clear and contextual takeaway",
+      "predicted_potential_score": 92,
+      "confidence": 0.87
+    }
+  ]
+}
