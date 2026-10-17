@@ -1,5 +1,13 @@
 # Changelog — Podcast Forge Multi-Speaker Captions 1.1 → 1.2
 
+## [1.2.1] - 2026-10-17: Podcast Named Speaker Engine & Box Tracking
+- Added `podcast_named_speaker_engine.py`: AI-powered real speaker name extraction using model `gpt-5.6-sol`. Automatically identifies the real names of Host and Guest(s), generates uppercase short tags (`ROGAN:`, `ELON:`), and assigns distinct neon branding colors.
+- Added multi-layout character tracking for Podcasts:
+  - `SPLIT_STACK`: Top quadrant (Host) vs Bottom quadrant (Guest)
+  - `WIDE_STUDIO`: Left (Host) vs Right (Guest)
+  - `ACTIVE_SPEAKER`: Centered safe-zone
+- Added comprehensive unit tests in `tests/test_podcast_named_speakers.py` (44/44 tests passed).
+
 - `pyannote_community_1` removed as automatic primary. NVIDIA NeMo Sortformer offline `nvidia/diar_sortformer_4spk-v1` is the preferred speaker-diarization provider **only after model weights license approval**.
 - WhisperX remains the sole ASR/word alignment provider; Sortformer output is multi-label speaker activity and must retain overlapping intervals.
 - Added explicit 4 distinct-speaker capacity check, conservative UNKNOWN behavior, optional approved alternative for >4 or restricted weights.
